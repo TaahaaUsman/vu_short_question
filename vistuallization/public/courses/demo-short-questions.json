@@ -1,0 +1,104 @@
+{
+  "courseCode": "ACC311",
+  "sourceHtml": "short-questions/script/input/demo.html",
+  "generatedAt": "2026-04-03T22:02:31.753Z",
+  "model": "mock",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "lessonId": "ls-01",
+      "title": "FUNDAMENTALS OF AUDITING AN INTRODUCTION",
+      "shortQuestions": [
+        {
+          "id": "l01-q01",
+          "question": "[Mock] Define or explain one core idea from \"FUNDAMENTALS OF AUDITING AN INTRODUCTION…\" using only the lesson text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Replace this mock by running `npm run generate` with a valid OpenAI quota. Answers use **answerBlocks**: paragraph, bulletList, orderedList, table."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Point one (mock)",
+                "Point two (mock)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 2,
+      "lessonId": "ls-02",
+      "title": "Fundamentals of Auditing Auditing – An Introduction",
+      "shortQuestions": [
+        {
+          "id": "l02-q01",
+          "question": "[Mock] Define or explain one core idea from \"Fundamentals of Auditing Auditing – An Introduction…\" using only the lesson text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Replace this mock by running `npm run generate` with a valid OpenAI quota. Answers use **answerBlocks**: paragraph, bulletList, orderedList, table."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Point one (mock)",
+                "Point two (mock)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 3,
+      "lessonId": "ls-03",
+      "title": "FUNDAMENTALS OF AUDITING AUDITING – AN INTRODUCTION",
+      "shortQuestions": [
+        {
+          "id": "l03-q01",
+          "question": "[Mock] Define or explain one core idea from \"FUNDAMENTALS OF AUDITING AUDITING – AN INTRODUCTION…\" using only the lesson text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Replace this mock by running `npm run generate` with a valid OpenAI quota. Answers use **answerBlocks**: paragraph, bulletList, orderedList, table."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Point one (mock)",
+                "Point two (mock)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 4,
+      "lessonId": "ls-04",
+      "title": "OBJECTIVE AND GENERAL PRINCIPLES GOVERNING AN AUDIT OF FINANCIAL STATEMENTS",
+      "shortQuestions": [
+        {
+          "id": "l04-q01",
+          "question": "[Mock] Define or explain one core idea from \"OBJECTIVE AND GENERAL PRINCIPLES GOVERNING AN AUDIT OF FINAN…\" using only the lesson text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Replace this mock by running `npm run generate` with a valid OpenAI quota. Answers use **answerBlocks**: paragraph, bulletList, orderedList, table."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Point one (mock)",
+                "Point two (mock)"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

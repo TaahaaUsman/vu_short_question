@@ -6,6 +6,7 @@
   "scripts": {
     "parse": "node scripts/parseOnly.mjs",
     "generate": "node scripts/generate.mjs",
+    "generate:sync": "node scripts/generate.mjs --sync",
     "generate:mock": "node scripts/generate.mjs --mock",
     "generate:one": "node scripts/generate.mjs --lesson=1"
   },

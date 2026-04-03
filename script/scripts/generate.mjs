@@ -1,16 +1,12 @@
 #!/usr/bin/env node
 /**
- * Generate short questions + structured answers per lesson via OpenAI.
- * Loads API key from repo root .env (OPENAI_API_KEY).
+ * Generate short questions from HTML in input/ → output/{name}-short-questions.json
  *
- * Usage:
- *   npm run generate
- *   node scripts/generate.mjs --lesson=2
- *   node scripts/generate.mjs --dry-run
+ * - Put one or more .html files in script/input/
+ * - Or pass a specific file: node scripts/generate.mjs path/to/file.html
+ * - --sync copies each JSON to short-questions/vistuallization/public/courses/ and updates index.json
  *
- * API mode (env):
- *   Default: Responses API (POST /v1/responses) — matches `gpt-4.1-mini` usage in PowerShell.
- *   OPENAI_API_MODE=chat — use Chat Completions instead (older path; may hit different quota).
+ * Env: OPENAI_API_KEY, OPENAI_MODEL, OPENAI_API_MODE=chat, COURSE_CODE, COURSE_TITLE
  */
 import dotenv from 'dotenv';
 import fs from 'fs';
@@ -18,19 +14,29 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import OpenAI from 'openai';
 import { parseLessonsFromHtml } from '../lib/parseLessons.mjs';
+import { listHtmlFiles, syncToViz, workspaceRoot } from '../lib/syncViz.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const repoRoot = path.join(__dirname, '..', '..');
+const scriptRoot = path.join(__dirname, '..');
+const repoRoot = workspaceRoot();
 dotenv.config({ path: path.join(repoRoot, '.env'), quiet: true });
 
-const defaultHtml = path.join(repoRoot, 'newHtml', 'demo.html');
-const outDir = path.join(__dirname, '..', 'output');
-const outFile = path.join(outDir, 'acc311-demo-short-questions.json');
+const inputDir = path.join(scriptRoot, 'input');
+const outDir = path.join(scriptRoot, 'output');
 
 function argLesson() {
   const a = process.argv.find((x) => x.startsWith('--lesson='));
   if (!a) return null;
   return parseInt(a.split('=')[1], 10);
+}
+
+function resolveHtmlFiles() {
+  const explicit = process.argv.find(
+    (x) => !x.startsWith('--') && x.toLowerCase().endsWith('.html')
+  );
+  if (explicit) return [path.resolve(process.cwd(), explicit)];
+  const fromInput = listHtmlFiles(inputDir);
+  return fromInput;
 }
 
 function estimatedQuestionCount(charLen) {
@@ -147,40 +153,44 @@ function mockLessonJson(lesson) {
   };
 }
 
-async function main() {
-  const dry = process.argv.includes('--dry-run');
-  const useMock = process.argv.includes('--mock');
-  const lessonFilter = argLesson();
-  const htmlArg = process.argv.find((x) => !x.startsWith('--') && x.endsWith('.html'));
-  const htmlPath = htmlArg ? path.resolve(process.cwd(), htmlArg) : defaultHtml;
+async function processOneHtml(htmlPath, opts) {
+  const {
+    dry,
+    useMock,
+    lessonFilter,
+    courseCode,
+    model,
+    client,
+    doSync,
+  } = opts;
 
   if (!fs.existsSync(htmlPath)) {
     console.error('HTML not found:', htmlPath);
-    process.exit(1);
+    return;
   }
 
   let lessons = parseLessonsFromHtml(htmlPath);
   if (lessonFilter != null && !Number.isNaN(lessonFilter)) {
     lessons = lessons.filter((L) => L.lessonNumber === lessonFilter);
     if (!lessons.length) {
-      console.error('No lesson with number', lessonFilter);
-      process.exit(1);
+      console.error('No lesson with number', lessonFilter, 'in', htmlPath);
+      return;
     }
   }
 
-  console.log(`Lessons to process: ${lessons.length} (from ${htmlPath})`);
+  const baseName = path.basename(htmlPath, '.html');
+  const outFile = path.join(outDir, `${baseName}-short-questions.json`);
+  const sourceFile = path.relative(repoRoot, htmlPath).replace(/\\/g, '/');
+
+  console.log(`\n── ${baseName}.html → ${path.basename(outFile)} (${lessons.length} lectures) ──`);
 
   if (dry) {
     for (const L of lessons) {
       const est = estimatedQuestionCount(L.plainText.length);
-      console.log(`L${L.lessonNumber} ${L.lessonId} | ${L.plainText.length} chars | Q est ${est.min}-${est.max}`);
+      console.log(`  L${L.lessonNumber} ${L.lessonId} | ${L.plainText.length} chars | Q est ${est.min}-${est.max}`);
     }
     return;
   }
-
-  const courseCode = 'ACC311';
-  const sourceFile = path.relative(repoRoot, htmlPath).replace(/\\/g, '/');
-  const model = useMock ? 'mock' : process.env.OPENAI_MODEL || 'gpt-4.1-mini';
 
   const payload = {
     courseCode,
@@ -192,20 +202,12 @@ async function main() {
 
   if (useMock) {
     for (const lesson of lessons) {
-      console.log(`Mock L${lesson.lessonNumber} (${lesson.lessonId})`);
+      console.log(`  Mock L${lesson.lessonNumber} (${lesson.lessonId})`);
       payload.lessons.push(mockLessonJson(lesson));
     }
   } else {
-    const key = process.env.OPENAI_API_KEY;
-    if (!key) {
-      console.error('Missing OPENAI_API_KEY in .env at repo root');
-      process.exit(1);
-    }
-
-    const client = new OpenAI({ apiKey: key });
-
     for (const lesson of lessons) {
-      console.log(`Generating L${lesson.lessonNumber} (${lesson.lessonId})…`);
+      console.log(`  Generating L${lesson.lessonNumber} (${lesson.lessonId})…`);
       const part = await generateLesson(client, lesson, model);
       payload.lessons.push(part);
     }
@@ -213,7 +215,56 @@ async function main() {
 
   fs.mkdirSync(outDir, { recursive: true });
   fs.writeFileSync(outFile, JSON.stringify(payload, null, 2), 'utf8');
-  console.log('Wrote', outFile);
+  console.log('  Wrote', outFile);
+
+  if (doSync) syncToViz(repoRoot, outFile, 'short');
+}
+
+async function main() {
+  const dry = process.argv.includes('--dry-run');
+  const useMock = process.argv.includes('--mock');
+  const doSync = process.argv.includes('--sync');
+  const lessonFilter = argLesson();
+
+  const htmlFiles = resolveHtmlFiles();
+  if (!htmlFiles.length) {
+    console.error(
+      'No HTML input. Add .html file(s) to:\n  ',
+      inputDir,
+      '\n  Or run: node scripts/generate.mjs path/to/file.html'
+    );
+    process.exit(1);
+  }
+
+  console.log('HTML files:', htmlFiles.map((p) => path.relative(repoRoot, p)).join(', '));
+
+  const courseCode = process.env.COURSE_CODE || 'ACC311';
+  const model = useMock ? 'mock' : process.env.OPENAI_MODEL || 'gpt-4.1-mini';
+
+  let client = null;
+  if (!dry && !useMock) {
+    const key = process.env.OPENAI_API_KEY;
+    if (!key) {
+      console.error('Missing OPENAI_API_KEY in .env at workspace root:', repoRoot);
+      process.exit(1);
+    }
+    client = new OpenAI({ apiKey: key });
+  }
+
+  fs.mkdirSync(inputDir, { recursive: true });
+  fs.mkdirSync(outDir, { recursive: true });
+
+  for (const htmlPath of htmlFiles) {
+    await processOneHtml(htmlPath, {
+      dry,
+      useMock,
+      lessonFilter,
+      courseCode,
+      model,
+      client,
+      doSync,
+    });
+  }
 }
 
 main().catch((err) => {
