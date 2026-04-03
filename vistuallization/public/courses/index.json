@@ -1,0 +1,11 @@
+{
+  "courses": [
+    {
+      "id": "acc311-demo",
+      "code": "ACC311",
+      "title": "Fundamentals of Auditing",
+      "subtitle": "Short questions — demo handouts",
+      "dataUrl": "/courses/acc311-demo.json"
+    }
+  ]
+}

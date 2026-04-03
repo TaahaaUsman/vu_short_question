@@ -1,0 +1,17 @@
+{
+  "name": "acc311-short-questions",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "parse": "node scripts/parseOnly.mjs",
+    "generate": "node scripts/generate.mjs",
+    "generate:mock": "node scripts/generate.mjs --mock",
+    "generate:one": "node scripts/generate.mjs --lesson=1"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.0",
+    "openai": "^6.33.0"
+  }
+}

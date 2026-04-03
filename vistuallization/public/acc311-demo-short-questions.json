@@ -1,0 +1,643 @@
+{
+  "courseCode": "ACC311",
+  "sourceHtml": "newHtml/demo.html",
+  "generatedAt": "2026-04-03T18:28:52.031Z",
+  "model": "gpt-4.1-mini",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "lessonId": "ls-01",
+      "title": "FUNDAMENTALS OF AUDITING AN INTRODUCTION",
+      "shortQuestions": [
+        {
+          "id": "l01-q01",
+          "question": "Define audit as per ISA 200.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Audit is an independent examination of financial statements of an entity that enables an auditor to express an opinion whether the financial statements are prepared (in all material respects) in accordance with an identified and acceptable financial reporting framework (e.g. international or local accounting standards and national legislations)."
+            }
+          ]
+        },
+        {
+          "id": "l01-q02",
+          "question": "List the essential features of an audit.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "An auditor involves in examination of financial statements, the auditor is not responsible for the preparation of the financial statements.",
+                "The end result of an audit is an opinion to assist the user of the financial statements, relying heavily on professional judgment.",
+                "The auditor’s opinion refers to \"true and fair\" or \"fair presentations\" which is a matter of judgment.",
+                "The auditor should be independent of the entity to provide an objective, professional view."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l01-q03",
+          "question": "Briefly explain the meaning of \"true and fair\" presentation in auditing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "\"True and fair\" presentation means that the financial statements are prepared and presented in accordance with the requirements of the applicable International Financial Reporting Standards (IFRS) and local pronouncements/legislations."
+            }
+          ]
+        },
+        {
+          "id": "l01-q04",
+          "question": "Outline the reasons why there is a need for an audit.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Reports may contain errors.",
+                "Reports may not disclose fraud.",
+                "Reports may be inadvertently misleading.",
+                "Reports may be deliberately misleading.",
+                "Reports may fail to disclose relevant information.",
+                "Reports may fail to conform to regulations."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "An independent auditor is appointed to examine the financial statements and report on findings to solve the problem of credibility."
+            }
+          ]
+        },
+        {
+          "id": "l01-q05",
+          "question": "Distinguish between auditing and accounting.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Accounting",
+                "Auditing"
+              ],
+              "rows": [
+                [
+                  "Process of recording, classifying, summarizing and reporting financial information.",
+                  "Independent examination of financial statements to express an opinion on their true and fair presentation."
+                ],
+                [
+                  "Responsibility of directors to prepare financial statements using consistent and appropriate accounting policies.",
+                  "Concerned with determining whether financial statements properly reflect the financial information."
+                ],
+                [
+                  "Provides relevant and reliable information for decision making.",
+                  "Relies on professional judgment and deep knowledge of accounting to form an opinion."
+                ],
+                [
+                  "Prepares financial statements in compliance with legislative requirements and IFRSs.",
+                  "Examines financial statements prepared by accounting to ensure compliance and fairness."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l01-q06",
+          "question": "Who can be appointed as an auditor of a public company according to the lesson?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A person must be a Chartered Accountant within the meaning of the Chartered Accountants Ordinance, 1961."
+            }
+          ]
+        },
+        {
+          "id": "l01-q07",
+          "question": "What additional requirement must an auditor meet to audit listed companies?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "For listed companies, an auditor must have a satisfactory Quality Control Review (QCR) rating issued by ICAP."
+            }
+          ]
+        },
+        {
+          "id": "l01-q08",
+          "question": "Explain why auditor independence is important.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Auditor independence means the auditor has no significant personal interest in the entity, allowing an objective and professional view to be taken, which enables users to rely confidently on the auditor’s report."
+            }
+          ]
+        },
+        {
+          "id": "l01-q09",
+          "question": "Briefly describe the challenges involved in auditing financial statements of modern large companies.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Modern companies can be very large with multi-national activities, involving complex preparation of accounts that summarize subsidiaries with differing conventions, legal systems, accounting and control systems. Independent experts trained in assessing financial information are needed to examine such accounts."
+            }
+          ]
+        },
+        {
+          "id": "l01-q10",
+          "question": "List the types of entities primarily concerned with audits in this course.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Limited companies (often known as statutory or external audits)."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Other audit applications will be clearly indicated in the text if relevant."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 2,
+      "lessonId": "ls-02",
+      "title": "Fundamentals of Auditing Auditing – An Introduction",
+      "shortQuestions": [
+        {
+          "id": "l02-q01",
+          "question": "What is an auditor’s report?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "An auditor’s report is a document produced by the auditor at the end of an audit, addressed to the owners or stakeholders, in which the auditor expresses his opinion on the truth and fairness of the financial statements after examining the entity, its records, and financial statements."
+            }
+          ]
+        },
+        {
+          "id": "l02-q02",
+          "question": "List the main components of the standard auditor’s report as per the Companies Ordinance 1984.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Statement of audit performed on balance sheet, profit and loss account, cash flow statement, and statement of changes in equity.",
+                "Responsibility of company’s management for internal control and preparation of financial statements.",
+                "Auditor’s responsibility to express an opinion based on the audit.",
+                "Description of audit procedures and standards followed.",
+                "Opinion on proper books of accounts and conformity with Companies Ordinance, 1984.",
+                "Opinion on conformity with approved accounting standards and true and fair view.",
+                "Opinion on Zakat deduction and deposit as per Zakat and Usher Ordinance, 1980.",
+                "Date, place, signature, and name(s) of auditors."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l02-q03",
+          "question": "Briefly explain the auditor’s responsibility according to the International Auditing Standards.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The auditor’s responsibility is to express an opinion on the financial statements based on the audit, conducted in accordance with International Standards on Auditing. This includes complying with ethical requirements, planning and performing the audit to obtain reasonable assurance about whether the financial statements are free from material misstatement, performing audit procedures to obtain evidence, evaluating accounting policies and estimates, and assessing the overall presentation of the financial statements."
+            }
+          ]
+        },
+        {
+          "id": "l02-q04",
+          "question": "What does the auditor’s opinion stand for in the auditor’s report?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The auditor’s opinion means that, in the auditor’s judgment, the financial statements show a true and fair view. The auditor does not say the statements do show a true and fair view, but only that in his opinion they do. The reliability of this opinion depends on the auditor’s independence, honesty, and competence."
+            }
+          ]
+        },
+        {
+          "id": "l02-q05",
+          "question": "List the three types of audits discussed in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Financial statement audits",
+                "Operational audits",
+                "Compliance audits"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l02-q06",
+          "question": "Outline the purpose of a financial statement audit.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A financial statement audit is conducted to determine whether the overall financial statements are stated in accordance with specified criteria, normally the applicable International Financial Reporting Standards (IFRSs) and the Companies Ordinance 1984."
+            }
+          ]
+        },
+        {
+          "id": "l02-q07",
+          "question": "Briefly explain what an operational audit involves.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "An operational audit is a review of any part of an entity’s operating procedures and methods to evaluate efficiency and effectiveness. It often results in recommendations to management for improving operations and may cover areas beyond accounting, such as organization structure, computer operations, production methods, and marketing."
+            }
+          ]
+        },
+        {
+          "id": "l02-q08",
+          "question": "What is the main purpose of a compliance audit?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The purpose of a compliance audit is to determine whether the entity is following specific procedures, rules, or regulations set down by a higher authority."
+            }
+          ]
+        },
+        {
+          "id": "l02-q09",
+          "question": "Distinguish between the three types of audits based on their established criteria and examples.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Type of Audit",
+                "Established Criteria",
+                "Example"
+              ],
+              "rows": [
+                [
+                  "Financial Statement Audit",
+                  "International Financial Reporting Standards",
+                  "General Motors financial statements"
+                ],
+                [
+                  "Operational Audit",
+                  "Standards for efficiency and effectiveness in payroll department",
+                  "Evaluate efficiency of computerized payroll processing"
+                ],
+                [
+                  "Compliance Audit",
+                  "Company records and loan agreement provisions",
+                  "Determine if bank requirements for loan continuation have been met"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l02-q10",
+          "question": "List the types of financial statements commonly audited in a financial statement audit.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Balance Sheet",
+                "Income Statement (Profit and Loss Account)",
+                "Statement of Changes in Equity",
+                "Cash Flow Statement",
+                "Notes to the Accounts"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l02-q11",
+          "question": "Explain why operational auditing is considered more subjective than financial statement auditing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Operational auditing is more subjective because efficiency and effectiveness of operations are harder to evaluate objectively than compliance or financial statement presentation. Establishing criteria for evaluating quantifiable information in operational audits is extremely subjective, making it more like management consulting."
+            }
+          ]
+        },
+        {
+          "id": "l02-q12",
+          "question": "Who are the primary users of compliance audit results within an entity?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Management is the primary group concerned with the extent of compliance with prescribed procedures and regulations, and typically the results of compliance audits are reported to someone within the entity rather than to a broad spectrum of users."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 3,
+      "lessonId": "ls-03",
+      "title": "FUNDAMENTALS OF AUDITING AUDITING – AN INTRODUCTION",
+      "shortQuestions": [
+        {
+          "id": "ls03-q01",
+          "question": "List the advantages of having financial statements audited even when no statutory requirement exists.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Disputes between management may be more easily settled, for example in partnerships with complicated profit sharing arrangements.",
+                "Major changes in ownership may be facilitated if past accounts contain an independent audit report.",
+                "Application to lenders or financial institutions for finance may be strengthened by submission of audited accounts.",
+                "The audit may enable the auditor to give constructive advice to management on improving business efficiency."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ls03-q02",
+          "question": "Briefly explain the disadvantages of an audit.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "The audit fee must be paid, which discourages many partnerships and sole traders from having audits.",
+                "The audit involves client’s staff and management spending time to provide information, causing possible disruption."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ls03-q03",
+          "question": "Outline the standard stages in a typical external audit.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Audit appointment and engagement letter.",
+                "Initial planning including knowledge of the business, risk assessment, and control procedures review.",
+                "Internal control review and accounting system review.",
+                "Analytical review techniques and compliance procedures.",
+                "Considering ways to seek audit evidence and substantive testing.",
+                "Review of financial statements for compliance and material misstatement.",
+                "Preparation and signing of the audit report."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ls03-q04",
+          "question": "Distinguish between reliance approach and extensive substantive approach in auditing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "If the entity's controls are operating effectively, the auditor can reduce substantive testing and adopt a *reliance approach*, relying on those controls. If controls appear weak or ineffective, the auditor will not rely on them and instead perform an *extensive substantive approach* involving detailed testing of transactions and balances."
+            }
+          ]
+        },
+        {
+          "id": "ls03-q05",
+          "question": "What are the features of the auditing profession in Pakistan?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "The profession is allied with the Institute of Chartered Accountants of Pakistan (ICAP).",
+                "ICAP is an autonomous regulatory body incorporated under the Chartered Accountants Ordinance 1961.",
+                "ICAP is self-regulatory and governed by a council elected by its members.",
+                "Only ICAP members with a license (practicing members) are eligible to perform audits."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ls03-q06",
+          "question": "Outline the management structure of ICAP.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "President: Chief Executive of the Institute.",
+                "Executive Director/Secretary: Administrative head, functions under Council, Executive Committee, President, and Vice Presidents.",
+                "Assisted by Secretary, Director Technical Services, Director Professional Standards Compliance, Director Education & Training, Director Examinations, and Regional Director North.",
+                "Responsibilities include personnel management, financial management, office administration, publications, information systems, and secretarial functions for Council and Executive Committee meetings."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ls03-q07",
+          "question": "List other services performed by auditing firms besides auditing.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Writing up books of accounts (Bookkeeping).",
+                "Balancing books of accounts (Extracting trial balance).",
+                "Preparing final accounts.",
+                "Tax management.",
+                "Statutory form filling.",
+                "Financial consultancy.",
+                "Management and system consultancy.",
+                "Liquidation and receivership work.",
+                "Investigations such as fraud audits."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ls03-q08",
+          "question": "Define the purpose of the engagement letter in the audit process.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The engagement letter is part of the audit appointment stage and serves to formally establish the auditor's appointment and outline the terms and scope of the audit engagement."
+            }
+          ]
+        },
+        {
+          "id": "ls03-q09",
+          "question": "Briefly explain why a bank might prefer audited accounts when considering finance applications.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Submission of audited accounts may strengthen an application to lenders or financial institutions. However, banks are generally more concerned about the future prospects of the business and available security than the historical audited accounts."
+            }
+          ]
+        },
+        {
+          "id": "ls03-q10",
+          "question": "What is the significance of internal control review in the audit process?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Internal control review helps the auditor assess the effectiveness of the entity’s control system. This evaluation determines whether the auditor can rely on controls and reduce substantive testing or must perform extensive substantive procedures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 4,
+      "lessonId": "ls-04",
+      "title": "OBJECTIVE AND GENERAL PRINCIPLES GOVERNING AN AUDIT OF FINANCIAL STATEMENTS",
+      "shortQuestions": [
+        {
+          "id": "l04-q01",
+          "question": "Define the objective of an audit of financial statements.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The objective of an audit of financial statements is to enable an auditor to express an opinion whether the financial statements are prepared, in all material respects, in accordance with an identified financial reporting framework (e.g. International or Local Accounting Standards)."
+            },
+            {
+              "type": "paragraph",
+              "text": "The terms used to express the opinion are “give a true and fair view” or “present fairly in all material respects”."
+            }
+          ]
+        },
+        {
+          "id": "l04-q02",
+          "question": "List two things that an audit opinion does NOT provide assurance about.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Future viability of the entity",
+                "Efficiency or effectiveness of management"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l04-q03",
+          "question": "Outline the key ethical characteristics emphasized by ICAP for auditors.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Independence: Auditor is independent of management and not under their control or influence.",
+                "Integrity: Auditor is honest and not corrupt, straightforward in professional work.",
+                "Objectivity: Auditor forms opinion based only on evidence, without subjectivity.",
+                "Professional Competence and Due Care: Auditor has required qualifications, skills, experience, and performs work with planning and diligence.",
+                "Confidentiality: Auditor does not disclose or misuse information obtained during audit without permission except as required by law.",
+                "Professional Behavior: Auditor acts and appears professional, maintaining knowledge and skill to provide competent service.",
+                "Technical Standards: Audit is performed following international or national standards."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l04-q04",
+          "question": "Briefly explain the role of International Standards on Auditing (ISAs) in auditing practice.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "ISAs contain basic principles and essential procedures, together with related guidance, to be understood and applied by auditors. They aim to improve uniformity of auditing practice worldwide and are issued by the International Auditing Practices Committee (IAPC), a committee of IFAC."
+            }
+          ]
+        },
+        {
+          "id": "l04-q05",
+          "question": "Distinguish between International Standards on Auditing (ISAs) and International Auditing Practice Statements (IAPSs).",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Aspect",
+                "ISAs",
+                "IAPSs"
+              ],
+              "rows": [
+                [
+                  "Authority",
+                  "Have authority as standards",
+                  "Do not have authority of standards"
+                ],
+                [
+                  "Content",
+                  "Contain basic principles, essential procedures, and explanatory guidance",
+                  "Provide practical assistance and promote good practice"
+                ],
+                [
+                  "Purpose",
+                  "To be understood and applied in audits",
+                  "To assist auditors in implementing standards"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l04-q06",
+          "question": "What is meant by professional skepticism in auditing?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Professional skepticism means planning and performing an audit with a questioning mind, critically assessing the validity of audit evidence obtained, and being alert to evidence that contradicts or questions the reliability of information from management or others."
+            }
+          ]
+        },
+        {
+          "id": "l04-q07",
+          "question": "Outline the meaning of the term 'scope of an audit'.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The scope of an audit refers to the audit procedures that, in the auditor’s judgment and based on ISAs, are appropriate in the circumstances to achieve the objective of the audit."
+            }
+          ]
+        },
+        {
+          "id": "l04-q08",
+          "question": "List the main areas of management’s assertions for which an auditor obtains audit evidence.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Existence",
+                "Rights and obligations",
+                "Occurrence",
+                "Completeness",
+                "Valuation",
+                "Measurement",
+                "Presentation and disclosure"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l04-q09",
+          "question": "Briefly explain the assertion of 'completeness' in auditing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Completeness asserts that there are no unrecorded assets, liabilities, transactions, events, or undisclosed items. This is especially important for liabilities."
+            }
+          ]
+        },
+        {
+          "id": "l04-q10",
+          "question": "What is meant by 'reasonable assurance' in an audit?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Reasonable assurance is a conclusion that the financial statements are not materially misstated. It is not absolute assurance due to inherent limitations of an audit."
+            }
+          ]
+        },
+        {
+          "id": "l04-q11",
+          "question": "List three factors that affect the achievement of reasonable assurance in an audit.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Use of testing (application of procedures on samples)",
+                "Inherent limitations of accounting and internal control systems",
+                "Persuasive nature of audit evidence rather than conclusive"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l04-q12",
+          "question": "Who is responsible for preparing and presenting the financial statements, and what is the auditor’s responsibility?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Management is responsible for preparing and presenting the financial statements. The auditor’s responsibility is to express an opinion thereon."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
