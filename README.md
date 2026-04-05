@@ -130,5 +130,3 @@ Top-level fields include `courseCode`, `sourceHtml`, `generatedAt`, `model`, and
 - **“No HTML input”** — add `.html` files under `script/input/` or pass a file path.
 - **429 / quota** — check OpenAI billing; try Responses API (default) vs `OPENAI_API_MODE=chat` if your project differs.
 - **Duplicate course cards** — edit `vistuallization/public/courses/index.json` and remove old `dataUrl` entries you do not need.
-
-Fuck everthing all we need to do. we have to push the branch to the live.
