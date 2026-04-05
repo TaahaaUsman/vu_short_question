@@ -16,9 +16,9 @@ This folder has two parts: a **generator** (`script/`) and a **React viewer** (`
 
 ### Folders
 
-| Path | Purpose |
-|------|--------|
-| `script/input/` | Put one or more handout **`.html`** files here. |
+| Path             | Purpose                                                         |
+| ---------------- | --------------------------------------------------------------- |
+| `script/input/`  | Put one or more handout **`.html`** files here.                 |
 | `script/output/` | Generated JSON appears here (ignored by git except `.gitkeep`). |
 
 **Output file name:** `input/{basename}.html` → `output/{basename}-short-questions.json`  
@@ -33,13 +33,13 @@ cd short-questions/script
 npm install
 ```
 
-| Command | What it does |
-|---------|----------------|
-| `npm run parse` | Parse all HTML in `input/` and print lecture summaries (no API). |
-| `npm run generate` | Call OpenAI for every HTML in `input/`; write JSON to `output/`. |
-| `npm run generate:mock` | Same flow with fake data (no API, good for testing paths). |
+| Command                 | What it does                                                                                                                  |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| `npm run parse`         | Parse all HTML in `input/` and print lecture summaries (no API).                                                              |
+| `npm run generate`      | Call OpenAI for every HTML in `input/`; write JSON to `output/`.                                                              |
+| `npm run generate:mock` | Same flow with fake data (no API, good for testing paths).                                                                    |
 | `npm run generate:sync` | After generate, **copy** each JSON to `vistuallization/public/courses/` and **append** `index.json` if that `dataUrl` is new. |
-| `npm run generate:one` | Example: add `--lesson=1` in `package.json` or run `node scripts/generate.mjs --lesson=1` |
+| `npm run generate:one`  | Example: add `--lesson=1` in `package.json` or run `node scripts/generate.mjs --lesson=1`                                     |
 
 ### CLI flags (with `node scripts/generate.mjs …`)
 
@@ -55,13 +55,13 @@ npm install
 
 ### Environment variables
 
-| Variable | Purpose |
-|----------|--------|
-| `OPENAI_API_KEY` | Required for real generation. |
-| `OPENAI_MODEL` | Default `gpt-4.1-mini`. |
-| `OPENAI_API_MODE=chat` | Use Chat Completions instead of the default Responses API. |
-| `COURSE_CODE` | Used when `--sync` appends `index.json` (default `ACC311`). |
-| `COURSE_TITLE` | Same (default `Fundamentals of Auditing`). |
+| Variable               | Purpose                                                     |
+| ---------------------- | ----------------------------------------------------------- |
+| `OPENAI_API_KEY`       | Required for real generation.                               |
+| `OPENAI_MODEL`         | Default `gpt-4.1-mini`.                                     |
+| `OPENAI_API_MODE=chat` | Use Chat Completions instead of the default Responses API.  |
+| `COURSE_CODE`          | Used when `--sync` appends `index.json` (default `ACC311`). |
+| `COURSE_TITLE`         | Same (default `Fundamentals of Auditing`).                  |
 
 ---
 
@@ -130,3 +130,5 @@ Top-level fields include `courseCode`, `sourceHtml`, `generatedAt`, `model`, and
 - **“No HTML input”** — add `.html` files under `script/input/` or pass a file path.
 - **429 / quota** — check OpenAI billing; try Responses API (default) vs `OPENAI_API_MODE=chat` if your project differs.
 - **Duplicate course cards** — edit `vistuallization/public/courses/index.json` and remove old `dataUrl` entries you do not need.
+
+Fuck everthing all we need to do. we have to push the branch to the live.
