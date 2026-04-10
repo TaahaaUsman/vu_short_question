@@ -1,0 +1,3968 @@
+{
+  "courseCode": "ACC311",
+  "sourceHtml": "short_questions/script/input/BIF501_-_Bioinformatics_II_MERGED._ppt_handouts_full__mid_and_final__1_to_190.html",
+  "generatedAt": "2026-04-10T12:45:24.093Z",
+  "model": "gpt-4.1-mini",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "lessonId": "lesson-01",
+      "title": "Topic - 1 Applications of Bioinformatics",
+      "shortQuestions": [
+        {
+          "id": "l01-q01",
+          "question": "List the applications of bioinformatics mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Drug Development",
+                "Crop Improvement",
+                "Microbial Genome",
+                "Gene Therapy",
+                "Biotechnology",
+                "Comparative Study",
+                "Evolutionary Studies",
+                "Veterinary Science",
+                "Molecular Medicine",
+                "Personalized Medicine",
+                "Preventive Medicine",
+                "Waste Cleanup",
+                "Antibiotic Resistance",
+                "Alternate Energy Science",
+                "Insect Resistance",
+                "Climate Change Studies",
+                "Nutritional Quality"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l01-q02",
+          "question": "Briefly explain the role of bioinformatics in drug development.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics helps identify and validate new drug targets by understanding disease mechanisms and using computational tools. Currently, drugs target only about 500 proteins."
+            }
+          ]
+        },
+        {
+          "id": "l01-q03",
+          "question": "Outline how bioinformatics contributes to crop improvement.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics uses comparative genetics of plant genomes to suggest improvements in food crops based on information obtained from model crop systems."
+            },
+            {
+              "type": "paragraph",
+              "text": "The complete genomes of Arabidopsis thaliana (water cress) and Oryza sativa (rice) are currently available for such studies."
+            }
+          ]
+        },
+        {
+          "id": "l01-q04",
+          "question": "Define gene therapy as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Gene therapy is used to treat, cure, or even prevent disease, and it is currently undergoing clinical trials."
+            }
+          ]
+        },
+        {
+          "id": "l01-q05",
+          "question": "List some microorganisms mentioned in the biotechnology applications of bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Archaeoglobus fulgidus",
+                "Thermotoga maritima",
+                "Corynebacterium glutamicum",
+                "Xanthomonas campestris",
+                "Lactococcus lactis"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l01-q06",
+          "question": "Briefly explain the applications of microbial genome studies.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Complete genome sequences are used.",
+                "Applications include environment, health, energy, and industry.",
+                "Isolation of genes that enable microbes to survive under extreme conditions."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l01-q07",
+          "question": "What is the focus of evolutionary studies in bioinformatics according to the lesson?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The lesson mentions evolutionary studies and archaea but does not provide further details."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 2,
+      "lessonId": "lesson-02",
+      "title": "Topic - 2 Applications of Bioinformatics",
+      "shortQuestions": [
+        {
+          "id": "l02-q01",
+          "question": "Define the role of bioinformatics in veterinary science.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics in veterinary science involves sequencing farm animals such as cows and sheep."
+            }
+          ]
+        },
+        {
+          "id": "l02-q02",
+          "question": "List some hereditary diseases studied through molecular medicine using bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Cystic Fibrosis",
+                "Huntingtons"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l02-q03",
+          "question": "Briefly explain the concept of personalized medicine as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Uses patient's genetic profile",
+                "Pharmacogenomics studies sequence variants in DNA",
+                "Moves away from trial and error to find the best drug",
+                "Development of diagnostic tests to measure susceptibility to diseases",
+                "Allows preventative actions such as lifestyle changes or early treatment"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l02-q04",
+          "question": "Outline the application of bioinformatics in waste cleanup.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics helps identify organisms like Deinococcus radiodurans which have potential usefulness in cleaning up waste sites containing radiation and toxic chemicals."
+            }
+          ]
+        },
+        {
+          "id": "l02-q05",
+          "question": "Distinguish between the applications of Bacillus thuringiensis and Chlorobium tepidum in bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Organism",
+                "Application"
+              ],
+              "rows": [
+                [
+                  "Bacillus thuringiensis",
+                  "Control serious pests of cotton, maize and potatoes; reduces insecticides and improves nutritional quality of crops"
+                ],
+                [
+                  "Chlorobium tepidum",
+                  "Capacity for generating energy from light as an alternative energy source"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l02-q06",
+          "question": "List the bioinformatics applications related to climate change studies and improving nutritional quality.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Studying genomes of microbes that use carbon dioxide as their sole carbon source to understand global climate change",
+                "Reducing occurrences of blindness and anaemia by improving nutritional quality and other micronutrients"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 3,
+      "lessonId": "lesson-03",
+      "title": "Topic -3 Nucleotide Sequence Databases",
+      "shortQuestions": [
+        {
+          "id": "l03-q01",
+          "question": "Define biological databases and state their main goals.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Biological databases store biological data."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Data storage",
+                "Information retrieval",
+                "Knowledge discovery"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l03-q02",
+          "question": "List the classifications of biological databases.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Primary databases (store Primary Sequences)",
+                "Secondary databases (annotated primary sequences)",
+                "Specialized databases (dedicated to specific organisms or diseases)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l03-q03",
+          "question": "Outline the types of data on which biological databases can be classified.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Nucleotide databases",
+                "Protein databases",
+                "RNA databases",
+                "Genome databases",
+                "Expression databases (Gene Expression Databases)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l03-q04",
+          "question": "Briefly explain the common issues found in biological databases.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Biological databases face issues similar to other databases due to limited quality assurance techniques compared to the rapid emergence of new data."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Redundancy",
+                "Inconsistency",
+                "Incompatibility (format, terminology, data types, etc.)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l03-q05",
+          "question": "What types of nucleotide sequences are contained in nucleotide sequence databases?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA sequences",
+                "cDNA sequences",
+                "EST (Expressed Sequence Tags) sequences"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l03-q06",
+          "question": "Describe the origin and current management of GenBank.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "GenBank was first assembled in 1982 at Los Alamos National Laboratory (LANL), New Mexico under the leadership of Walter Goad."
+            },
+            {
+              "type": "paragraph",
+              "text": "Currently, GenBank operates under the umbrella of the National Center for Biotechnology Information (NCBI), which is the central repository for multiple types of biological data."
+            }
+          ]
+        },
+        {
+          "id": "l03-q07",
+          "question": "Name the three organizations involved in the International Nucleotide Sequence Database Collaboration (INSDC).",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "NCBI (National Center for Biotechnology Information, USA)",
+                "DDBJ (DNA Databank of Japan)",
+                "EMBL/EBI (European Molecular Biology Laboratory / European Bioinformatics Institute)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l03-q08",
+          "question": "Explain the growth trend of GenBank in terms of bases and sequences since its inception.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The number of bases in GenBank has grown exponentially since 1982, doubling approximately every 18 months."
+            },
+            {
+              "type": "paragraph",
+              "text": "Similarly, the number of sequences has increased from thousands in 1982 to more than a hundred million sequences currently."
+            }
+          ]
+        },
+        {
+          "id": "l03-q09",
+          "question": "What is the role of EMBL and ENA in nucleotide sequence databases?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "EMBL (European Molecular Biology Laboratory) was established in Europe in 1980."
+            },
+            {
+              "type": "paragraph",
+              "text": "EMBL established EBI (European Bioinformatics Institute), which maintains ENA (European Nucleotide Archive) to manage DNA sequence datasets."
+            }
+          ]
+        },
+        {
+          "id": "l03-q10",
+          "question": "Summarize the key conclusions about biological databases and GenBank from the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Biological databases store biological data.",
+                "INSDC is a joint venture of NCBI, EMBL, and DDBJ.",
+                "Growth of bases in GenBank is exponential, doubling every 18 months."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 4,
+      "lessonId": "lesson-04",
+      "title": "Topic - 4 Protein Databases",
+      "shortQuestions": [
+        {
+          "id": "l04-q01",
+          "question": "Define protein databases and list the types of data they store.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Protein databases store protein data which may include different types of information related to proteins."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Protein sequences",
+                "Motif (patterns of amino acids)",
+                "Structure",
+                "Structure alignments (aligned structures)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l04-q02",
+          "question": "Briefly explain the origin of protein sequence databases.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The first sequences to be collected were protein sequences before nucleotide sequences using Sanger and Tupy’s methods in 1951. Early focus was on common protein families like cytochromes. An atlas of protein sequences, mainly cytochromes, was assembled by Margret Dayhoff and collaborators at the National Biomedical Research Foundation (NBRF) in the 1960s."
+            }
+          ]
+        },
+        {
+          "id": "l04-q03",
+          "question": "What is PIR and which organizations collaborate in it?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "PIR stands for Protein Information Resource. It originated from the collection of Dayhoff and collaborators and is now a collaboration of the National Biomedical Research Foundation (NBRF), Munich Center for Protein Sequences (MIPS), and Japan International Protein Information Database (JIPID)."
+            }
+          ]
+        },
+        {
+          "id": "l04-q04",
+          "question": "Outline the role of ExPASy in protein sequence databases.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "ExPASy, located in Geneva, is the main server controlling protein sequence data. It provides access to different structural alignments, proteomic data, and genomic data."
+            }
+          ]
+        },
+        {
+          "id": "l04-q05",
+          "question": "List the three main sections of UniProt and briefly explain the purpose of the PRO section.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Protein Ontologies (PRO)",
+                "ProClass",
+                "ProLINK"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The PRO section contains Protein Ontologies which classify proteins based on their functions. These ontologies are organized hierarchically, showing major functions and specific sub-functions."
+            }
+          ]
+        },
+        {
+          "id": "l04-q06",
+          "question": "Distinguish between iProClass and iProLINK in the context of protein databases.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "iProClass integrates different protein resources including sequences, protein expression data, and protein modifications, and allows integration of genomic with proteomic data. iProLINK provides literature information and access to most research papers related to proteins."
+            }
+          ]
+        },
+        {
+          "id": "l04-q07",
+          "question": "What is the Protein Data Bank (PDB) and how are protein structures obtained for it?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Protein Data Bank (PDB) is a repository of protein structures. These structures are obtained by chemistry and molecular biology techniques such as X-ray crystallography in laboratories. Researchers submit these structures to PDB for public access and comparison."
+            }
+          ]
+        },
+        {
+          "id": "l04-q08",
+          "question": "Explain how SCOP classifies proteins and name the major hierarchical levels it uses.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "SCOP classifies proteins based on their structural elements such as family, fold superfamily, domains, and classes. The class is the largest group in the SCOP hierarchy and includes major groups like all alpha helices, all beta chains, alpha/beta, and alpha + beta proteins."
+            }
+          ]
+        },
+        {
+          "id": "l04-q09",
+          "question": "List and briefly describe the four SCOP classes mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Alpha: Proteins containing all alpha helices formed by special arrangements of amino acids.",
+                "Beta: Proteins containing all beta chains.",
+                "Alpha/Beta: Proteins with alternating alpha helices and beta chains.",
+                "Alpha + Beta: Proteins with separate regions of alpha helices stacked together and beta chains stacked together."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l04-q10",
+          "question": "Summarize the main conclusions about protein sequences and protein databases from the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "The first sequences to be collected were protein sequences.",
+                "Protein databases are classified based on sequences, motifs, structures, and structural alignments.",
+                "The growth of sequence data in protein databases is exponential, similar to nucleotide databases."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 5,
+      "lessonId": "lesson-05",
+      "title": "Topic - 5 Genome & Organism Specific Databases",
+      "shortQuestions": [
+        {
+          "id": "l05-q01",
+          "question": "Define the significance of Haemophilus influenzae genome sequencing project.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Haemophilus influenzae genome sequencing project was the first genome sequencing of a free-living organism, initiated at The Institute of Genome Research (TIGR) under Craig Ventor. It used the shotgun sequencing method to sequence about 1.8 million base pairs in 9 months at a cost of around 1 million US dollars. This project paved the way for sequencing many other organisms."
+            }
+          ]
+        },
+        {
+          "id": "l05-q02",
+          "question": "List the key genome databases mentioned in the lesson and their associated organisms.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "AceDB (AC. elegans DataBase) - Caenorhabditis elegans (worm)",
+                "TAIR (The Arabidopsis Information Resource) - Arabidopsis",
+                "SGB (Saccharomyces Genome Database) - Yeast",
+                "Human Genome Project databases - Human genome"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l05-q03",
+          "question": "Briefly explain the role of Craig Venter in genome sequencing projects.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Craig Venter led the Haemophilus influenzae genome sequencing project at TIGR and later was a key figure in the Human Genome Project through Celera Genomics, a commercial organization. He played a major role in sequencing the human genome."
+            }
+          ]
+        },
+        {
+          "id": "l05-q04",
+          "question": "Outline the timeline and organizations involved in the Human Genome Project.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "1986: Pilot Project started by the Department of Energy (DOE), USA.",
+                "1988: National Human Genome Research Initiative (NHGRI) started by NIH under Francis Collins.",
+                "1998: Celera Genomics, a commercial organization led by Craig Venter, joined the project.",
+                "2000: Joint publication of the human genome sequence by NHGRI and Celera."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l05-q05",
+          "question": "Distinguish between AceDB and SGB databases based on the lesson text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "AceDB was the first genome database developed for Caenorhabditis elegans and established by Richard Durbin and Thierry-Miegi. SGB (Saccharomyces Genome Database) is a genome database for yeast that uses the AceDB system."
+            }
+          ]
+        },
+        {
+          "id": "l05-q06",
+          "question": "What is the purpose of genome browsers and give an example mentioned in the lesson?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Genome browsers are webpages that allow users to explore different features and regions within genomes, such as gene locations and genetic markers. An example is the UCSC Genome Browser from the University of California Santa Cruz."
+            }
+          ]
+        },
+        {
+          "id": "l05-q07",
+          "question": "List the features visible on the UCSC Genome Browser as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Chromosome display on top",
+                "Various tracks below showing SNPs, genes, ESTs, etc.",
+                "Ability to zoom into different genome regions"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l05-q08",
+          "question": "Briefly explain the cost and scale of sequencing the human genome as per the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The human genome sequencing resulted in a total of 3.4 billion base pairs sequenced at a cost of approximately $1 per base."
+            }
+          ]
+        },
+        {
+          "id": "l05-q09",
+          "question": "Outline the conclusion drawn about the success of the Haemophilus influenzae project and genome browsers.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Success of Haemophilus influenzae sequencing paved the way for other genome sequencing projects.",
+                "Genome browsers help in exploring different regions of the genome."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l05-q10",
+          "question": "Who resolved the dispute regarding the completion of the Human Genome Project and how?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "President Bill Clinton resolved the dispute between the federally funded NHGRI and commercial Celera Genomics by having them publish the human genome sequence together in the year 2000."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 6,
+      "lessonId": "lesson-06",
+      "title": "Topic -6 Gene Expression Databases",
+      "shortQuestions": [
+        {
+          "id": "l06-q01",
+          "question": "Define Gene Expression Databases.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Gene Expression Databases are public repositories for the archiving and distribution of gene expression data submitted by the scientific community."
+            }
+          ]
+        },
+        {
+          "id": "l06-q02",
+          "question": "What does MIAME stand for and why is it important in gene expression data submission?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "MIAME stands for Minimum Information About a Microarray Experiment. It is important because gene expression data submitted to databases must be MIAME compliant, providing detailed descriptions such as sample preparation, normalization methods, and other relevant data to ensure proper interpretation and reproducibility."
+            }
+          ]
+        },
+        {
+          "id": "l06-q03",
+          "question": "List the four kinds of records or data files in GEO according to MIAME rules.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Sample (GSM) – stores sample information including preparation and treatment details.",
+                "Platform (GPL) – contains information about the experimental platform such as microarray or RNAseq.",
+                "Series (GSE) – groups related samples or treatments together as a series.",
+                "Datasets (GDS) – contains assembled sample data collections."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l06-q04",
+          "question": "Briefly explain the purpose of the GEO2R tool in the Gene Expression Omnibus.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "GEO2R is a tool within the Gene Expression Omnibus that allows users to perform browsing, querying, analysis, and retrieval of gene expression data."
+            }
+          ]
+        },
+        {
+          "id": "l06-q05",
+          "question": "Outline the types of gene expression profiling data available in GEO.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Expression profiling by array (microarray data).",
+                "Expression profiling by high throughput sequencing (RNAseq data).",
+                "Other various techniques producing count data."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l06-q06",
+          "question": "Distinguish between Series (GSE) and Datasets (GDS) in GEO.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Series (GSE) files group related samples or treatments together as a set, while Datasets (GDS) files contain the actual assembled sample data collections."
+            }
+          ]
+        },
+        {
+          "id": "l06-q07",
+          "question": "What information can be found on a GEO dataset page?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Experiment details including organism and type of experiment.",
+                "Summary of the experiment.",
+                "Contributors' names, publications, and addresses.",
+                "Platform information including sequencing machine details.",
+                "Downloadable expression counts in various formats including normalized counts and raw reads data."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l06-q08",
+          "question": "Why is it essential to provide GEO dataset IDs in scientific publications?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Providing GEO dataset IDs in publications is essential because funding and publication agencies require data submission and sharing with the scientific community, allowing other researchers to access and verify the data."
+            }
+          ]
+        },
+        {
+          "id": "l06-q09",
+          "question": "Explain the relationship between microarray, RNAseq, and gene expression data in the context of GEO.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Microarray and RNAseq are techniques used to obtain mRNA sequences which represent gene expression data. Both types of data are stored and classified as gene expression data in GEO, making it a comprehensive resource for these experimental results."
+            }
+          ]
+        },
+        {
+          "id": "l06-q10",
+          "question": "What is the role of the Sequencing Read Archive (SRA) in GEO?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Sequencing Read Archive (SRA) stores raw read data from sequencing experiments and is linked within GEO to provide access to raw sequence data files."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 7,
+      "lessonId": "lesson-07",
+      "title": "Topic -7 Medical Databases",
+      "shortQuestions": [
+        {
+          "id": "l07-q01",
+          "question": "Define health informatics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Health informatics is the field that deals with the resources, devices, and methods required to optimize the acquisition, storage, retrieval, and use of information in health and biomedicine."
+            }
+          ]
+        },
+        {
+          "id": "l07-q02",
+          "question": "List the main features of PUBMED.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Comprises more than 24 million citations for biomedical literature from MEDLINE, life science journals, and online books.",
+                "Citations may include links to full-text content from PubMed Central and publisher web sites."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l07-q03",
+          "question": "Briefly explain the role of MEDLINE in biomedical literature.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "MEDLINE is the primary resource for biomedical journal articles, containing millions of citations to articles in biomedical journals."
+            },
+            {
+              "type": "paragraph",
+              "text": "It uses the MeSH vocabulary to index articles."
+            }
+          ]
+        },
+        {
+          "id": "l07-q04",
+          "question": "Outline other databases besides MEDLINE that can be helpful for medical information.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Academic OneFile",
+                "CINAHL (Cumulated Index of Nursing and Allied Health Literature)",
+                "PsycINFO",
+                "Web of Knowledge"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l07-q05",
+          "question": "Distinguish between Academic OneFile and PsycINFO in terms of their focus.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Academic OneFile lists articles from journals covering a broad range of subjects and does not primarily focus on medical topics, though useful medical articles can be found."
+            },
+            {
+              "type": "paragraph",
+              "text": "PsycINFO searches the psychological literature and also does not primarily focus on medical topics, but useful medical-related articles can be found."
+            }
+          ]
+        },
+        {
+          "id": "l07-q06",
+          "question": "Briefly explain the significance of Web of Science in medical research.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Web of Science is a major source for articles in a wide range of fields including sciences, social sciences, and humanities."
+            },
+            {
+              "type": "paragraph",
+              "text": "It is an excellent place to find articles from scientific journals that may not be included in MEDLINE."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 8,
+      "lessonId": "lesson-08",
+      "title": "Topic -8 Sequence Submission Introduction",
+      "shortQuestions": [
+        {
+          "id": "l08-q01",
+          "question": "Define the purpose of sequence submission to databases.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Sequences are submitted to databases to share them with the scientific community. Sometimes submission is required by publication and funding agencies. Generally, sequences are submitted at the time of publication and are reviewed by peers."
+            }
+          ]
+        },
+        {
+          "id": "l08-q02",
+          "question": "List the standard codes established by the International Union of Biochemistry (IUB) for ambiguous nucleotide bases.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "G, A, T, C represent Guanine, Adenine, Thymine, and Cytosine respectively.",
+                "R represents A or G (puRines).",
+                "Y represents C or T (pYrimidines).",
+                "M stands for bases with an amine group.",
+                "K stands for bases with a Keto group (G or T).",
+                "S represents strong interactions (C and G).",
+                "W represents weak interactions (A or T).",
+                "H represents everything except G (A, C, or T).",
+                "B, V, and D follow similar rules for ambiguity.",
+                "N can be any base."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l08-q03",
+          "question": "Briefly explain the difference between NCBI BANKIt and Sequin submission tools.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "BANKIt is used for simple sequences not related to downstream analysis and can be submitted through the web for small datasets without advanced tools."
+            },
+            {
+              "type": "paragraph",
+              "text": "Sequin is designed for complex sequences and annotations, suitable for offline submission of large datasets and supports advanced tools and graphical reports."
+            }
+          ]
+        },
+        {
+          "id": "l08-q04",
+          "question": "Outline the function of the UniProt SPIN tool.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "SPIN is a web-based tool for submitting directly sequenced protein sequences and biological annotations to the UniProt knowledgebase."
+            },
+            {
+              "type": "paragraph",
+              "text": "Users can register and submit their data through the SPIN webpage."
+            }
+          ]
+        },
+        {
+          "id": "l08-q05",
+          "question": "Distinguish between the roles of NCBI and UniProt in sequence submission and retrieval.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "NCBI provides tools like BANKIt and Sequin for submission of nucleotide sequences and supports retrieval of DNA and protein sequences."
+            },
+            {
+              "type": "paragraph",
+              "text": "UniProt focuses on protein sequences and provides tools like SPIN for submission and a large integrated resource for protein data retrieval."
+            }
+          ]
+        },
+        {
+          "id": "l08-q06",
+          "question": "List the main types of protein data stored and retrieved as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Actual protein sequences from proteomic or experimental techniques.",
+                "Predicted or translated protein sequences from nucleotide data.",
+                "Protein structures from experimental methods like X-ray crystallography.",
+                "Annotations related to protein functions."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l08-q07",
+          "question": "Briefly explain the significance of the GeneBank sequence format.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "GeneBank format is a standard format used in the GeneBank database to store sequences. It starts with 'LOCUS' and annotation lines, the sequence begins after 'ORIGIN' and ends with double slashes (//). It can contain multiple sequences in one file."
+            }
+          ]
+        },
+        {
+          "id": "l08-q08",
+          "question": "Outline the key features of the FASTA sequence format.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Starts with a 'greater than' sign (>) followed by sequence description.",
+                "The actual sequence is on the next line.",
+                "Lines of sequence are recommended to be shorter than 80 characters, typically 60.",
+                "'gi' indicates gene identification and is followed by an ID number.",
+                "Used for both DNA and protein sequences."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l08-q09",
+          "question": "List the main sequence formats discussed in the lesson besides FASTA and GeneBank.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "EMBL format",
+                "SwissProt format",
+                "XML format",
+                "NBRF format",
+                "GCG format"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l08-q10",
+          "question": "Briefly explain the purpose of checksum in NBRF and GCG sequence formats.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Checksum is a computed value based on the nucleotide sequence's ASCII values. It helps verify the integrity of a downloaded sequence by comparing the checksum on the source and the user's copy to ensure the sequence was downloaded correctly without errors."
+            }
+          ]
+        },
+        {
+          "id": "l08-q11",
+          "question": "Distinguish between EMBL and SwissProt sequence formats.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "EMBL format is similar to GeneBank format and includes ID, accession number, description, and sequence starting from 'SQ'."
+            },
+            {
+              "type": "paragraph",
+              "text": "SwissProt format is similar to EMBL but contains more detailed information about physical and biochemical properties of proteins, including extensive annotations like gene names, organism species, references, comments, and feature tables."
+            }
+          ]
+        },
+        {
+          "id": "l08-q12",
+          "question": "Outline the conclusions drawn about sequence formats and databases from the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Databases store sequences in specified formats.",
+                "GeneBank, DDBJ, and EMBL have similar sequence formats.",
+                "Different software require sequences in different formats.",
+                "Sequences can be converted between formats manually or using programs like READSEQ."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l08-q13",
+          "question": "Briefly explain the role of READSEQ software.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "READSEQ is a sequence converter program that recognizes DNA or protein sequence files and can interconvert them between different sequence formats."
+            }
+          ]
+        },
+        {
+          "id": "l08-q14",
+          "question": "List the main sections or data types provided in a UniProt protein sequence entry as described.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Entry ID and name",
+                "Protein name and gene name",
+                "Organism source",
+                "Protein length",
+                "Functional annotations (molecular function, biological process, cellular components)",
+                "Feature key data (e.g., metal binding sites, DNA binding regions)",
+                "Taxonomy and protein family classification",
+                "Protein sequence and isoforms"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 9,
+      "lessonId": "lesson-09",
+      "title": "Topic -12 Data Retrieval",
+      "shortQuestions": [
+        {
+          "id": "l09-q01",
+          "question": "Define Data Retrieval in the context of biological databases.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Data Retrieval refers to the process of downloading biological databases, which are mostly available as simple text (flat) files, to perform analysis locally on one's own machine, allowing greater freedom in processing the data."
+            }
+          ]
+        },
+        {
+          "id": "l09-q02",
+          "question": "What is ENTREZ and what are its main features?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "ENTREZ is an integrated search engine that works behind NCBI, allowing users to research and search a variety of data including PubMed and 39 other scientific literatures, nucleotide and protein databases."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Integrates GEO (gene expression sets), OMIM, Genome Databases, and taxonomy Databases.",
+                "Allows searching across Literature resources, Health Databases, Genomes, Genes Databases, Proteins, and Chemicals.",
+                "Operates as an integrated system between different databases."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l09-q03",
+          "question": "List the types of data that ENTREZ integrates.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "PubMed and scientific literature",
+                "Nucleotide databases",
+                "Protein databases",
+                "Gene expression sets (GEO)",
+                "Online Mendelian Inheritance in Man (OMIM)",
+                "Genome databases",
+                "Taxonomy databases"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l09-q04",
+          "question": "What is Bulk Data Retrieval and which protocol is commonly used for it?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bulk Data Retrieval is the process of obtaining large amounts of data, commonly performed using the File Transfer Protocol (FTP), a standard network protocol used to transfer files via command line or FTP client programs."
+            }
+          ]
+        },
+        {
+          "id": "l09-q05",
+          "question": "Why might programming languages like PERL and Python be used after data retrieval?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Because retrieved data is often not in a proper format and different software require specific formats, programming languages like PERL and Python are used to process and convert biological data into the required formats."
+            }
+          ]
+        },
+        {
+          "id": "l09-q06",
+          "question": "Briefly explain the definition of Genomics according to NHGRI.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Genomics is defined as the study of all of a person's genes (the Genome), including interactions of those genes with each other and with the person's environment."
+            }
+          ]
+        },
+        {
+          "id": "l09-q07",
+          "question": "What is Genome Informatics and what does it include?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Genome Informatics is the field applying computational and statistical techniques to derive biological information from genome sequences."
+            },
+            {
+              "type": "paragraph",
+              "text": "It includes methods to analyze DNA sequence information and to predict protein sequence and structure."
+            }
+          ]
+        },
+        {
+          "id": "l09-q08",
+          "question": "List the main tasks performed in Genome Analysis.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Sequencing and Assembly",
+                "Repeat identification and masking",
+                "Gene prediction",
+                "Looking for EST and cDNA sequences",
+                "Genome annotation",
+                "Expression analysis",
+                "Metabolic pathways and regulation studies",
+                "Functional genomics",
+                "Gene location/gene map identification",
+                "Comparative genomics",
+                "Evolutionary modeling",
+                "Self-comparison of proteome"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l09-q09",
+          "question": "What is the purpose of Assembly in Genome Analysis?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Assembly is the process of putting together short fragments of DNA sequences, obtained from sequencing, to reconstruct the whole genome."
+            }
+          ]
+        },
+        {
+          "id": "l09-q10",
+          "question": "Explain the role of EST and cDNA sequences in genome analysis.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "EST (Expressed Sequence Tags) and cDNA sequences originate from DNA regions where genes are expressed and transcribed into mRNA, which is then reverse transcribed into cDNA. They help identify expressing regions in genes and provide insights into gene expression."
+            }
+          ]
+        },
+        {
+          "id": "l09-q11",
+          "question": "What are model organisms and why are they important in genome sequencing projects?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Model organisms are representative species used to study various biological processes in labs. They are important in genome sequencing projects to find cures for diseases, improve crops, or develop drugs, and help interpolate results to higher organisms."
+            }
+          ]
+        },
+        {
+          "id": "l09-q12",
+          "question": "List some examples of model organisms mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "E. coli (bacteria)",
+                "S. cerevisiae (yeast)",
+                "C. elegans (worm)",
+                "D. melanogaster (fly)",
+                "Danio rerio (zebrafish)",
+                "Mus musculus (mouse)",
+                "Homo sapiens (human)",
+                "Arabidopsis (plant)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l09-q13",
+          "question": "Outline the three groups of living organisms according to the universal tree of life described.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Bacteria",
+                "Archaea (special organisms living under hard conditions)",
+                "Eucarya (largest group including fungi, animals, and plants)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l09-q14",
+          "question": "What conclusions are drawn about genome sequencing and model organisms?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Sequencing and analysis of full genomes paves the way for future discoveries.",
+                "Different model organisms are the best source to explore our genome and to interpolate results towards higher organisms."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 10,
+      "lessonId": "lesson-10",
+      "title": "Topic -14 Prokaryotic Genome",
+      "shortQuestions": [
+        {
+          "id": "l10-q01",
+          "question": "Define prokaryotes.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Prokaryotes are organisms whose genetic material (DNA) is not enclosed in a nuclear membrane, meaning they do not have a nucleus or other membrane-bound organelles. They are relatively simple cells."
+            }
+          ]
+        },
+        {
+          "id": "l10-q02",
+          "question": "List the criteria for selection of organisms for genome sequencing projects.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "They had been subjected to detailed biological analysis or extensive studies and thus were model organisms.",
+                "They might be important human pathogens, making their genome important to study.",
+                "They were of phylogenetic interest.",
+                "Sequences were annotated as they were sequenced."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l10-q03",
+          "question": "Briefly explain the difference between prokaryotic and eukaryotic cells as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Prokaryotic cells lack a nucleus and membrane-bound organelles, making them simpler and smaller. Eukaryotic cells have membrane-bound organelles such as mitochondria and are larger and more complex."
+            }
+          ]
+        },
+        {
+          "id": "l10-q04",
+          "question": "Outline the significance of the first prokaryotic genome sequenced.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The first prokaryotic genome sequenced was that of Hemophilus influenza. It was sequenced at a moderate cost and efficient pace, paving the way for sequencing many other organisms and highlighting the importance of studying prokaryotic organisms."
+            }
+          ]
+        },
+        {
+          "id": "l10-q05",
+          "question": "List the representative prokaryotic organisms mentioned and their notable features.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Organism",
+                "Phylogenetic Group",
+                "Genome Size (Mbp)",
+                "Protein Encoding Genes",
+                "Notable Features"
+              ],
+              "rows": [
+                [
+                  "E-coli",
+                  "Bacteria",
+                  "4.6",
+                  "4288",
+                  "Model organism"
+                ],
+                [
+                  "Methanococcus",
+                  "Archaea",
+                  "1.66",
+                  "1682",
+                  "Grows at high temperature and pressure; produces methane"
+                ],
+                [
+                  "Hemophilus",
+                  "Bacteria",
+                  "1.83",
+                  "1743",
+                  "Human pathogen"
+                ],
+                [
+                  "Mycoplasma",
+                  "Bacteria",
+                  "0.82",
+                  "676",
+                  "Human pathogen; grows inside cells; metabolically weak"
+                ],
+                [
+                  "Synechocystis",
+                  "Bacteria",
+                  "3.57",
+                  "3168",
+                  "Ancient organism; produces oxygen by light-harvesting"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l10-q06",
+          "question": "Distinguish between the genome sizes and protein encoding genes of Methanococcus and Mycoplasma.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Methanococcus has a genome size of 1.66 Mbp with 1682 protein encoding genes, whereas Mycoplasma has a smaller genome size of 0.82 Mbp with 676 protein encoding genes."
+            }
+          ]
+        },
+        {
+          "id": "l10-q07",
+          "question": "Briefly explain why prokaryotes are considered good models for studying life processes.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Prokaryotes have simple genomes.",
+                "They are easy models to study biochemistry, physiology, and molecular biology of life processes."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l10-q08",
+          "question": "Explain the endosymbiont hypothesis mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The endosymbiont hypothesis suggests that mitochondria in eukaryotic cells evolved from bacteria."
+            }
+          ]
+        },
+        {
+          "id": "l10-q09",
+          "question": "Outline the conclusion about sequencing prokaryotic genomes.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Sequencing is done on economically important organisms, starting with simpler genomes, which are then used to explore more complex genomes."
+            }
+          ]
+        },
+        {
+          "id": "l10-q10",
+          "question": "List the components visible in the prokaryotic cell diagram described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Genome (DNA) in the shape of a big chromosome in the middle",
+                "Ribosomes important for protein synthesis",
+                "Cell wall with different layers"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 11,
+      "lessonId": "lesson-11",
+      "title": "Topic -15 Eukaryotic Genome",
+      "shortQuestions": [
+        {
+          "id": "l11-q01",
+          "question": "Define heterochromatin and euchromatin in eukaryotic genomes.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "**Heterochromatin** is the densely packed region of the chromosome that stains darkly and is poorly transcribed because enzymatic machinery cannot easily access it. **Euchromatin** is the lightly packed region that stains lightly and is highly expressed due to easy accessibility by enzymatic machinery."
+            }
+          ]
+        },
+        {
+          "id": "l11-q02",
+          "question": "List the distinct properties of eukaryotic genomes compared to prokaryotic genomes.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Eukaryotes have larger genomes.",
+                "Presence of tandem repeats.",
+                "Introns are present in protein-coding genes.",
+                "Chromosomes have heterochromatin and euchromatin regions.",
+                "Presence of complicated membrane-bounded organelles."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l11-q03",
+          "question": "Outline the structure of DNA packaging in eukaryotic chromosomes.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "DNA strand of 2 nm width wraps around histone proteins forming nucleosomes.",
+                "Nucleosomes coil to form a 3 nm filament.",
+                "These filaments supercoil to form larger fibers.",
+                "Fibers further coil until they form chromosomes approximately 1400 nm wide.",
+                "Chromosomes consist of two sister chromatids joined at the centromere with telomeres at the ends."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l11-q04",
+          "question": "Briefly explain the role of histone modifications in chromatin structure.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Histone modifications such as methylation and deacetylation influence chromatin structure by promoting either heterochromatin (densely packed, less accessible) or euchromatin (loosely packed, more accessible). For example, certain histone methylations lead to euchromatin formation, increasing gene expression."
+            }
+          ]
+        },
+        {
+          "id": "l11-q05",
+          "question": "What are epichromosomal elements (EEs) in eukaryotes? Give examples.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Epichromosomal elements are extra-genomic DNA elements present outside the chromosomes in eukaryotes, often in organelles or other structures."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Mitochondrial DNA (mtDNA)",
+                "Chloroplast DNA (cpDNA)",
+                "Plasmids",
+                "Yeast DNA",
+                "Transposons",
+                "Viral genomes",
+                "Retroviruses"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l11-q06",
+          "question": "Describe the endosymbiont hypothesis for the origin of organelles.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The endosymbiont hypothesis proposes that organelles such as mitochondria and chloroplasts originated from free-living prokaryotic organisms that were engulfed by a primordial eukaryotic cell, establishing a symbiotic relationship. This theory was first proposed by Andreas Schimper and later extended by Lynn Margulis."
+            }
+          ]
+        },
+        {
+          "id": "l11-q07",
+          "question": "List the features of organelle genomes (mtDNA and cpDNA).",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Circular DNA structure",
+                "Double stranded",
+                "Supercoiled",
+                "Lack histones",
+                "Present in multiple copies"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l11-q08",
+          "question": "Explain the difference between tandem repeats and interspersed repeats in eukaryotic genomes.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Tandem repeats are arrays of repeated DNA sequences located adjacent to each other, while interspersed repeats are repeated sequences separated by non-repetitive DNA regions."
+            }
+          ]
+        },
+        {
+          "id": "l11-q09",
+          "question": "What are mini-satellites and microsatellites? Mention one use of mini-satellites.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Mini-satellites are tandem repeats about 15 bases long arranged in arrays of several hundred to thousands of kilobases, typically found in euchromatin. Microsatellites are shorter repeats of 2-6 bases arranged in arrays of 10-100 bases and are inherited markers."
+            },
+            {
+              "type": "paragraph",
+              "text": "Mini-satellites, such as VNTRs, are used in forensic identification of human individuals."
+            }
+          ]
+        },
+        {
+          "id": "l11-q10",
+          "question": "Define transposable elements and mention two characteristics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Transposable elements (TEs) are DNA sequences that can move (transpose) from one location to another within the genome."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "They make up a large proportion of the eukaryotic genome.",
+                "They can increase in number and cause genome expansion."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l11-q11",
+          "question": "Distinguish between Insertion Sequences (IS elements) and transposons.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Insertion Sequences are the simplest transposable elements found in prokaryotes that code only for transposition and do not carry additional genes. Transposons are more complex, coding for transposition and additional traits."
+            }
+          ]
+        },
+        {
+          "id": "l11-q12",
+          "question": "Outline the structure of a typical eukaryotic gene.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Promoter region at the start",
+                "Exons (protein-coding regions)",
+                "Introns (non-coding regions interrupting exons)",
+                "5' Untranslated Region (5' UTR)",
+                "3' Untranslated Region (3' UTR)",
+                "Start and stop codons defining the Open Reading Frame (ORF)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l11-q13",
+          "question": "Briefly explain the process of splicing in eukaryotic gene expression.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "During gene expression, both exons and introns are transcribed into the primary RNA transcript. The introns are then removed by splicing to produce a mature RNA transcript containing only exons, which is translated into protein."
+            }
+          ]
+        },
+        {
+          "id": "l11-q14",
+          "question": "What are pseudogenes and how do processed pseudogenes differ?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Pseudogenes are non-functional genes that have lost their function due to mutations. Processed pseudogenes lack introns and promoters, often arising from reverse-transcribed mRNA."
+            }
+          ]
+        },
+        {
+          "id": "l11-q15",
+          "question": "Define orthologs and paralogs in comparative genomics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "**Orthologs** are genes in different organisms that have similar sequences and functions due to shared evolutionary history. **Paralogs** are gene families within the same organism that arise from gene duplication and subsequent divergence."
+            }
+          ]
+        },
+        {
+          "id": "l11-q16",
+          "question": "What is the significance of comparative genomics?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Comparative genomics reveals relationships among different organisms by comparing gene number, content, and location, helping to identify orthologs, gene families, and evolutionary patterns."
+            }
+          ]
+        },
+        {
+          "id": "l11-q17",
+          "question": "Outline the main steps involved in genome annotation.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Locating protein-coding genes and their products.",
+                "Identifying RNA-encoding genes.",
+                "Recognizing non-coding regions.",
+                "Predicting gene functions.",
+                "Determining biochemical and structural properties of gene products.",
+                "Locating repeats, sequence tag sites (STS), and polymorphisms.",
+                "Comparing sequences with known protein databases."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 12,
+      "lessonId": "lesson-12",
+      "title": "same TOPIC 71",
+      "shortQuestions": [
+        {
+          "id": "l12-q01",
+          "question": "Define the Local Alignment Problem in biological sequence analysis.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Local Alignment Problem is to find the best local alignment between two strings by maximizing the alignment score over all substrings of the given sequences, rather than aligning the entire length as in the Global Alignment Problem."
+            }
+          ]
+        },
+        {
+          "id": "l12-q02",
+          "question": "List the main differences between Global Sequence Alignment and Local Alignment.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Global Sequence Alignment finds the longest path between vertices (0,0) and (n,m) in the edit graph, aligning entire sequences.",
+                "Local Alignment finds the longest path among paths between arbitrary vertices (i, j) and (i', j') in the edit graph, aligning substrings.",
+                "Local Alignment finds the longest path from the source (0,0) to every other vertex by adding edges with weight 0."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l12-q03",
+          "question": "Briefly explain the Greedy Progressive Multiple Alignment heuristic.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Greedy Progressive Multiple Alignment heuristic aligns the pair of strings with the greatest similarity first, creating a new string. It follows the principle 'once a gap, always a gap,' reducing the multiple alignment of k sequences to that of k−1 sequences."
+            }
+          ]
+        },
+        {
+          "id": "l12-q04",
+          "question": "Outline the main problem associated with the CLUSTAL progressive multiple alignment algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "CLUSTAL may be misled by spuriously strong pairwise alignment effects, leading to a bad seed. Errors in initial pairwise alignment propagate through the entire multiple alignment."
+            }
+          ]
+        },
+        {
+          "id": "l12-q05",
+          "question": "Describe two biologically relevant scoring approaches used in multiple sequence alignment.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Assign higher scores to columns with low variation in letters, indicating highly conserved sequences.",
+                "Multiple Longest Common Subsequence approach: score a column as 1 if all characters are the same, and 0 if any character disagrees."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l12-q06",
+          "question": "What is the significance of the discovery of split human genes in gene prediction?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Split human genes consist of exons separated by non-coding 'junk' DNA, analogous to magazine pages separated by advertisements. This discovery raised computational challenges in gene prediction due to the complex structure of genomes."
+            }
+          ]
+        },
+        {
+          "id": "l12-q07",
+          "question": "Explain the role of splicing signals in gene prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Splicing signals mark exon-intron junctions, with conserved dinucleotides AG and GT on the left and right sides of exons. Profiles describing nucleotide propensities at these sites help detect splice sites, though matches are often weak and frequent in the genome."
+            }
+          ]
+        },
+        {
+          "id": "l12-q08",
+          "question": "Outline the similarity-based approach to gene prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "This approach relies on the observation that newly sequenced genes are often related to known genes. It identifies putative exons by finding substrings in genomic sequences similar to known genes, assembling them to predict gene structure."
+            }
+          ]
+        },
+        {
+          "id": "l12-q09",
+          "question": "Define an Open Reading Frame (ORF) and its importance in gene prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "An ORF is a DNA sequence starting with a start codon (usually ATG) and ending with one of three stop codons (TAA, TAG, TGA). ORFs are important evidence in gene finding, with longer ORFs generally preferred as potential genes."
+            }
+          ]
+        },
+        {
+          "id": "l12-q10",
+          "question": "List the six possible reading frames in DNA sequence analysis.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Three reading frames on the forward strand starting at positions 1, 2, and 3 (denoted +1, +2, +3).",
+                "Three reading frames on the reverse (complementary) strand starting at positions 1, 2, and 3 (denoted -1, -2, -3)."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l12-q11",
+          "question": "Briefly explain the concept of 'in-frame hexamer count' in gene prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In-frame hexamer count refers to the frequencies of pairs of consecutive codons within a reading frame, used to improve the reliability of ORF detection by analyzing codon usage patterns."
+            }
+          ]
+        },
+        {
+          "id": "l12-q12",
+          "question": "Name three tools used for ORF finding.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "NCBI’s ORF Finder",
+                "ORF Investigator",
+                "OrfPredictor"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 13,
+      "lessonId": "lesson-13",
+      "title": "TOPIC 86 Translation Start Site (TSS)",
+      "shortQuestions": [
+        {
+          "id": "l13-q01",
+          "question": "Define Translation Start Site (TSS).",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Translation Start Site (TSS) is the location where translation begins with the codon ATG, which codes for methionine in a polypeptide."
+            }
+          ]
+        },
+        {
+          "id": "l13-q02",
+          "question": "List the assumptions made about nucleotides around the Translation Start Site.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Certain nucleotides prefer to be around TSS more than others.",
+                "The biased nucleotide distribution provides information for translation start prediction."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l13-q03",
+          "question": "Briefly explain how hexamer frequencies are used in coding potential analysis.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Hexamer frequencies in coding versus non-coding regions provide insights by calculating the frequency of each nucleotide at specific positions using the formula Fi(X) = Σ log(Ci(X)/Ni(X)), where Ci(X) is the count of nucleotide X at position i and Ni(X) is the total count."
+            }
+          ]
+        },
+        {
+          "id": "l13-q04",
+          "question": "Outline the steps of the algorithm used for predicting Translation Start Sites.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Build a mathematical model based on collected translation start sequences.",
+                "For each candidate translation start sequence, apply the model and get a score.",
+                "If the score is larger than zero, predict it as a translation start; higher scores indicate higher probability."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l13-q05",
+          "question": "Distinguish between the frequency Fi(X) and the Information Content (IC) score Si used in TSS prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Frequency Fi(X) measures the occurrence of nucleotide X at position i using log ratios of counts, while Information Content (IC) score Si sums the log of the ratio of observed frequency Fi(X) to expected frequency (0.25) to quantify the strength of evidence for a translation start site."
+            }
+          ]
+        },
+        {
+          "id": "l13-q06",
+          "question": "What is the significance of neighboring nucleotides C and G around the TSS according to the lesson?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The neighboring nucleotides C and G are most frequently seen around the TSS and can be used to identify the presence of translation start sites."
+            }
+          ]
+        },
+        {
+          "id": "l13-q07",
+          "question": "Explain why the log scale is used in the calculation of the Information Content score for TSS prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The log scale is used to convert the ratio of frequencies into additive values, which allows easier handling and comparison of large numbers in the scoring function."
+            }
+          ]
+        },
+        {
+          "id": "l13-q08",
+          "question": "List two conclusions about TSS prediction mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "TSS prediction can be an important step in gene prediction.",
+                "TSS can be predicted using the frequency of neighboring nucleotides."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l13-q09",
+          "question": "Briefly describe how the frequency table is used to decide which sequence is more probable to be a translation start.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The frequency table provides nucleotide frequencies at specific positions around TSS. By applying the scoring function using these frequencies, the sequence with the higher Information Content score is considered more probable to be a translation start site."
+            }
+          ]
+        },
+        {
+          "id": "l13-q10",
+          "question": "What does a positive score from the mathematical model indicate in TSS prediction?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A positive score indicates that the candidate sequence is predicted to be a translation start site, with higher scores corresponding to higher probabilities of true translation start."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 14,
+      "lessonId": "lesson-14",
+      "title": "TOPIC 87 Prediction of splice junctions",
+      "shortQuestions": [
+        {
+          "id": "l14-q01",
+          "question": "Define splice junctions and identify the canonical donor and acceptor sites.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Splice junctions are the boundaries between exons and introns in a gene sequence where splicing occurs."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Donor site: located at the start of introns, characterized by the dinucleotide GT.",
+                "Acceptor site: located at the end of introns, characterized by the dinucleotide AG preceded by a pyrimidine (Y)."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The canonical splice junction form is GT-AG, which accounts for 99.24% of splice sites."
+            }
+          ]
+        },
+        {
+          "id": "l14-q02",
+          "question": "List the non-canonical splice junction forms mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "GC-AG: 0.69%",
+                "AT-AC: 0.05%",
+                "Others: 0.02%"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l14-q03",
+          "question": "Briefly explain the concept of sequence logos and their use in splice junction prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Sequence logos are a visual representation of position-specific nucleotide or amino acid distributions."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Overall height at each position is proportional to the information content.",
+                "The proportions of each nucleotide or amino acid correspond to their observed frequencies, with the most frequent on top.",
+                "They help visualize biased nucleotide distributions at splice junctions, aiding in their prediction."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l14-q04",
+          "question": "What is information content (IC) in the context of splice junction prediction, and how is it calculated?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Information content (IC) measures how much the nucleotide frequency at a position deviates from a uniform distribution."
+            },
+            {
+              "type": "paragraph",
+              "text": "It is calculated as Si = Σ log (Fi(X) / 0.25), where Fi(X) is the frequency of nucleotide X at position i."
+            },
+            {
+              "type": "paragraph",
+              "text": "If every nucleotide has a frequency of 0.25 at a position, the information content is zero."
+            }
+          ]
+        },
+        {
+          "id": "l14-q05",
+          "question": "Outline the algorithm used to score a candidate donor or acceptor splice site.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Determine the frequency Fi(X) of each nucleotide X (A, C, G, T) at each position i in known splice sites.",
+                "For a candidate sequence, calculate the score as the sum of log (Fi(X) / 0.25) over all positions.",
+                "If the score is greater than zero, predict the sequence as a donor or acceptor site.",
+                "Higher scores indicate a higher probability that the prediction is correct."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l14-q06",
+          "question": "Distinguish between canonical and non-canonical splice junctions with respect to their nucleotide sequences and frequencies.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Type",
+                "Sequence",
+                "Frequency (%)"
+              ],
+              "rows": [
+                [
+                  "Canonical",
+                  "GT-AG",
+                  "99.24"
+                ],
+                [
+                  "Non-canonical",
+                  "GC-AG",
+                  "0.69"
+                ],
+                [
+                  "Non-canonical",
+                  "AT-AC",
+                  "0.05"
+                ],
+                [
+                  "Non-canonical",
+                  "Others",
+                  "0.02"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l14-q07",
+          "question": "Explain how biased distributions of nucleotides at splice junction flanks assist in their prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The flanks of splice junctions exhibit biased nucleotide distributions at specific positions, such as the GT at donor sites and AG at acceptor sites."
+            },
+            {
+              "type": "paragraph",
+              "text": "These biases create recognizable patterns that can be quantified and used by computational models to predict splice junctions accurately."
+            }
+          ]
+        },
+        {
+          "id": "l14-q08",
+          "question": "What is the significance of positions -2 and -1 in the acceptor splice site according to the lesson?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Positions -2 and -1 in the acceptor splice site show 100% frequencies of adenine (A) and guanine (G), respectively."
+            },
+            {
+              "type": "paragraph",
+              "text": "This strong conservation helps in the accurate prediction of acceptor splice sites."
+            }
+          ]
+        },
+        {
+          "id": "l14-q09",
+          "question": "Describe how information content can be used to determine the length of flanking regions around splice junctions.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Information content indicates the degree of nucleotide bias at each position."
+            },
+            {
+              "type": "paragraph",
+              "text": "Positions with higher information content are more informative for splice site prediction, so the length of flanks can be chosen based on where the information content is significantly above zero."
+            }
+          ]
+        },
+        {
+          "id": "l14-q10",
+          "question": "Summarize the main conclusion of the lesson regarding splice junction prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The main conclusion is that, similar to transcription start sites (TSS), splice junction flanks show biased nucleotide distributions at certain positions."
+            },
+            {
+              "type": "paragraph",
+              "text": "These biases can be exploited computationally to predict splice junctions with high accuracy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 15,
+      "lessonId": "lesson-15",
+      "title": "TOPIC 88 Prediction of Exons",
+      "shortQuestions": [
+        {
+          "id": "l15-q01",
+          "question": "Define the role of splice junctions in the prediction of exons.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Splice junctions provide critical information that is used to predict exons within an Open Reading Frame (ORF). They help in identifying the boundaries of exons by scoring segments such as acceptor and donor sites."
+            }
+          ]
+        },
+        {
+          "id": "l15-q02",
+          "question": "List the three scores obtained for each segment in exon prediction.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Coding potential score",
+                "Donor score",
+                "Acceptor score"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l15-q03",
+          "question": "Briefly explain the possible interpretations when the three scores (coding potential, donor, acceptor) vary in exon prediction.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "All three scores are high – probably a true exon.",
+                "All three scores are low – probably not a real exon.",
+                "All scores are in the middle – uncertain prediction.",
+                "Some scores are high and some are low – ambiguous prediction."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l15-q04",
+          "question": "Outline the general steps involved in predicting exons using scoring schemes.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Collect a set of exons and non-exons.",
+                "Score them using the scoring schemes (coding potential, donor, acceptor scores).",
+                "Plot the scores to visualize the data.",
+                "Draw a separating line between exons and non-exons to classify them."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l15-q05",
+          "question": "Distinguish the role of Linear Discriminate Analysis (LDA) in exon prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Linear Discriminate Analysis (LDA) finds an optimal plane or line that best separates points belonging to two classes, such as exons and introns, based on their features."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Represents samples as points in a multi-dimensional space according to features.",
+                "Computes a straight line or plane that minimizes classification error.",
+                "Helps discriminate between coding and non-coding regions by separating their data points."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l15-q06",
+          "question": "Explain how the separating line is used in exon prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The separating line, derived from scoring data, is drawn to distinguish exons from non-exons. It fits the data points in such a way that it maximizes correct classification, allowing prediction of whether a segment is an exon or not."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 16,
+      "lessonId": "lesson-16",
+      "title": "TOPIC 89 Annotation of Assembled Genome",
+      "shortQuestions": [
+        {
+          "id": "l16-q01",
+          "question": "Why is genome annotation important after genome assembly?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A genome sequence is useless without annotation."
+            }
+          ]
+        },
+        {
+          "id": "l16-q02",
+          "question": "List the three main steps in genome annotation.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Find features not associated with protein-coding genes (e.g. tRNA, rRNA, snRNA, SINE/LINE, miRNA precursors).",
+                "Build models for protein-coding genes, including exons, coding regions, regulatory regions.",
+                "Associate biologically relevant information with the genome features and genes."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l16-q03",
+          "question": "Briefly explain what Ab initio methods in genome annotation are.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Ab initio methods are based on sequence data alone without external evidence."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Gene prediction algorithms such as AUGUSTUS, Glimmer, GeneMark.",
+                "RepeatMasker for identifying repeat families."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l16-q04",
+          "question": "Outline the Evidence-based methods used in genome annotation.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Require transcriptome data for the target organism (the more the better).",
+                "Align cDNA sequences to assembled genome and generate gene models using tools like TopHat/Cufflinks and Scripture.",
+                "Perform BLAST of gene models against protein databases to find sequence similarity to known proteins.",
+                "Use InterProScan of predicted proteins against databases of protein domains such as Pfam, Prosite, HAMAP, PANTHER.",
+                "Map against Gene Ontology (GO) terms to assign gene functions using tools like BLAST2GO."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l16-q05",
+          "question": "What is meant by pattern finding in the context of genome annotation?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Pattern finding involves searching and recognizing certain patterns within DNA, RNA, or protein sequences."
+            },
+            {
+              "type": "paragraph",
+              "text": "In biology, it means finding motifs in DNA or proteins, while computationally it means finding a pattern in a string."
+            }
+          ]
+        },
+        {
+          "id": "l16-q06",
+          "question": "Name some gene prediction algorithms used in Ab initio genome annotation methods.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "AUGUSTUS",
+                "Glimmer",
+                "GeneMark"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 17,
+      "lessonId": "lesson-17",
+      "title": "TOPIC 90 Pattern Finding in a Genome",
+      "shortQuestions": [
+        {
+          "id": "l17-q01",
+          "question": "Define a pattern in the context of genome sequence analysis.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A pattern (keyword) is an ordered sequence of symbols."
+            }
+          ]
+        },
+        {
+          "id": "l17-q02",
+          "question": "What is the alphabet (Σ) in pattern finding?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The alphabet (Σ) is a predetermined finite set from which the symbols of the pattern and the searched text are chosen."
+            }
+          ]
+        },
+        {
+          "id": "l17-q03",
+          "question": "List the four cases of pattern finding described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Look for a perfect match",
+                "Allow errors due to substitutions",
+                "Allow errors due to insertions-deletions (InDels)",
+                "Combine weight functions for aligned pairs"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l17-q04",
+          "question": "Briefly explain the goal and input/output of the generalized pattern finding algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The goal is to find all occurrences of a pattern in a text."
+            },
+            {
+              "type": "orderedList",
+              "items": [
+                "Input: Pattern p = [p1…pn] of length n, Text t = [t1…tm] of length m",
+                "Output: An indication whether pattern P exists in text T or not"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l17-q05",
+          "question": "How are text and pattern represented in the data structure used for pattern finding?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Text and pattern are stored in arrays where indexes represent the positions of letters."
+            }
+          ]
+        },
+        {
+          "id": "l17-q06",
+          "question": "What biological molecules are pattern searching algorithms applied to, and why?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Pattern searching algorithms search specific sequences in strands of DNA, RNA, and proteins because these sequences have important biological meaning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 18,
+      "lessonId": "lesson-18",
+      "title": "TOPIC 91 Pattern Finding Algorithms",
+      "shortQuestions": [
+        {
+          "id": "l18-q01",
+          "question": "Define exact pattern matching.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Exact pattern matching is the process of finding a pattern p of length m in a string or text T of length n (where m ≤ n) such that the match is exact, meaning the exact word or pattern is found without any differences."
+            }
+          ]
+        },
+        {
+          "id": "l18-q02",
+          "question": "List the exact pattern matching algorithms mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Naïve Brute Force algorithm",
+                "Boyer-Moore algorithm",
+                "Knuth Morris Pratt algorithm"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l18-q03",
+          "question": "Briefly explain approximate pattern matching.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Approximate pattern matching, also known as approximate string matching or matches with k mismatches or differences, involves finding all occurrences of a substring X in a text T that are similar to a pattern p, allowing a limited number k of different characters in the matches."
+            }
+          ]
+        },
+        {
+          "id": "l18-q04",
+          "question": "Outline the algorithms used for approximate pattern matching.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Dynamic programming approach",
+                "Automata approach",
+                "Filtering and automation algorithms"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l18-q05",
+          "question": "What are position weight matrices and what do they represent?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Position weight matrices, also known as position specific scoring matrices (PSSM), are matrices representing the frequencies of residues observed at each position in multiple sequence alignments."
+            }
+          ]
+        },
+        {
+          "id": "l18-q06",
+          "question": "Describe suffix trees and their purpose.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Suffix trees are compressed trees containing all the suffixes of a string and allow many problems on strings to be solved quickly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 19,
+      "lessonId": "lesson-19",
+      "title": "TOPIC 92 Methods Devised for Pattern Finding",
+      "shortQuestions": [
+        {
+          "id": "l19-q01",
+          "question": "Define the brute force method used for pattern finding.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The brute force method, also known as the exhaustive search algorithm, explores all possibilities and chooses the best one by searching patterns nucleotide per nucleotide through the whole sequence."
+            }
+          ]
+        },
+        {
+          "id": "l19-q02",
+          "question": "List the main steps involved in the Brute_Force algorithm for pattern finding.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Set n as the length of the text T and m as the length of the pattern P.",
+                "Loop s from 0 to n - m.",
+                "For each s, compare the pattern P[1..m] with the text segment T[s+1..s+m].",
+                "If they match, print the position s+1 where the pattern occurs."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l19-q03",
+          "question": "Briefly explain how the brute force method searches for patterns in a sequence.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The brute force method searches patterns by going through the entire sequence nucleotide by nucleotide, shifting the search window exactly one position to the right each time, and comparing the pattern with the corresponding segment of the text."
+            }
+          ]
+        },
+        {
+          "id": "l19-q04",
+          "question": "Outline the drawback of using the brute force method for pattern finding.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The brute force method has a runtime of O(mn) due to repetitive use of residues in comparison, which makes it very slow especially for tasks with many possibilities."
+            }
+          ]
+        },
+        {
+          "id": "l19-q05",
+          "question": "Distinguish between the brute force method and other pattern finding methods in terms of efficiency.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The brute force method is an exhaustive search that compares nucleotide by nucleotide and thus takes a long time, whereas other methods may use more efficient algorithms to reduce the number of comparisons and improve speed."
+            }
+          ]
+        },
+        {
+          "id": "l19-q06",
+          "question": "Explain the meaning of the notation P[1..m] = T[s+1..s+m] in the brute force algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The notation P[1..m] = T[s+1..s+m] means comparing the entire pattern P from its first nucleotide to its mth nucleotide with the segment of the text T starting at position s+1 and ending at s+m to check if the pattern occurs at that position."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 20,
+      "lessonId": "lesson-20",
+      "title": "TOPIC 93 Knuth-Morris-Pratt Algorithm",
+      "shortQuestions": [
+        {
+          "id": "l20-q01",
+          "question": "Define the Knuth-Morris-Pratt (KMP) algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Knuth-Morris-Pratt (KMP) algorithm is a linear time algorithm for string matching that avoids backtracking on the string by preventing repetitive comparisons of nucleotide residues."
+            }
+          ]
+        },
+        {
+          "id": "l20-q02",
+          "question": "List the main components of the KMP algorithm.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "The Prefix Function (Π)",
+                "The KMP Matcher"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l20-q03",
+          "question": "Briefly explain the role of the prefix function Π in the KMP algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The prefix function Π encapsulates knowledge about how the pattern matches against shifts of itself, which helps avoid useless shifts of the pattern and prevents backtracking on the string."
+            }
+          ]
+        },
+        {
+          "id": "l20-q04",
+          "question": "Outline the inputs and outputs of the KMP matcher.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Inputs: string ‘S’, pattern ‘p’, and prefix function ‘Π’",
+                "Output: the number of shifts of ‘p’ after which the occurrence is found in ‘S’"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l20-q05",
+          "question": "Distinguish the KMP algorithm from other string matching algorithms in terms of backtracking.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Unlike other string matching algorithms, the KMP algorithm does not involve backtracking on the string ‘S’, which means it avoids repetitive comparisons and improves efficiency."
+            }
+          ]
+        },
+        {
+          "id": "l20-q06",
+          "question": "What is the main advantage of using the prefix function in the KMP algorithm?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The main advantage of the prefix function is that it enables the algorithm to avoid useless shifts of the pattern ‘p’, thereby improving the efficiency of string matching."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 21,
+      "lessonId": "lesson-21",
+      "title": "Topic 94 Knuth-Morris-Pratt Algorith",
+      "shortQuestions": [
+        {
+          "id": "l21-q01",
+          "question": "Define the Knuth-Morris-Pratt (KMP) algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Knuth-Morris-Pratt (KMP) algorithm is a fast linear time algorithm for string matching that finds whether a pattern 'p' occurs in a text 'S' without moving backwards in the text."
+            }
+          ]
+        },
+        {
+          "id": "l21-q02",
+          "question": "List the main steps of the KMP matcher algorithm.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Compute the prefix function Π for the pattern p.",
+                "Initialize q to 0, the number of characters matched.",
+                "Scan the text S from left to right.",
+                "While q > 0 and the next character does not match, update q using Π[q].",
+                "If the next character matches, increment q.",
+                "If all characters of p are matched (q = m), print the pattern occurrence position.",
+                "Update q to Π[q] to look for the next match."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l21-q03",
+          "question": "Briefly explain the purpose of the prefix function Π in the KMP algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The prefix function Π for pattern p stores the length of the longest prefix of p that is also a suffix for each position, helping to avoid redundant comparisons by indicating where to resume matching after a mismatch."
+            }
+          ]
+        },
+        {
+          "id": "l21-q04",
+          "question": "Outline the time complexity of the KMP algorithm and explain its components.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "O(m) to compute the prefix function values for the pattern of length m.",
+                "O(n) to compare the pattern to the text of length n.",
+                "Total runtime complexity is O(m + n), which is optimal for string matching."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l21-q05",
+          "question": "List two advantages of the KMP algorithm.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "The running time is optimal (O(m + n)), making it very fast.",
+                "The algorithm never needs to move backwards in the text, which is efficient for processing very large files."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l21-q06",
+          "question": "What is a drawback of the KMP algorithm mentioned in the lesson?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The KMP algorithm does not work so well as the size of the alphabets increases."
+            }
+          ]
+        },
+        {
+          "id": "l21-q07",
+          "question": "Define what a substitution matrix is in the context of sequence alignment.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A substitution matrix is a log-odds matrix used for scoring amino acid substitutions in pairwise alignments, reflecting substitution rates originated by evolutionary events."
+            }
+          ]
+        },
+        {
+          "id": "l21-q08",
+          "question": "Distinguish between PAM and BLOSUM substitution matrices.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "PAM matrices are derived from substitution data of similar proteins and extrapolated to longer evolutionary distances.",
+                "BLOSUM matrices are derived from aligned, ungapped regions of protein families (BLOCKS database) and better capture differences between short and long term substitutions.",
+                "PAM matrices do not perform well for distantly related proteins, whereas BLOSUM matrices are better suited for such cases."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l21-q09",
+          "question": "Briefly explain the concept of odds ratio in substitution scoring.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The odds ratio is the ratio of the likelihood that two residues are aligned because they are related (match model) versus the likelihood that they are aligned by chance (random model). The substitution score S(a,b) is the logarithm of this ratio."
+            }
+          ]
+        },
+        {
+          "id": "l21-q10",
+          "question": "Outline the three main steps of dynamic programming used in sequence alignment.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Initialization: Create a matrix with dimensions based on the lengths of the sequences.",
+                "Matrix filling: Fill the matrix with the highest possible scores based on match, mismatch, and gap penalties.",
+                "Traceback: Move from the last cell following pointers to reconstruct the optimal alignment."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l21-q11",
+          "question": "Define global alignment and name the algorithm used for it.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Global alignment is an alignment that spans the full extent of the input sequences, covering their entire length. The Needleman-Wunsch algorithm is used to find the best global alignment between two sequences."
+            }
+          ]
+        },
+        {
+          "id": "l21-q12",
+          "question": "What is the main difference between local and global alignment?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Global alignment covers the entire length of both sequences, while local alignment only covers parts of the sequences to find the best matching subsequences."
+            }
+          ]
+        },
+        {
+          "id": "l21-q13",
+          "question": "Briefly describe the initialization step in the Needleman-Wunsch algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The initialization step creates a matrix with M+1 columns and N+1 rows (M and N are sequence lengths), filling the first row and first column with gap penalties starting from zero."
+            }
+          ]
+        },
+        {
+          "id": "l21-q14",
+          "question": "Explain the key difference in matrix filling between Needleman-Wunsch and Smith-Waterman algorithms.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In Needleman-Wunsch (global alignment), the matrix is filled considering match, mismatch, and gap scores without resetting negative values. In Smith-Waterman (local alignment), negative values are replaced by zero to allow local alignments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 22,
+      "lessonId": "lesson-22",
+      "title": "Topic 101-102 DNA Sequencing",
+      "shortQuestions": [
+        {
+          "id": "l22-q01",
+          "question": "Briefly explain the problem of fragment assembly in DNA sequencing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The problem of fragment assembly in DNA sequencing involves reassembling millions of short DNA pieces, similar to reassembling a magazine cut into many pieces. These short sequences are typically 500 to 700 nucleotides long, and assembling them into a continuous genome is complicated by experimental errors and incomplete data."
+            }
+          ]
+        },
+        {
+          "id": "l22-q02",
+          "question": "List the main DNA sequencing methods mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Fred Sanger method",
+                "Walter Gilbert method"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l22-q03",
+          "question": "Outline the role of DNA fragments of different lengths in DNA sequencing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "DNA fragments of different lengths are generated during sequencing. If one base is missing, it results in fragments of varying sizes, which are used to determine the sequence by analyzing these fragments."
+            }
+          ]
+        },
+        {
+          "id": "l22-q04",
+          "question": "Define shotgun sequencing as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Shotgun sequencing is a DNA sequencing method where the DNA is randomly broken into small fragments, which are then sequenced individually and assembled computationally to reconstruct the original sequence."
+            }
+          ]
+        },
+        {
+          "id": "l22-q05",
+          "question": "Briefly explain the cloning process in DNA sequencing involving sonicated inserts and bacterial hosts.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The cloning process involves sonicated DNA fragments called inserts, which are inserted into vectors. These vectors are introduced into bacterial hosts to replicate the DNA fragments, allowing for sequencing and computational assembly."
+            }
+          ]
+        },
+        {
+          "id": "l22-q06",
+          "question": "List the challenges in DNA sequencing due to experimental conditions mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Unavoidable experimental error",
+                "Frequently incomplete data"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 23,
+      "lessonId": "lesson-23",
+      "title": "Topic-103 DNA Array",
+      "shortQuestions": [
+        {
+          "id": "l23-q01",
+          "question": "Define DNA array (DNA chip).",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A DNA array, also known as a DNA chip, is a collection of DNA probes arranged in an array format used for hybridization to detect unknown target DNA sequences."
+            }
+          ]
+        },
+        {
+          "id": "l23-q02",
+          "question": "List the key components involved in the DNA array technology mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Human Genome Project",
+                "Sequencing by Hybridization",
+                "DNA array (DNA chip)",
+                "Probes",
+                "Hybridization",
+                "Weak chemical bond",
+                "DNA probes",
+                "Light-directed polymer synthesis"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l23-q03",
+          "question": "Briefly explain the role of probes in DNA arrays.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Probes in DNA arrays are short DNA sequences used to hybridize with unknown target DNA sequences to identify their composition."
+            }
+          ]
+        },
+        {
+          "id": "l23-q04",
+          "question": "Outline the significance of the work by Steve Fodor and colleagues in DNA array technology.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Steve Fodor and colleagues contributed to DNA array technology by developing light-directed polymer synthesis methods, which have similarities to computer chip manufacturing."
+            }
+          ]
+        },
+        {
+          "id": "l23-q05",
+          "question": "Distinguish between the universal DNA array and the Affymetrix 64-kb DNA array mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Feature",
+                "Universal DNA Array",
+                "Affymetrix 64-kb DNA Array"
+              ],
+              "rows": [
+                [
+                  "Probes",
+                  "Contains all 4^l probes of length l",
+                  "64-kb DNA array developed in 1994"
+                ],
+                [
+                  "Target DNA",
+                  "Unknown target DNA l-mer composition",
+                  "Not specified"
+                ],
+                [
+                  "Size",
+                  "Not specified",
+                  "64-kb"
+                ],
+                [
+                  "Reactions",
+                  "4 · l separate reactions",
+                  "Not specified"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l23-q06",
+          "question": "List the two main problems addressed by DNA probes as mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Biochemical problem",
+                "Combinatorial problem"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 24,
+      "lessonId": "lesson-24",
+      "title": "Topic-104 Sequencing by Hybridization",
+      "shortQuestions": [
+        {
+          "id": "l24-q01",
+          "question": "Define the l-mer composition of a string s.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The l-mer composition of a string s is the multiset of all substrings of s of length l, specifically n − l + 1 l-mers if s has length n. It is denoted as Spectrum(s, l)."
+            }
+          ]
+        },
+        {
+          "id": "l24-q02",
+          "question": "List the l-mers in Spectrum(s, 3) for the string s = TATGGTGC.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "TAT",
+                "ATG",
+                "TGG",
+                "GGT",
+                "GTG",
+                "TGC"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l24-q03",
+          "question": "Explain the Sequencing by Hybridization (SBH) problem.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The SBH problem involves reconstructing a string s from its l-mer composition. Given a set S representing all l-mers from an unknown string s, the goal is to find a string s such that Spectrum(s, l) = S."
+            }
+          ]
+        },
+        {
+          "id": "l24-q04",
+          "question": "What is the input and output in the Sequencing by Hybridization problem?",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Input: A set S representing all l-mers from an unknown string s.",
+                "Output: A string s such that Spectrum(s, l) = S."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l24-q05",
+          "question": "What does Spectrum(s, l) represent?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Spectrum(s, l) represents the multiset of all l-length substrings (l-mers) of the string s."
+            }
+          ]
+        },
+        {
+          "id": "l24-q06",
+          "question": "Give the lexicographic order of the l-mers in Spectrum(s, 3) for s = TATGGTGC.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The lexicographic order of the l-mers is: ATG, GGT, GTG, TAT, TGC, TGG."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 25,
+      "lessonId": "lesson-25",
+      "title": "Topic-105- Fragment Assembly in DNA Sequencing",
+      "shortQuestions": [
+        {
+          "id": "l25-q01",
+          "question": "Define fragment assembly in DNA sequencing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Fragment assembly in DNA sequencing is the process of reconstructing the entire genomic DNA sequence from shorter DNA reads, typically 500 to 700 base pairs long."
+            }
+          ]
+        },
+        {
+          "id": "l25-q02",
+          "question": "List the three main steps of most fragment assembly algorithms.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Overlap: Finding potentially overlapping reads",
+                "Layout: Finding the order of reads along DNA",
+                "Consensus: Deriving the DNA sequence from the layout"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l25-q03",
+          "question": "Briefly explain why repeats in DNA pose a major problem in fragment assembly.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Repeats in DNA, such as Alu and LINE sequences, occur many times in the genome and at various scales, making it difficult to correctly assign reads to their original positions during assembly."
+            }
+          ]
+        },
+        {
+          "id": "l25-q04",
+          "question": "Outline the sequencing strategy used in the Human Genome Project to simplify computational assembly.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Cloning DNA into BACs (Bacterial Artificial Chromosomes)",
+                "Sequencing each BAC separately as a minigenome",
+                "This approach simplifies the computational assembly problem"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l25-q05",
+          "question": "Distinguish between the whole-genome assembly paradigm and the BAC cloning strategy.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The BAC cloning strategy sequences smaller cloned segments (minigenomes) separately to simplify assembly, whereas the whole-genome assembly paradigm sequences the entire genome at once using shotgun sequencing and computational methods."
+            }
+          ]
+        },
+        {
+          "id": "l25-q06",
+          "question": "Explain the role of mate-pair reads in fragment assembly.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Mate-pair reads sequence both ends of DNA inserts of length L, where the distance between mates is larger than most repeats, helping to resolve repeats and improve assembly accuracy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 26,
+      "lessonId": "lesson-26",
+      "title": "Topic-107- Protein Sequencing and Identification",
+      "shortQuestions": [
+        {
+          "id": "l26-q01",
+          "question": "Define Edman degradation reaction in protein sequencing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Edman degradation reaction is a method used to sequentially chop off one terminal amino acid from a protein or peptide, allowing determination of its sequence."
+            }
+          ]
+        },
+        {
+          "id": "l26-q02",
+          "question": "List two key differences between DNA sequencing and protein sequencing as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA sequencing involves breaking, reading fragments, and assembling them, which is relatively easy.",
+                "Protein sequencing involves methods like Edman degradation and mass spectrometry, and the assembly or interpretation is more complex due to fragmentation imprecision."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l26-q03",
+          "question": "Briefly explain the peptide sequencing problem in mass spectrometry.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The peptide sequencing problem involves deriving the sequence of a peptide from its mass spectrum, which is a collection of masses of peptide fragments. The challenge arises because the fragmentation process is not ideal and mass measurements have some imprecision."
+            }
+          ]
+        },
+        {
+          "id": "l26-q04",
+          "question": "Outline the types of ions involved in peptide fragmentation and their significance.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Peptide fragmentation is characterized by a set of ion types denoted as Δ = {δ1, ..., δk}. The most frequent N-terminal ions are called b-ions (with δ = -1), and the most frequent C-terminal ions are called y-ions (with δ = 19). These ions help identify partial peptide masses during sequencing."
+            }
+          ]
+        },
+        {
+          "id": "l26-q05",
+          "question": "What is the main advantage of using database search algorithms like SEQUEST in protein identification?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Database search algorithms limit the search space to peptides present in a known protein database, avoiding the need to consider all possible peptide sequences and thus improving the efficiency and accuracy of interpreting MS/MS spectra."
+            }
+          ]
+        },
+        {
+          "id": "l26-q06",
+          "question": "Distinguish between de novo protein sequencing and protein identification via database search.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "De novo protein sequencing derives peptide sequences directly from spectral data without prior knowledge.",
+                "Protein identification via database search matches experimental spectra against a database of known protein sequences to find the best match."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l26-q07",
+          "question": "Define the protein identification problem as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The protein identification problem is to find a protein from a database that best matches an experimental spectrum, given the database, the spectrum S, a set of ion types, and a parent mass m."
+            }
+          ]
+        },
+        {
+          "id": "l26-q08",
+          "question": "List the inputs and output of the protein identification problem.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Input/Output",
+                "Description"
+              ],
+              "rows": [
+                [
+                  "Input",
+                  "A database of proteins"
+                ],
+                [
+                  "Input",
+                  "An experimental spectrum S"
+                ],
+                [
+                  "Input",
+                  "A set of ion types"
+                ],
+                [
+                  "Input",
+                  "A parent mass m"
+                ],
+                [
+                  "Output",
+                  "A protein of mass m from the database with the best match to spectrum S"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l26-q09",
+          "question": "Briefly explain the significance of Frederick Sanger in protein sequencing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Frederick Sanger was awarded the Nobel Prize for his work on protein sequencing, notably for sequencing insulin using proteases, which laid foundational methods for protein analysis."
+            }
+          ]
+        },
+        {
+          "id": "l26-q10",
+          "question": "Explain why mass spectrometry measurements are challenging for peptide sequencing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Mass spectrometry measurements are challenging because the peptide fragmentation process is not ideal and the mass spectrometers measure masses with some imprecision, complicating the accurate derivation of peptide sequences."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 27,
+      "lessonId": "lesson-27",
+      "title": "Topic-113 Modified Protein Identification Problem",
+      "shortQuestions": [
+        {
+          "id": "l27-q01",
+          "question": "Define the Modified Protein Identification Problem as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Modified Protein Identification Problem involves finding a peptide from a database that best matches an experimental spectrum with up to k modifications. The input includes a protein database, an experimental spectrum S, a set of ion types Δ, a parent mass m, and a parameter k limiting the number of modifications. The output is a protein of mass m that best matches spectrum S and is at most k modifications away from an entry in the database."
+            }
+          ]
+        },
+        {
+          "id": "l27-q02",
+          "question": "List the inputs and outputs of the Modified Protein Identification Problem.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Input: A database of proteins",
+                "Input: An experimental spectrum S",
+                "Input: A set of ion types Δ",
+                "Input: A parent mass m",
+                "Input: A parameter k capping the number of modifications",
+                "Output: A protein of mass m with the best match to spectrum S that is at most k modifications away from an entry in the database"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l27-q03",
+          "question": "Briefly explain the notion of spectral similarity mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Spectral similarity refers to how closely an experimental spectrum matches a theoretical spectrum derived from a protein or peptide sequence. It is often measured by shared peaks count, which counts the number of matching peaks between spectra."
+            }
+          ]
+        },
+        {
+          "id": "l27-q04",
+          "question": "Outline the limitations in detecting similarities by database search as discussed in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The lesson mentions limitations in detecting similarities by database search but does not provide detailed explanations. It implies that database search methods may have difficulty identifying modified proteins due to the complexity introduced by modifications and spectral variations."
+            }
+          ]
+        },
+        {
+          "id": "l27-q05",
+          "question": "Distinguish between the Modified Protein Identification problems P1 and P2, and S1 and S2, if mentioned.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The lesson references Modified Protein Identification problems P1 and P2, and S1 and S2, but does not provide explicit distinctions or definitions for these terms."
+            }
+          ]
+        },
+        {
+          "id": "l27-q06",
+          "question": "What is the role of the parameter k in the Modified Protein Identification Problem?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The parameter k limits the number of modifications allowed when matching a protein from the database to the experimental spectrum. It caps how many modifications away the matched protein can be from an entry in the database."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 28,
+      "lessonId": "lesson-28",
+      "title": "Topic 114-Protein Structures",
+      "shortQuestions": [
+        {
+          "id": "l28-q01",
+          "question": "Define the basic idea behind protein structure prediction.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Amino acids determine the protein structure.",
+                "We have a large protein sequence dataset (uniprot).",
+                "Hence, we can fold protein sequences and predict their structures."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l28-q02",
+          "question": "List the steps involved in natural protein folding as mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "\"Collapse\" - leading to burial of hydrophobic amino acids.",
+                "Fluid globule - helices and sheets form but are unorganized.",
+                "Compaction and rearrangement of secondary structures."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l28-q03",
+          "question": "Briefly explain why exact protein structure solutions are difficult to obtain.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "It is difficult to crystallize proteins.",
+                "Even if X-Ray data is obtained, reconstructing the structure is extremely complex.",
+                "A deterministic solution of protein folding remains a major unsolved problem in molecular biology."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l28-q04",
+          "question": "Outline how knowledge of amino acid preferences helps in predicting secondary structures.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "By surveying known protein structures in PDB, we can identify which amino acids prefer which secondary structures. For example, Alanine is mostly found in Alpha Helices. Thus, if a sequence contains several Alanines, we can anticipate formation of an alpha helix."
+            }
+          ]
+        },
+        {
+          "id": "l28-q05",
+          "question": "What is the role of propensity tables in the Chou-Fasman Algorithm?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Propensity tables provide values that indicate the likelihood of each amino acid to form a particular secondary structure."
+            },
+            {
+              "type": "paragraph",
+              "text": "The product of these propensity values is computed to find the overall propensity for each secondary structure."
+            },
+            {
+              "type": "paragraph",
+              "text": "The secondary structure with the highest net propensity is predicted to form."
+            }
+          ]
+        },
+        {
+          "id": "l28-q06",
+          "question": "Distinguish between the requirements for starting an Alpha Helix and a Beta Sheet in the Chou-Fasman Algorithm.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "An Alpha Helix requires 4 contiguous amino acids with an Alpha-Helix propensity greater than 1.0 to start.",
+                "A Beta Sheet requires 5 amino acids to be evaluated.",
+                "Loops, another secondary structure, are small regions of about 3-4 amino acids."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l28-q07",
+          "question": "Explain how the Chou-Fasman Algorithm decides when an Alpha Helix stops.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Alpha Helix continues as long as the Alpha-Helix propensity of contiguous amino acids remains above 1.0."
+            },
+            {
+              "type": "paragraph",
+              "text": "Once the propensity falls below 1.0, the Alpha Helix is considered to stop."
+            }
+          ]
+        },
+        {
+          "id": "l28-q08",
+          "question": "Outline the approach used by the Chou-Fasman Algorithm to differentiate between Alpha Helices and Beta Sheets.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Alpha Helices are finalized if their propensity is higher than the Beta Sheet propensity in regions of 5 amino acids."
+            },
+            {
+              "type": "paragraph",
+              "text": "If the Beta Sheet propensity is higher, those regions are further evaluated for Beta Sheets."
+            },
+            {
+              "type": "paragraph",
+              "text": "This strategy of comparing propensities allows the algorithm to resolve assignments of Alpha Helices and Beta Sheets."
+            }
+          ]
+        },
+        {
+          "id": "l28-q09",
+          "question": "What improvements are suggested for the Chou-Fasman Algorithm?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Recalculate secondary structure propensity values using the latest protein datasets.",
+                "Consider nucleation regions, membrane proteins, and hydrophobic domains.",
+                "Incorporate variable coil and loop sizes beyond tetra peptide turns.",
+                "Account for local protein folding environments and solvent accessibility of residues.",
+                "Include protein structural class and organism-specific factors."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l28-q10",
+          "question": "Briefly explain why protein structure visualization, classification, and prediction are important.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "These processes equip us to perform functional evaluation of proteins."
+            },
+            {
+              "type": "paragraph",
+              "text": "Understanding protein structure is important for disease understanding and designing drugs for treatment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 29,
+      "lessonId": "lesson-29",
+      "title": "Topic-127- Introduction to Homology Modelling",
+      "shortQuestions": [
+        {
+          "id": "l29-q01",
+          "question": "Define the four levels of protein structure.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "1’ structure: Sequence of proteins obtained by mass spectrometry.",
+                "2’ structure: Formed by helices, beta sheets, loops, and coils.",
+                "3’ structure: Combination of 2’ structures forming overall protein structure.",
+                "4’ structure: Formed when two or more proteins complex together."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l29-q02",
+          "question": "List the three main strategies for protein structure prediction.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Homology Modelling",
+                "Threading/Fold Recognition",
+                "Ab Initio Modelling"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l29-q03",
+          "question": "Briefly explain the principle behind homology modelling.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Homology modelling predicts the 3’ structure of an unknown protein based on the known 3’ structure of a homologous protein with a similar 1’ sequence."
+            }
+          ]
+        },
+        {
+          "id": "l29-q04",
+          "question": "Outline the seven steps involved in homology modelling.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Template recognition and initial alignment",
+                "Alignment correction",
+                "Backbone generation",
+                "Loop modeling",
+                "Side-chain modeling",
+                "Model optimization",
+                "Model validation"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l29-q05",
+          "question": "What are the inputs required by the MODELLER software for homology modelling?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Python script file",
+                "Sequence alignment",
+                "Template structure in PDB format"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l29-q06",
+          "question": "Distinguish between homology modelling and fold recognition (threading).",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Homology modelling uses high sequence similarity to predict structure based on a known homologous template.",
+                "Fold recognition (threading) is used when homology modelling fails; it fits a sequence onto known folds based on structural compatibility rather than sequence similarity."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l29-q07",
+          "question": "When is fold recognition (threading) particularly useful?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Fold recognition is useful for proteins in the “Twilight Zone” where sequence alignment quality and identity are low and homology modelling cannot produce quality structures."
+            }
+          ]
+        },
+        {
+          "id": "l29-q08",
+          "question": "List the advantages and disadvantages of fold recognition (threading).",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Advantages",
+                "Disadvantages"
+              ],
+              "rows": [
+                [
+                  "Helps predict secondary structures towards tertiary structure prediction.",
+                  "Novel proteins cannot be predicted using threading."
+                ],
+                [
+                  "Useful for low alignment quality and identity cases.",
+                  "Less than 30% of predicted first hits are true remote homologues."
+                ],
+                [
+                  "",
+                  "Validation of each result is necessary."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l29-q09",
+          "question": "Explain the rationale behind ab initio modelling.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Ab initio modelling predicts protein structures based on physical models and the thermodynamic hypothesis, identifying the structure with minimum free energy without relying on homologous templates."
+            }
+          ]
+        },
+        {
+          "id": "l29-q10",
+          "question": "Outline the main steps involved in energy optimization during ab initio modelling.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Start with a rough initial model.",
+                "Define an energy function mapping structures to energy values to be minimized.",
+                "Solve the computational problem of finding the global minimum energy structure."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l29-q11",
+          "question": "What are the limitations of ab initio modelling?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Computationally expensive.",
+                "Suitable mainly for proteins with less than 100 residues.",
+                "Accuracy limited by current understanding of protein folding.",
+                "Difficult to design accurate energy functions.",
+                "Slow due to huge possibilities in folding."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l29-q12",
+          "question": "Describe the concept of the “Twilight Zone” in protein structure prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The “Twilight Zone” refers to cases with low sequence identity and alignment scores where homology modelling is unreliable, and other methods like fold recognition or ab initio modelling are needed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 30,
+      "lessonId": "lesson-30",
+      "title": "Topic-161 RNA Structure",
+      "shortQuestions": [
+        {
+          "id": "l30-q01",
+          "question": "Define canonical base pairs in RNA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Canonical base pairs in RNA are specific pairs of bases that pair with each other in a standard way."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "A pairs with U (A-U)",
+                "G pairs with C (G-C)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l30-q02",
+          "question": "List the types of \"wobble\" base pairings mentioned in RNA structure.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "G-U",
+                "I-U",
+                "I-A",
+                "I-C"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l30-q03",
+          "question": "Briefly explain RNA folding.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA folding is the process where a single stranded RNA molecule folds upon itself to form base pairs and secondary structures, which can change its properties dramatically."
+            }
+          ]
+        },
+        {
+          "id": "l30-q04",
+          "question": "Outline the main RNA types mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Messenger RNA (mRNA)",
+                "Non-coding RNA types:",
+                "transfer RNA (tRNA)",
+                "ribosomal RNA (rRNA)",
+                "small interfering RNA (siRNA)",
+                "micro RNA (miRNA)",
+                "small nucleolar RNA (snoRNA)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l30-q05",
+          "question": "Distinguish between RNA and DNA in terms of strand structure and sequence analysis.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA is produced as a single stranded molecule, unlike DNA which is double stranded. RNA sequence analysis is different from DNA sequence analysis."
+            }
+          ]
+        },
+        {
+          "id": "l30-q06",
+          "question": "What are pseudoknots and why do they cause problems in RNA secondary structure prediction algorithms?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Pseudoknots are RNA secondary structures where bases pair in a way that breaks the standard nested pairing pattern."
+            },
+            {
+              "type": "paragraph",
+              "text": "They cause breakdown in the Dynamic Programming Algorithm because checks must be made to ensure a base is not already paired, which breaks down the recurrence relations used in the algorithm."
+            }
+          ]
+        },
+        {
+          "id": "l30-q07",
+          "question": "List the main approaches to RNA secondary structure prediction mentioned.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Energy minimization",
+                "Comparative sequence analysis",
+                "Base-pair maximization"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l30-q08",
+          "question": "Explain the assumptions behind the dynamic programming approach for RNA secondary structure prediction.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "The energetically most stable structure is the most likely structure.",
+                "Energy associated with any position is only influenced by local sequence and structure.",
+                "Pseudoknots are neglected."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l30-q09",
+          "question": "What is the role of energy minimization in RNA secondary structure prediction?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Energy minimization algorithms predict RNA secondary structure by minimizing the free energy (G), which is calculated as the sum of individual contributions from loops and stacking interactions."
+            }
+          ]
+        },
+        {
+          "id": "l30-q10",
+          "question": "Briefly describe the RNASeq procedure for calculating transcript abundance.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Isolation of all mRNA from the sample.",
+                "Conversion of mRNA to cDNA using reverse transcriptase.",
+                "Sequencing the cDNA.",
+                "Mapping the sequence reads to the genome.",
+                "Counting the number and density of reads corresponding to RNA from each known exon, splice event, or new candidate gene."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l30-q11",
+          "question": "What is RPKM and why is it used in RNASeq data analysis?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RPKM stands for Reads Per Kilobase of transcript per Million mapped reads."
+            },
+            {
+              "type": "paragraph",
+              "text": "It is a method for quantifying transcript levels that normalizes read counts for both the length of the RNA transcript and the total number of reads in the sample, facilitating comparison of transcript levels within and between samples."
+            }
+          ]
+        },
+        {
+          "id": "l30-q12",
+          "question": "Outline the main challenges in RNASeq data analysis.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Uniformity of sequence coverage.",
+                "Quantity of sequence required to reliably detect RNAs of lower abundance classes.",
+                "Quantification and conversion of relative quantification to absolute RNA concentrations.",
+                "Transcriptomes of organisms with large genomes and complicated gene structures.",
+                "Mapping biases due to sequencing platform and gene length."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 31,
+      "lessonId": "lesson-31",
+      "title": "Topic 177- Introduction to Drug Discovery",
+      "shortQuestions": [
+        {
+          "id": "l31-q01",
+          "question": "Define drug as per the lesson text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Chemical substances that are used to prevent or cure diseases in humans, animals and plants."
+            }
+          ]
+        },
+        {
+          "id": "l31-q02",
+          "question": "List the main disciplines involved in the drug discovery team.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Chemistry",
+                "Biology",
+                "Biochemistry",
+                "Pharmacology",
+                "Mathematics",
+                "Medicine",
+                "Computing"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l31-q03",
+          "question": "Briefly explain the primary objective of drug discovery.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The primary objective is the design and discovery of new compounds that are suitable for use as drugs."
+            }
+          ]
+        },
+        {
+          "id": "l31-q04",
+          "question": "Outline the ADMET properties of drugs mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "ADMET refers to the absorption, distribution, metabolism, excretion, and toxicity properties of drugs."
+            },
+            {
+              "type": "paragraph",
+              "text": "No drug is completely safe; suitable quantities cure while excess can be poisonous, e.g., aspirin and paracetamol."
+            }
+          ]
+        },
+        {
+          "id": "l31-q05",
+          "question": "Distinguish between the physiology-based and target-centric approaches in target discovery strategy.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "**Physiology-based approach:** Disease-centric, target not identified, involves multiple targets, in vivo screening using drugs, siRNA or antisense oligonucleotides, relies on disease."
+            },
+            {
+              "type": "paragraph",
+              "text": "**Target-centric approach:** Starts with identification of genes and protein products, aims to develop drugs affecting one gene or molecular mechanism, uses in vitro cellular models and gene-suppression tools."
+            }
+          ]
+        },
+        {
+          "id": "l31-q06",
+          "question": "List the applications of pharmacogenetics as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Detection of genetic variability of drug effects on the genome level",
+                "Agent selection",
+                "Analysis of drug reactions and drug toxicity on gene expression",
+                "Development of new indications for already approved drugs",
+                "Discovery of new drug targets",
+                "Identification of (non) responders in clinical trials of phase I-IV",
+                "Identification of genotype dependent adverse drug reactions",
+                "Identification of individuals at risk for severe adverse drug effects"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l31-q07",
+          "question": "Briefly explain the concept of high-throughput screening in drug discovery.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "High-throughput screening is an automated process widely used in the pharmaceutical industry to quickly assay the biological or biochemical activity of a large number of drug-like compounds."
+            }
+          ]
+        },
+        {
+          "id": "l31-q08",
+          "question": "What is the role of combinatorial chemistry in drug discovery?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Combinatorial chemistry is a laboratory technique in which millions of molecular constructions can be synthesized and tested for biological activity."
+            }
+          ]
+        },
+        {
+          "id": "l31-q09",
+          "question": "Outline the steps involved in the drug discovery pipeline as per the lesson.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Target Identification",
+                "Target Validation",
+                "Lead Identification",
+                "Lead Optimization",
+                "Pre-Clinical Pharmacology & Toxicology"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l31-q10",
+          "question": "Define pharmacogenomics and list its applications.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Pharmacogenomics studies how genes affect a person's response to drugs, combining pharmacology and genomics to develop effective, safe medications and doses tailored to genetic makeup."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Improve drug safety",
+                "Reduce adverse drug reactions (ADRs)",
+                "Tailor treatments to patients' unique genetic predisposition",
+                "Optimal dosing",
+                "Improve drug discovery",
+                "Improve proof of principle for efficacy trials"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l31-q11",
+          "question": "List the methods for drug discovery mentioned under the current methods.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Random Screening",
+                "Molecular Manipulation",
+                "Molecular Designing",
+                "Drug Metabolites",
+                "Serendipity"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l31-q12",
+          "question": "Explain the concept of target validation and its requirements.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Target validation is the process of confirming that a potential target can be manipulated with drugs to produce positive clinical effects in humans."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Gene to disease correlation in animal models",
+                "Use of forward genetics",
+                "Use of reverse genetics"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l31-q13",
+          "question": "What are the tools used for target validation according to the lesson?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Antisense agents",
+                "Ribozymes",
+                "Peptide nucleic acids",
+                "Transcription factors",
+                "Gene knockouts"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

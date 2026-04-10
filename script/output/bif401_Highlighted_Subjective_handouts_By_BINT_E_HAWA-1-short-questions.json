@@ -1,0 +1,3971 @@
+{
+  "courseCode": "ACC311",
+  "sourceHtml": "short_questions/script/input/bif401_Highlighted_Subjective_handouts_By_BINT_E_HAWA-1.html",
+  "generatedAt": "2026-04-10T12:55:25.599Z",
+  "model": "gpt-4.1-mini",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "lessonId": "lesson-01",
+      "title": "Virtual University of Pakistan Federal Government University",
+      "shortQuestions": [
+        {
+          "id": "l01-q01",
+          "question": "Define bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics is an interdisciplinary science at the cross-roads of biology, mathematics, computer science, chemistry and physics that involves the analysis of digitalized biological information using computer algorithms and software."
+            }
+          ]
+        },
+        {
+          "id": "l01-q02",
+          "question": "List the instruments mentioned that are used in biological experiments for obtaining digitalized biological information.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Next Generation Sequencers (NGS) for whole genome sequencing",
+                "High Resolution Mass Spectrometry for whole proteome profiling",
+                "Nuclear Magnetic Resonance Spectroscopy for structural studies"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l01-q03",
+          "question": "Briefly explain the concept of digitalization of biology.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In modern biological experiments, the data produced is digital and continuously stored on computer disks. This data may include text, numbers, symbols or images."
+            }
+          ]
+        },
+        {
+          "id": "l01-q04",
+          "question": "Outline the reasons why bioinformatics is becoming a popular science.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "It is an interdisciplinary field covering biological digital information of humans, plants, animals, and microorganisms.",
+                "It is rapidly developing despite being a new field.",
+                "It requires very low cost infrastructure and minimal lab equipment.",
+                "It presents many opportunities for scientific discovery across a wide range of species."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l01-q05",
+          "question": "List the main activities of bioinformatics in modern biological sciences.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Developing algorithms for organizing data collected from experiments",
+                "Writing software and tools for data analysis",
+                "Data processing to determine the role of underlying biomolecules",
+                "Statistical evaluation of data using methods such as t-test and ANOVA",
+                "Data visualization for meaningful presentation of biological information"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l01-q06",
+          "question": "Distinguish between the human brain and computers in terms of handling biological information.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The human brain is limited in recalling information from memory and requires committing information first before recall."
+            },
+            {
+              "type": "paragraph",
+              "text": "Computers have an infinite ability to recall information and process it quickly to produce results, overcoming human memory limitations."
+            }
+          ]
+        },
+        {
+          "id": "l01-q07",
+          "question": "Explain the scope of bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics primarily deals with digitalized biological information and data reported from biology experiments by employing computational methods, data processing techniques, and algorithms to address biological issues."
+            }
+          ]
+        },
+        {
+          "id": "l01-q08",
+          "question": "Outline the allied disciplines that contribute to the field of bioinformatics and computational biology.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Biomedical Engineering",
+                "Electrical and Computer Engineering",
+                "Computer Science",
+                "Applied Mathematics",
+                "Genetics",
+                "Biology",
+                "Anatomy and Cell Biology",
+                "Microbiology",
+                "Biostatistics"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l01-q09",
+          "question": "Briefly describe the growth of gene bank data from 1982 to 2002.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The gene bank grew from 2 billion base pairs in 1982 to 56 billion base pairs by 2002."
+            }
+          ]
+        },
+        {
+          "id": "l01-q10",
+          "question": "What are the possible contributions of bioinformatics according to the lesson?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Organizing large datasets from new experimental instruments",
+                "Storing and processing biological data",
+                "Providing insights into the meanings of research results and findings",
+                "Helping to better understand life, evolution, molecular mechanisms, and disease",
+                "Assisting in the development of better drugs through enhanced molecular understanding of disease"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 2,
+      "lessonId": "lesson-02",
+      "title": "Applications of Bioinformatics – I",
+      "shortQuestions": [
+        {
+          "id": "l02-q01",
+          "question": "Define genomics in the context of bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Genomics in bioinformatics refers to the application of computational tools to assemble DNA sequencing data, find genes (markers), perform gene assembly using nucleotide alignments, transcribe gene data to RNA data, and generate databases from such data."
+            }
+          ]
+        },
+        {
+          "id": "l02-q02",
+          "question": "List the main applications of bioinformatics mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Genomics",
+                "Evolutionary Studies",
+                "Proteomics",
+                "Systems Biology",
+                "Personalized therapeutics for diseases like cancer and diabetes"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l02-q03",
+          "question": "Briefly explain how bioinformatics contributes to evolutionary studies.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics helps derive evolutionary relationships between different organisms, compute evolutionary distances among species, construct phylogenetic trees to find relationships, and better understand ancestry between species and organisms."
+            }
+          ]
+        },
+        {
+          "id": "l02-q04",
+          "question": "Outline the role of bioinformatics in proteomics.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Decoding protein sequences",
+                "Understanding protein structure",
+                "Studying post-translational changes in proteins",
+                "Analyzing protein-protein interactions in biological reactions",
+                "Generating databases of protein sequences and structures"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l02-q05",
+          "question": "What is the significance of systems biology in bioinformatics?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Systems biology in bioinformatics involves modeling regulatory mechanisms in gene and protein networks, analyzing these models to identify key regulators, and evaluating drugs to treat these key regulators."
+            }
+          ]
+        },
+        {
+          "id": "l02-q06",
+          "question": "Distinguish between genomics and proteomics as applications of bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Genomics",
+                "Proteomics"
+              ],
+              "rows": [
+                [
+                  "Focuses on DNA sequencing data, gene finding, and gene assembly",
+                  "Focuses on decoding protein sequences and understanding protein structure"
+                ],
+                [
+                  "Involves transcription of gene data to RNA data",
+                  "Involves studying post-translational changes and protein-protein interactions"
+                ],
+                [
+                  "Generates nucleotide-based databases",
+                  "Generates protein sequence and structure databases"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l02-q07",
+          "question": "Explain how bioinformatics helps in personalized therapeutics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics aids in the development of personalized therapeutics by improving understanding of biomolecular sequences and functions, which supports designing treatments tailored for diseases such as cancer and diabetes."
+            }
+          ]
+        },
+        {
+          "id": "l02-q08",
+          "question": "List the steps in bioinformatics applications from small to big as mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics applications have progressed from the genomic level to the entire system level, starting with genomics and transcriptomics, moving through proteomics and metabolomics, and advancing to systems biology and personalized medicine."
+            }
+          ]
+        },
+        {
+          "id": "l02-q09",
+          "question": "How does bioinformatics improve our understanding of biological functioning and disease?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics provides improved understanding of genes, proteins, protein interactions, and signaling pathways involved in biological functioning and disease by analyzing sequencing data and modeling biological networks."
+            }
+          ]
+        },
+        {
+          "id": "l02-q10",
+          "question": "Outline the types of data bioinformatics can generate and manage.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA sequencing data",
+                "RNA data from gene transcription",
+                "Protein sequences and structures",
+                "Databases of nucleotide alignments",
+                "Databases of protein sequences and structures"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 3,
+      "lessonId": "lesson-03",
+      "title": "ways.",
+      "shortQuestions": [
+        {
+          "id": "l03-q01",
+          "question": "Define bioinformatics based on the lesson text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics is a new and emerging field of science that helps in structuring findings and modeling many biological systems to understand them better. It involves collecting, analyzing, storing, and processing biological data authentically to validate hypotheses and understand biological processes at molecular and genome levels."
+            }
+          ]
+        },
+        {
+          "id": "l03-q02",
+          "question": "List three frontiers in bioinformatics mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Next generation genomics",
+                "Transcriptomics",
+                "Proteomics"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l03-q03",
+          "question": "Briefly explain the role of bioinformatics in genomics as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics enables sequencing the whole genome using tools like Next Generation Sequencing (NGS), saving, storing, and analyzing massive biological data (in terabytes), assembling whole genomes in sequence, and identifying flaws easily."
+            }
+          ]
+        },
+        {
+          "id": "l03-q04",
+          "question": "Outline how bioinformatics contributes to understanding transcriptomics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics helps identify unknown or under-discussion matters in genomics, understand the role and dynamics of RNA in protein synthesis, and model RNA molecule interactions simply."
+            }
+          ]
+        },
+        {
+          "id": "l03-q05",
+          "question": "Distinguish two contributions of bioinformatics in proteomics according to the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Identification of low protein deficiency in patient tissue samples.",
+                "Determination of protein expression and manufacture at large molecular levels in organisms."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l03-q06",
+          "question": "Briefly explain the future potential of bioinformatics as concluded in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics is expected to help predict future diseases and develop personalized medicine to tackle them effectively by processing and validating biological data authentically."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 4,
+      "lessonId": "lesson-04",
+      "title": "FRONTIER IN SYSTEM BIOLOGY",
+      "shortQuestions": [
+        {
+          "id": "l04-q01",
+          "question": "Define the role of bioinformatics in understanding protein folding and interactions.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics helps us to understand the layer folding of proteins, how they are processed, and how proteins interact with each other. It also helps to know how a drug can affect or stimulate a protein."
+            }
+          ]
+        },
+        {
+          "id": "l04-q02",
+          "question": "Briefly explain the frontier in system biology as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "System biology helps us to understand the whole system of a single cell, including how organelles, genes, proteins, and metabolites are interconnected in a single unified system (cell). Bioinformatics also provides ideas on how these models can be applied in real-time."
+            }
+          ]
+        },
+        {
+          "id": "l04-q03",
+          "question": "Outline the importance of bioinformatics in personalized medicine.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Personalized medicine is important for providing exact cures for diseases, as not all medicines work the same for every patient and some may have adverse effects. Bioinformatics enables the personalization of medicines for certain diseases and helps in evaluating these medicines."
+            }
+          ]
+        },
+        {
+          "id": "l04-q04",
+          "question": "List the three main points behind the philosophy of the course outlay mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Introduce the classical algorithms in bioinformatics",
+                "Link them to latest developments in the field",
+                "Evaluate the future applications"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l04-q05",
+          "question": "Briefly explain what topics will be covered in the course as per the lesson overview.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The course will cover sequences and operations such as alignment and comparison, phylogenetic and RNA structure modelling, and will also delve into protein sequences and structures."
+            }
+          ]
+        },
+        {
+          "id": "l04-q06",
+          "question": "What is the conclusion about the role of bioinformatics in the 21st century according to the lesson?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The 21st century is considered the century of bioinformatics, which will enable humans to cure many diseases with one drug by personalizing it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 5,
+      "lessonId": "lesson-05",
+      "title": "Summary",
+      "shortQuestions": [
+        {
+          "id": "l05-q01",
+          "question": "What topics will be covered in the current modules?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The current modules will cover **protein sequence and structure** topics."
+            }
+          ]
+        },
+        {
+          "id": "l05-q02",
+          "question": "What is the focus of the next set of modules?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The next set of modules will focus on **homology modelling and systems biology** topics."
+            }
+          ]
+        },
+        {
+          "id": "l05-q03",
+          "question": "List the two main topics mentioned in the summary that will be dealt with in the modules.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Protein sequence and structure",
+                "Homology modelling and systems biology"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l05-q04",
+          "question": "Briefly explain what will be dealt with in the modules following the current ones.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Following the current modules, the focus will shift to **homology modelling and systems biology** topics."
+            }
+          ]
+        },
+        {
+          "id": "l05-q05",
+          "question": "Outline the sequence of topics as described in the summary.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Protein sequence and structure topics",
+                "Homology modelling and systems biology topics"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 6,
+      "lessonId": "lesson-06",
+      "title": "Conclusion",
+      "shortQuestions": [
+        {
+          "id": "l06-q01",
+          "question": "Outline the purpose of the contents covered in this lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The contents provide an initial exposure to the variety of topics in bioinformatics."
+            },
+            {
+              "type": "paragraph",
+              "text": "They aim to give a basic conceptual foundation for further studies in Bioinformatics."
+            }
+          ]
+        },
+        {
+          "id": "l06-q02",
+          "question": "Define the term 'Central Dogma' as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Central Dogma is the transfer of information from DNA to RNA to Protein."
+            }
+          ]
+        },
+        {
+          "id": "l06-q03",
+          "question": "List the sequence of molecules involved in the Central Dogma.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA",
+                "RNA",
+                "Protein"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l06-q04",
+          "question": "Briefly explain the role of proteins in the cell according to the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Proteins are used in constructing the cell."
+            }
+          ]
+        },
+        {
+          "id": "l06-q05",
+          "question": "What question does the lesson raise about the composition of cells?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The lesson raises the question: How are cells made?"
+            }
+          ]
+        },
+        {
+          "id": "l06-q06",
+          "question": "Explain the role of DNA in the composition of cells as given in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "DNA contains blueprints for building cells and information for producing proteins, carbohydrates, and vitamins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 7,
+      "lessonId": "lesson-07",
+      "title": "Figure 0.1 DNA Double helix",
+      "shortQuestions": [
+        {
+          "id": "l07-q01",
+          "question": "Define the structure of DNA molecule.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "DNA molecule is a double helix structure containing base pairs composed of nucleotides. These nucleotides are composed of a sugar phosphate group and are bound to each other with hydrogen bonds."
+            }
+          ]
+        },
+        {
+          "id": "l07-q02",
+          "question": "List the difference between nucleotides in DNA and RNA.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "All nucleotides are the same in both DNA and RNA except one position.",
+                "In RNA, the nucleotide is Uracil (U).",
+                "In DNA, the nucleotide is Thiamin (T)."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l07-q03",
+          "question": "Briefly explain the role of DNA in protein formation.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "DNA sends the information to the cell via mRNA, which sequences amino acids according to the coded information. This leads to the formation of protein structures, and these proteins form cells."
+            }
+          ]
+        },
+        {
+          "id": "l07-q04",
+          "question": "Outline the central dogma of molecular biology as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "DNA codes information for RNA.",
+                "RNA makes the protein.",
+                "Proteins along with some organelles make cells and their systems."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l07-q05",
+          "question": "Distinguish between transcription and translation based on the lesson text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Transcription is the process where DNA codes information and converts it into RNA. Translation is the process where mRNA copies this information and executes it in the cell, leading to amino acids combining according to the coded DNA information to form proteins."
+            }
+          ]
+        },
+        {
+          "id": "l07-q06",
+          "question": "Explain the flow of information from DNA to proteins.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "DNA codes the information which is converted into RNA. mRNA copies this information and executes it in the cell. According to the coded information of DNA, amino acids combine with each other, resulting in protein formation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 8,
+      "lessonId": "lesson-08",
+      "title": "14 Nucleotides",
+      "shortQuestions": [
+        {
+          "id": "l08-q01",
+          "question": "Define nucleotides and list the nucleotides present in DNA and RNA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Nucleotides are molecules that compose DNA and RNA molecules."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Adenine (A)",
+                "Cytosine (C)",
+                "Thymine (T)",
+                "Uracil (U)",
+                "Guanine (G)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l08-q02",
+          "question": "Briefly explain the main difference between DNA and RNA in terms of base pairs.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA contains Uracil (U) instead of Thymine (T) which is present in DNA."
+            },
+            {
+              "type": "paragraph",
+              "text": "Also, RNA is single stranded while DNA is double stranded."
+            }
+          ]
+        },
+        {
+          "id": "l08-q03",
+          "question": "Outline the difference between the sugars found in RNA and DNA.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "RNA",
+                "DNA"
+              ],
+              "rows": [
+                [
+                  "Ribose sugar",
+                  "De-oxyribose sugar"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l08-q04",
+          "question": "Distinguish between purines and pyrimidines with examples from DNA and RNA.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Purines: Adenine (A) and Guanine (G)",
+                "Pyrimidines: Cytosine (C), Uracil (U), and Thymine (T)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l08-q05",
+          "question": "Explain how the presence of (OH) or (H) in sugar helps to identify RNA or DNA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "When phosphate, nitrogen base, and sugar come together, if there is an (OH) group in the sugar, the molecule is RNA."
+            },
+            {
+              "type": "paragraph",
+              "text": "If there is an (H) group in the sugar, the molecule is DNA."
+            }
+          ]
+        },
+        {
+          "id": "l08-q06",
+          "question": "Briefly explain the role of DNA and RNA in protein synthesis.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "DNA codes the information for proteins."
+            },
+            {
+              "type": "paragraph",
+              "text": "RNA helps in making the protein by translating the information."
+            }
+          ]
+        },
+        {
+          "id": "l08-q07",
+          "question": "Outline the process of translation and where it takes place in the cell.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Translation is the transformation of RNA information into proteins."
+            },
+            {
+              "type": "paragraph",
+              "text": "It takes place in the ribosome of the cell."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ribosomes read the information from mRNA and collect amino acids from the cytosol to build proteins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 9,
+      "lessonId": "lesson-09",
+      "title": "Figure 0.4 sixty four codons combinations",
+      "shortQuestions": [
+        {
+          "id": "l09-q01",
+          "question": "Define translation in the context of RNA and protein synthesis.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Translation is the process where RNA codes for protein and codons of three nucleotides code for specific amino acids on ribosomes."
+            }
+          ]
+        },
+        {
+          "id": "l09-q02",
+          "question": "List the elements present in the structure of an amino acid.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Nitrogen",
+                "Hydrogen",
+                "Oxygen",
+                "Two carbon atoms",
+                "A variable group R"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l09-q03",
+          "question": "Briefly explain what happens when amino acids polymerize.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "When amino acids polymerize, they join together with peptide bonds, water is formed, and if any compound attaches to the R group, the protein structure changes. They fold in 3D form to make the protein structure."
+            }
+          ]
+        },
+        {
+          "id": "l09-q04",
+          "question": "Outline the differences in nucleotide sequences between DNA and RNA.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA contains nucleotides A, C, T, and G.",
+                "RNA contains nucleotides A, C, U, and G."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l09-q05",
+          "question": "What are GenBank and UniProt databases used for?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "GenBank is a public online database for DNA and RNA sequences, while UniProt is a public online database for protein sequences."
+            }
+          ]
+        },
+        {
+          "id": "l09-q06",
+          "question": "Briefly explain how sequences can be searched in GenBank.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Sequences can be searched in GenBank by going to the NCBI GenBank website and typing the sequence name, ID name, species, locus, accession number, author, or journal."
+            }
+          ]
+        },
+        {
+          "id": "l09-q07",
+          "question": "Distinguish between global and local pairwise sequence alignments.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Global alignment introduces gaps throughout the entire sequence to maximize overall matching.",
+                "Local alignment finds regions where nucleotides or amino acids have maximum matching, focusing on highly similar segments."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l09-q08",
+          "question": "What is the purpose of introducing gaps in pairwise sequence alignment?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Gaps are introduced to account for insertions or deletions of nucleotides or amino acids, improving alignment by adding missing elements."
+            }
+          ]
+        },
+        {
+          "id": "l09-q09",
+          "question": "Define identity in sequence comparison.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Identity is the count of nucleotides or amino acids that exactly match when two biological sequences are compared."
+            }
+          ]
+        },
+        {
+          "id": "l09-q10",
+          "question": "Explain the main difference between mutation and indels in sequence alignment.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Mutation involves replacing one nucleotide or amino acid with another without inserting gaps, while indels involve insertion or deletion of nucleotides or amino acids, represented by gaps."
+            }
+          ]
+        },
+        {
+          "id": "l09-q11",
+          "question": "What is the Needleman-Wunsch algorithm used for?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Needleman-Wunsch algorithm is used for global pairwise sequence alignment by computing scores in a matrix and selecting the best alignment."
+            }
+          ]
+        },
+        {
+          "id": "l09-q12",
+          "question": "Briefly describe the traceback process in sequence alignment.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Traceback starts from the bottom right of the alignment matrix and moves to the top left by selecting elements from top, left, or diagonal that led to the starting element, extracting the optimal alignment."
+            }
+          ]
+        },
+        {
+          "id": "l09-q13",
+          "question": "List two advantages of local sequence alignment over global alignment.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Detects smaller regions with high similarity such as motifs or domains.",
+                "Can compare sequences of different lengths and identify conserved functional features."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l09-q14",
+          "question": "What is the main difference between Needleman-Wunsch and Smith-Waterman algorithms?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Needleman-Wunsch performs global alignment comparing sequences end to end, while Smith-Waterman performs local alignment comparing sequence segments with the top row and first column set to zero and traceback starting from the highest score."
+            }
+          ]
+        },
+        {
+          "id": "l09-q15",
+          "question": "What is the role of scoring matrices in sequence alignment?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Scoring matrices assign positive scores for matches and negative scores for mismatches, helping to evaluate and optimize sequence alignments based on chemical properties and substitution probabilities."
+            }
+          ]
+        },
+        {
+          "id": "l09-q16",
+          "question": "Define PAM and BLOSUM matrices in the context of protein sequence alignment.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "PAM (Point Accepted Mutation) matrices score substitutions based on accepted mutations preserving protein function over evolutionary time.",
+                "BLOSUM (Block Substitution Matrix) matrices score substitutions based on observed alignments in conserved sequence blocks without gaps."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l09-q17",
+          "question": "What is the purpose of multiple sequence alignment (MSA)?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "MSA compares multiple protein or DNA sequences to identify matches and mismatches, predict structures, and evaluate evolutionary relationships."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 10,
+      "lessonId": "lesson-10",
+      "title": "Figure 0.40 Tabulated data",
+      "shortQuestions": [
+        {
+          "id": "l10-q01",
+          "question": "Define the main objective of biological databases as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The main objective of biological databases is to make biological data available to scientists in a computer-readable form for handling, sharing, and analysis."
+            }
+          ]
+        },
+        {
+          "id": "l10-q02",
+          "question": "List the types of molecular information that need to be stored in biological databases.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "RNA sequences",
+                "DNA sequences",
+                "Protein sequences",
+                "Structures obtained from X-Ray Crystallography",
+                "Structures obtained from Atomic Force Microscopy",
+                "Structures obtained from Nuclear Magnetic Resonance Spectroscopy"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l10-q03",
+          "question": "Briefly explain why online databases are important for biological data.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Online databases are important because they store and share vast and rapidly accumulating biological data, making it accessible for scientists to handle, share, and analyze efficiently."
+            }
+          ]
+        },
+        {
+          "id": "l10-q04",
+          "question": "Outline the best way to share biological data according to the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The best way to share biological data is to keep it on the web, allowing users to freely access and download the data."
+            }
+          ]
+        },
+        {
+          "id": "l10-q05",
+          "question": "What types of biological data can be searched on the Expasy website?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Proteomics",
+                "Genomics",
+                "Phylogeny",
+                "Systems biology",
+                "Population genetics",
+                "Transcriptomics"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l10-q06",
+          "question": "Identify the institute responsible for developing Expasy and provide its website URL.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Expasy is developed by the Swiss Bioinformatics Institute (SIB). The website URL is http://www.expasy.org/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 11,
+      "lessonId": "lesson-11",
+      "title": "Figure 0.41 flowchart",
+      "shortQuestions": [
+        {
+          "id": "l11-q01",
+          "question": "Define a flowchart in the context of auditing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A flowchart is a graphical representation that depicts the sequence of operations or steps in a process, used in auditing to illustrate the flow of documents and procedures."
+            }
+          ]
+        },
+        {
+          "id": "l11-q02",
+          "question": "List the main components typically found in an auditing flowchart.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Symbols representing different types of operations or documents",
+                "Arrows indicating the flow direction",
+                "Labels describing each step or process",
+                "Decision points showing conditional paths"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l11-q03",
+          "question": "Briefly explain the purpose of using a flowchart in auditing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The purpose of using a flowchart in auditing is to visually present the flow of transactions and controls, helping auditors understand and evaluate the internal control system effectively."
+            }
+          ]
+        },
+        {
+          "id": "l11-q04",
+          "question": "Outline the benefits of using flowcharts in the audit process.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Simplifies complex processes for better understanding",
+                "Identifies weaknesses and inefficiencies in controls",
+                "Facilitates communication among audit team members",
+                "Documents audit evidence and procedures clearly"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l11-q05",
+          "question": "Distinguish between a flowchart and a narrative description in auditing documentation.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A flowchart uses graphical symbols and arrows to represent the process flow visually, whereas a narrative description explains the process in written form without visual aids."
+            }
+          ]
+        },
+        {
+          "id": "l11-q06",
+          "question": "List the types of flowcharts commonly used in auditing.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "System flowcharts",
+                "Document flowcharts",
+                "Program flowcharts"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 12,
+      "lessonId": "lesson-12",
+      "title": "Figure 0.42 prosite scanning section",
+      "shortQuestions": [
+        {
+          "id": "l12-q01",
+          "question": "Define the prosite scanning section as referred to in Figure 0.42.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The prosite scanning section is a part of the analysis process that involves scanning protein sequences to identify motifs or patterns, as illustrated in Figure 0.42."
+            }
+          ]
+        },
+        {
+          "id": "l12-q02",
+          "question": "Briefly explain the purpose of peptide mass finding shown in Figure 0.43.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Peptide mass finding is a technique used to determine the mass of peptides, which helps in protein identification and characterization, as depicted in Figure 0.43."
+            }
+          ]
+        },
+        {
+          "id": "l12-q03",
+          "question": "List the two main figures discussed in this lesson and their focus areas.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Figure 0.42: Prosite scanning section",
+                "Figure 0.43: Peptide mass finding"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l12-q04",
+          "question": "Outline the relationship between prosite scanning and peptide mass finding based on the lesson text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The lesson text presents prosite scanning and peptide mass finding as sequential or complementary steps in protein analysis, where prosite scanning identifies motifs and peptide mass finding determines peptide masses."
+            }
+          ]
+        },
+        {
+          "id": "l12-q05",
+          "question": "Distinguish between the processes illustrated in Figure 0.42 and Figure 0.43.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Figure 0.42 illustrates the prosite scanning section, which focuses on detecting specific protein motifs, while Figure 0.43 illustrates peptide mass finding, which focuses on measuring the mass of peptides."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 13,
+      "lessonId": "lesson-13",
+      "title": "72 Uniprot, SwissProt",
+      "shortQuestions": [
+        {
+          "id": "l13-q01",
+          "question": "Define UniProt and SwissProt.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "UniProt and SwissProt are online databases for proteins."
+            }
+          ]
+        },
+        {
+          "id": "l13-q02",
+          "question": "List the two protein databases mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "UniProt",
+                "SwissProt"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l13-q03",
+          "question": "Briefly explain the purpose of UniProt and SwissProt.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Both UniProt and SwissProt serve as online databases that provide information about proteins."
+            }
+          ]
+        },
+        {
+          "id": "l13-q04",
+          "question": "Outline the type of data you would expect to find in UniProt and SwissProt.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Data related to proteins, including protein sequences and related protein information."
+            }
+          ]
+        },
+        {
+          "id": "l13-q05",
+          "question": "Distinguish between UniProt and SwissProt based on the lesson text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The lesson text does not provide a distinction; it states that both UniProt and SwissProt are online databases for proteins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 14,
+      "lessonId": "lesson-14",
+      "title": "Figure 0.47 online database for proteins",
+      "shortQuestions": [
+        {
+          "id": "l14-q01",
+          "question": "What type of information does Swiss-Prot contain?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Swiss-Prot contains human curated protein information."
+            }
+          ]
+        },
+        {
+          "id": "l14-q02",
+          "question": "Define accession number in the context of protein databases.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "An accession number is a unique identifier used to reference a specific protein sequence or entry in a database."
+            }
+          ]
+        },
+        {
+          "id": "l14-q03",
+          "question": "List the types of information that can be found about proteins in the online database described.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "The sequence of the protein",
+                "Molecular mass",
+                "Observed and predicted modifications"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l14-q04",
+          "question": "Briefly explain the significance of molecular mass in protein databases.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Molecular mass provides important information about the size of the protein, which can be used for identification and characterization."
+            }
+          ]
+        },
+        {
+          "id": "l14-q05",
+          "question": "Outline what is meant by observed and predicted modifications in protein data.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Observed modifications are experimentally confirmed changes to the protein, while predicted modifications are those suggested based on computational analysis or sequence similarity."
+            }
+          ]
+        },
+        {
+          "id": "l14-q06",
+          "question": "What entities can be found according to Figure 0.46 mentioned in the lesson?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Gene",
+                "Protein",
+                "Chemical"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 15,
+      "lessonId": "lesson-15",
+      "title": "73 Protein Data Bank",
+      "shortQuestions": [
+        {
+          "id": "l15-q01",
+          "question": "What is the Protein Data Bank?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Protein Data Bank is the premier resource of protein structures."
+            },
+            {
+              "type": "paragraph",
+              "text": "These structures have been determined using experimental techniques."
+            },
+            {
+              "type": "paragraph",
+              "text": "It is an open and free resource."
+            }
+          ]
+        },
+        {
+          "id": "l15-q02",
+          "question": "Where can protein sequences from various species and organisms be found?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Protein sequences from various species and organisms can be found in UniProt."
+            }
+          ]
+        },
+        {
+          "id": "l15-q03",
+          "question": "What is SwissProt in relation to the UniProt Database?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "SwissProt is the manually annotated version of the UniProt Database."
+            }
+          ]
+        },
+        {
+          "id": "l15-q04",
+          "question": "List the key features of the Protein Data Bank mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Premier resource of protein structures",
+                "Structures determined using experimental techniques",
+                "Open and free access"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l15-q05",
+          "question": "Briefly explain the type of data provided by the Protein Data Bank.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Protein Data Bank provides protein structures that have been experimentally determined."
+            }
+          ]
+        },
+        {
+          "id": "l15-q06",
+          "question": "Distinguish between UniProt and SwissProt based on the lesson content.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "UniProt contains protein sequences from various species and organisms."
+            },
+            {
+              "type": "paragraph",
+              "text": "SwissProt is a manually annotated subset of the UniProt Database."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 16,
+      "lessonId": "lesson-16",
+      "title": "Figure 0 . 50 P0CG47 - UBB_HUMAN",
+      "shortQuestions": [
+        {
+          "id": "l16-q01",
+          "question": "What type of data does the Protein Data Bank provide?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Protein Data Bank provides Cartesian coordinates of each atom in the protein structure."
+            }
+          ]
+        },
+        {
+          "id": "l16-q02",
+          "question": "How many protein structures are reported in the Protein Data Bank?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Over 50,000 protein structures are reported and present in the Protein Data Bank."
+            }
+          ]
+        },
+        {
+          "id": "l16-q03",
+          "question": "List the methods used for obtaining genetic and protein sequencing information.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Next generation sequencing and whole genome sequencing for genetic information.",
+                "Mass Spectrometry and Edman Degradation for protein sequencing."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l16-q04",
+          "question": "Outline how sequence information is stored and accessed.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Sequence information is stored digitally.",
+                "Databases are designed to store sequence data.",
+                "Several databases exist depending on the type of sequence data.",
+                "Sequence databases are shared via online websites.",
+                "Access to several such websites is free.",
+                "Data can be downloaded or searched on these websites."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l16-q05",
+          "question": "Briefly explain the sharing and access of sequence databases.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Sequence databases are shared via online websites, where access to several such websites is free. Users can download or search data on these websites."
+            }
+          ]
+        },
+        {
+          "id": "l16-q06",
+          "question": "What is the purpose of designing different databases for sequence data?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Different databases are designed to store sequence data depending on the type of sequence data."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 17,
+      "lessonId": "lesson-17",
+      "title": "Similarity of sequences",
+      "shortQuestions": [
+        {
+          "id": "l17-q01",
+          "question": "Define GenBank and its purpose.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "GenBank is a database developed by the Swiss Bioinformatics Institute (SIB) that provides access to various biological databases and tools related to proteomics, genomics, phylogeny, systems biology, population genetics, and transcriptomics."
+            }
+          ]
+        },
+        {
+          "id": "l17-q02",
+          "question": "List the types of biological data accessible through GenBank.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Proteomics",
+                "Genomics",
+                "Phylogeny",
+                "Systems biology",
+                "Population genetics",
+                "Transcriptomics"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l17-q03",
+          "question": "Explain why online databases are used for storing molecular information.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Online databases are used for storing molecular information because the human brain has limited capacity to remember and store large amounts of information for a long time."
+            }
+          ]
+        },
+        {
+          "id": "l17-q04",
+          "question": "What is ESEMBLE and what is its function?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "ESEMBLE is a genome search engine used to search the genome of every recorded species."
+            }
+          ]
+        },
+        {
+          "id": "l17-q05",
+          "question": "Outline the types of databases mentioned in the lesson that are available online.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Sequence databases",
+                "Structure databases",
+                "Molecular interaction databases"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l17-q06",
+          "question": "Briefly explain the role of the Swiss Bioinformatics Institute (SIB) in molecular biology databases.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Swiss Bioinformatics Institute (SIB) developed GenBank, which provides access to various biological databases and tools for research in areas such as proteomics, genomics, and phylogeny."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 18,
+      "lessonId": "lesson-18",
+      "title": "(Page and Holmes 2009)",
+      "shortQuestions": [
+        {
+          "id": "l18-q01",
+          "question": "Define molecular evolution.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Molecular evolution is the process of change in the sequence composition of cellular molecules such as DNA, RNA, and proteins across generations."
+            }
+          ]
+        },
+        {
+          "id": "l18-q02",
+          "question": "List the types of molecules involved in molecular evolution.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA",
+                "RNA",
+                "Proteins"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l18-q03",
+          "question": "Briefly explain the role of phylogenetics in molecular evolution.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Phylogenetics is the science of studying evolutionary relationships and it helps in creating relationship trees between various species of Bacteria, Archaea, and Eukaryota."
+            }
+          ]
+        },
+        {
+          "id": "l18-q04",
+          "question": "Distinguish between scaled and unscaled phylogenetic trees.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Scaled Trees",
+                "Unscaled Trees"
+              ],
+              "rows": [
+                [
+                  "Branch lengths are equal to the magnitude of change in the nodes",
+                  "Only representing the relationship between sequences"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l18-q05",
+          "question": "Outline what is meant by the evolutionary history of molecules.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "All molecules have an evolutionary history, which refers to the changes and modifications they have undergone over generations as studied through molecular evolution."
+            }
+          ]
+        },
+        {
+          "id": "l18-q06",
+          "question": "List the domains of life mentioned in the lesson that are studied using phylogenetics.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Bacteria",
+                "Archaea",
+                "Eukaryota"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 19,
+      "lessonId": "lesson-19",
+      "title": "77 Evolution of sequences",
+      "shortQuestions": [
+        {
+          "id": "l19-q01",
+          "question": "Define phylogenetics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Phylogenetics is the study of extracting evolutionary relationships between species using sequence information from each species to measure the difference between them."
+            }
+          ]
+        },
+        {
+          "id": "l19-q02",
+          "question": "List the methods by which DNA gets modified leading to evolution.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Mutation",
+                "Substitution",
+                "Insertion",
+                "Deletion"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l19-q03",
+          "question": "Briefly explain why species evolve uniquely over time.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Species evolve uniquely because they adapt to different environmental circumstances and evolutionary pressures, which are unique for each species and cell."
+            }
+          ]
+        },
+        {
+          "id": "l19-q04",
+          "question": "Outline the role of sequence information in phylogenetics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Sequence information from different species is processed to find evolutionary relationships, which are then represented in outputs such as phylogenetic trees."
+            }
+          ]
+        },
+        {
+          "id": "l19-q05",
+          "question": "Distinguish between the terms 'mutation' and 'substitution' as methods of DNA modification.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Both mutation and substitution are methods by which DNA gets modified. Mutation refers to any change in the DNA sequence, while substitution specifically involves replacing one nucleotide with another."
+            }
+          ]
+        },
+        {
+          "id": "l19-q06",
+          "question": "What does the point 'A' represent in a phylogenetic tree according to the lesson?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In the phylogenetic tree, the point 'A' stands for the ancestor from which evolution occurred over time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 20,
+      "lessonId": "lesson-20",
+      "title": "Figure 4 layout of trees",
+      "shortQuestions": [
+        {
+          "id": "l20-q01",
+          "question": "Define a rooted tree in the context of phylogenetics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A rooted tree is a type of phylogenetic tree where the root node is the ancestor of all other nodes, showing the direction of evolution from the ancestor to the terminal nodes."
+            }
+          ]
+        },
+        {
+          "id": "l20-q02",
+          "question": "List two types of trees used to show phylogenetic relationships.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Rooted trees",
+                "Unrooted trees"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l20-q03",
+          "question": "Briefly explain the main difference between rooted and unrooted trees.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Rooted trees show the temporal evolutionary direction from an ancestor to terminal nodes, whereas unrooted trees do not indicate evolutionary direction but only relationships."
+            }
+          ]
+        },
+        {
+          "id": "l20-q04",
+          "question": "Outline one computational characteristic of rooted trees.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Rooted trees are computationally expensive compared to unrooted trees."
+            }
+          ]
+        },
+        {
+          "id": "l20-q05",
+          "question": "What does phylogenetics specify with the help of trees?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Phylogenetics specifies evolutionary relationships using trees."
+            }
+          ]
+        },
+        {
+          "id": "l20-q06",
+          "question": "Explain the role of the root node in a rooted tree.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The root node acts as the ancestor of all other nodes in the tree, establishing the direction of evolution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 21,
+      "lessonId": "lesson-21",
+      "title": "Figure 7 computation comparison",
+      "shortQuestions": [
+        {
+          "id": "l21-q01",
+          "question": "Define Rooted and Unrooted trees in the context of phylogenetic relationships.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Rooted and Unrooted trees are types of diagrams used to show phylogenetic relationships between sequences. Rooted trees indicate a common ancestor and direction of evolution, while Unrooted trees show relationships without implying ancestry or evolutionary direction."
+            }
+          ]
+        },
+        {
+          "id": "l21-q02",
+          "question": "List the two main classes of algorithms used for constructing evolutionary trees mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Algorithms for Rooted trees",
+                "Algorithms for Unrooted trees"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l21-q03",
+          "question": "Briefly explain the UPGMA method for constructing evolutionary trees.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "UPGMA (Unweighted Pair Group Method with Arithmetic Mean) is a simple agglomerative (bottom-up) hierarchical clustering method attributed to Sokal and Michener."
+            },
+            {
+              "type": "paragraph",
+              "text": "It works by selecting two sequences with the shortest evolutionary distance and considering them as the last to diverge, represented by the most recent internal node."
+            }
+          ]
+        },
+        {
+          "id": "l21-q04",
+          "question": "Outline the principle behind the Least Squares Distance Method in evolutionary tree construction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Least Squares Distance Method uses branch lengths to represent the observed distances between sequences (i & j)."
+            }
+          ]
+        },
+        {
+          "id": "l21-q05",
+          "question": "Distinguish between the advantages and disadvantages of Rooted and Unrooted trees as concluded in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Rooted and Unrooted trees each have their own advantages and disadvantages."
+            },
+            {
+              "type": "paragraph",
+              "text": "The choice between them depends on the specific requirements of the analysis."
+            }
+          ]
+        },
+        {
+          "id": "l21-q06",
+          "question": "Who are credited with the development of the UPGMA method?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The UPGMA method is generally attributed to Sokal and Michener."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 22,
+      "lessonId": "lesson-22",
+      "title": "Conclusion",
+      "shortQuestions": [
+        {
+          "id": "l22-q01",
+          "question": "List the two broad classes of methods used for constructing phylogenetic trees.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Objective methods",
+                "Clustering methods"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l22-q02",
+          "question": "Define UPGMA in the context of phylogenetic tree construction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "UPGMA stands for Unweighted Pair – Group Method using arithmetic Averages, a clustering method used to construct phylogenetic trees by calculating distances between clusters."
+            }
+          ]
+        },
+        {
+          "id": "l22-q03",
+          "question": "Briefly explain what phylogenetic trees show.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Phylogenetic trees show phylogenetic relationships between sequences."
+            }
+          ]
+        },
+        {
+          "id": "l22-q04",
+          "question": "Outline how the distance between two clusters is calculated in UPGMA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In UPGMA, the distance between two clusters is calculated by taking the weighted average of distances between sequences in each cluster, where weights are the number of sequences in each cluster."
+            }
+          ]
+        },
+        {
+          "id": "l22-q05",
+          "question": "What does Nx represent in the UPGMA method?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Nx represents the number of sequences in cluster X."
+            }
+          ]
+        },
+        {
+          "id": "l22-q06",
+          "question": "Distinguish between the distance dXY and the numbers NX and NY in the context of UPGMA.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "dXY is the evolutionary distance between clusters X and Y.",
+                "NX and NY are the numbers of sequences in clusters X and Y respectively."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 23,
+      "lessonId": "lesson-23",
+      "title": "Cluster X + Cluster Y = Cluster Z",
+      "shortQuestions": [
+        {
+          "id": "l23-q01",
+          "question": "Define how the distance matrix is obtained in cluster analysis.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The distance matrix is obtained using pairwise sequence alignment."
+            }
+          ]
+        },
+        {
+          "id": "l23-q02",
+          "question": "Outline the formula or concept used to calculate the distance between two clusters.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The distance between two clusters is calculated by considering the number of sequences in each cluster and the evolutionary distance between them."
+            }
+          ]
+        },
+        {
+          "id": "l23-q03",
+          "question": "Explain how to calculate the distance of a cluster W to a new cluster Z formed by merging clusters X and Y.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "To calculate the distance of cluster W to the new cluster Z (where Z = X + Y), the number of sequences in cluster X (Nx) and cluster Y (Ny) are used along with the distances between W and each of X and Y."
+            }
+          ]
+        },
+        {
+          "id": "l23-q04",
+          "question": "What does dXY represent in the context of cluster analysis?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "dXY represents the evolutionary distance between clusters X and Y."
+            }
+          ]
+        },
+        {
+          "id": "l23-q05",
+          "question": "List the parameters involved when calculating distances between two trees with clusters X and Y.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "N: total number of sequences",
+                "NX: number of sequences in cluster X",
+                "NY: number of sequences in cluster Y",
+                "dXY: evolutionary distance between clusters X and Y"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l23-q06",
+          "question": "Briefly explain what needs to be done to the distance matrix when clusters A and D are merged into a new cluster V.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "When clusters A and D are merged into a new cluster V, the distance matrix must be modified to reflect the distances between V and the other clusters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 24,
+      "lessonId": "lesson-24",
+      "title": "V and F.",
+      "shortQuestions": [
+        {
+          "id": "l24-q01",
+          "question": "What are the two main components of the UPGMA algorithm?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Distance calculations between two clusters",
+                "Distance calculations between two trees"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l24-q02",
+          "question": "Briefly explain how clusters are combined in UPGMA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Clusters X and Y are combined to form a new cluster Z. The distance of each other cluster (e.g., W) to the new cluster Z is then calculated."
+            }
+          ]
+        },
+        {
+          "id": "l24-q03",
+          "question": "What does Nx represent in the context of UPGMA clustering?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Nx is the number of sequences in cluster X."
+            }
+          ]
+        },
+        {
+          "id": "l24-q04",
+          "question": "Define dXY in the context of UPGMA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "dXY is the evolutionary distance between clusters X and Y."
+            }
+          ]
+        },
+        {
+          "id": "l24-q05",
+          "question": "What is the purpose of the UPGMA algorithm?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "UPGMA is a clustering algorithm used to compute phylogenetic trees."
+            }
+          ]
+        },
+        {
+          "id": "l24-q06",
+          "question": "What will be covered in later modules regarding UPGMA?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The detailed working of the UPGMA approach will be covered in later modules."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 25,
+      "lessonId": "lesson-25",
+      "title": "YXYWYXWXZWNNdNdNd",
+      "shortQuestions": [
+        {
+          "id": "l25-q01",
+          "question": "Define the process of constructing a new cluster in tree methods as described.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Constructing a new cluster involves combining two elements, for example A and D, to form a new cluster named V."
+            },
+            {
+              "type": "paragraph",
+              "text": "After forming the new cluster, the distance matrix must be modified to reflect the distances between the new cluster and other elements."
+            }
+          ]
+        },
+        {
+          "id": "l25-q02",
+          "question": "List the distances that need to be calculated after forming the new cluster V.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Distance between V and B",
+                "Distance between V and C",
+                "Distance between V and E",
+                "Distance between V and F"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l25-q03",
+          "question": "Briefly explain why the distance matrix needs modification after forming a new cluster.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The distance matrix needs modification because the original elements A and D are replaced by the new cluster V, so distances involving A and D must be recalculated to reflect distances involving V."
+            }
+          ]
+        },
+        {
+          "id": "l25-q04",
+          "question": "Outline the steps to calculate the distance between the new cluster V and another element B.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "After forming cluster V from A and D, calculate the distance between V and B by combining the distances from A to B and D to B according to the tree construction method used."
+            }
+          ]
+        },
+        {
+          "id": "l25-q05",
+          "question": "Distinguish between the original elements and the new cluster in the context of modifying the distance matrix.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Original elements (e.g., A, D) are individual nodes with defined distances to other elements.",
+                "The new cluster (e.g., V) represents a combined node formed by merging original elements.",
+                "Distances involving the new cluster must be recalculated to replace distances involving the merged elements."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l25-q06",
+          "question": "What is the significance of the sequences 'YXYWYXWXZWNNdNdNd' and 'DADBDABAVBNNdNdNd' in the lesson?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "These sequences appear as examples or labels related to the construction of clusters and distance calculations, but the lesson does not provide further explanation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 27,
+      "lessonId": "lesson-27",
+      "title": "Conclusion",
+      "shortQuestions": [
+        {
+          "id": "l27-q01",
+          "question": "Briefly explain the initial step in the UPGMA clustering process.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "UPGMA starts with creating clusters of sequences which are the closest."
+            }
+          ]
+        },
+        {
+          "id": "l27-q02",
+          "question": "Outline the process repeated for all sequences in UPGMA after forming the initial clusters.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Compute distance between the new cluster and the remaining sequences.",
+                "Repeat this process for all sequences."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l27-q03",
+          "question": "List the key steps involved in UPGMA-II as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Distance calculations between two clusters.",
+                "Distance calculations between two trees.",
+                "Forming clusters from sequences which had the shortest distance."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l27-q04",
+          "question": "Explain how the distance of a new cluster Z to another cluster W is calculated after combining clusters X and Y.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "After combining Cluster X and Cluster Y to form Cluster Z, the distance of each cluster (e.g. W) to the new cluster Z is calculated."
+            }
+          ]
+        },
+        {
+          "id": "l27-q05",
+          "question": "Define Nx in the context of calculating distances between clusters or trees.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Nx is the number of sequences in cluster X."
+            }
+          ]
+        },
+        {
+          "id": "l27-q06",
+          "question": "What does dXY represent in the UPGMA method?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "dXY is the evolutionary distance between clusters X and Y."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 28,
+      "lessonId": "lesson-28",
+      "title": "YjXiijYXXYdNNd,1",
+      "shortQuestions": [
+        {
+          "id": "l28-q01",
+          "question": "Define the initial step in constructing trees using the distance matrix.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The initial step in constructing trees involves obtaining the distance matrix using pairwise sequence alignment."
+            }
+          ]
+        },
+        {
+          "id": "l28-q02",
+          "question": "Explain what happens when a new cluster is formed in the tree construction process.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "When a new cluster is formed, for example by combining V and E into a new cluster W, the distance matrix must be modified to reflect this new cluster."
+            }
+          ]
+        },
+        {
+          "id": "l28-q03",
+          "question": "Outline the process after updating the distance matrix with a new cluster.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Compute the distances between the new cluster and all other sequences.",
+                "Update the distance matrix with these new distances.",
+                "Select the shortest distance from the updated matrix.",
+                "Repeat the process of clustering based on the shortest distance."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l28-q04",
+          "question": "List the distances that need to be determined after forming the cluster W from V and E.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Distance between W and B",
+                "Distance between W and C",
+                "Distance between W and F"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l28-q05",
+          "question": "Briefly explain the conclusion about the iterative process of tree construction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Once a cluster is selected and its distances to all other sequences are computed, the distance matrix is updated. The shortest distance is then selected from the new matrix, and the process is repeated to progressively build the tree."
+            }
+          ]
+        },
+        {
+          "id": "l28-q06",
+          "question": "What is the significance of the UPGMA-III mentioned in the lesson?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "UPGMA-III refers to a method or step in the tree construction process, likely related to the approach of updating and selecting clusters based on the distance matrix, as outlined in the lesson."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 29,
+      "lessonId": "lesson-29",
+      "title": "YXYWYXWXZWNNdNdNd",
+      "shortQuestions": [
+        {
+          "id": "l29-q01",
+          "question": "What are the two main components of UPGMA?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Progressive distance calculations between two clusters",
+                "Progressive distance calculations between two trees"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l29-q02",
+          "question": "Explain the process of combining clusters in UPGMA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In UPGMA, combining clusters involves merging two clusters, for example Cluster X and Cluster Y, into a new cluster Z. After this, the distance of each other cluster (e.g., cluster W) to the new cluster Z is calculated."
+            }
+          ]
+        },
+        {
+          "id": "l29-q03",
+          "question": "Define Nx in the context of UPGMA clustering.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Nx is the number of sequences in cluster X."
+            }
+          ]
+        },
+        {
+          "id": "l29-q04",
+          "question": "What does dXY represent in UPGMA?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "dXY represents the evolutionary distance between clusters X and Y."
+            }
+          ]
+        },
+        {
+          "id": "l29-q05",
+          "question": "After merging clusters V and E into a new cluster W, what must be done with the distance matrix?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The distance matrix must be modified to reflect the distances between the new cluster W and the other clusters such as B, C, and F."
+            }
+          ]
+        },
+        {
+          "id": "l29-q06",
+          "question": "List the clusters mentioned in the lesson for which distances to the new cluster W need to be calculated.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Cluster B",
+                "Cluster C",
+                "Cluster F"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 30,
+      "lessonId": "lesson-30",
+      "title": "85 UPGMA-IV",
+      "shortQuestions": [
+        {
+          "id": "l30-q01",
+          "question": "What is the main objective after forming three clusters in UPGMA-IV?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The main objective is to join the two separate trees formed into a single complete tree."
+            }
+          ]
+        },
+        {
+          "id": "l30-q02",
+          "question": "What does the cluster X represent in the context of UPGMA-IV?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Cluster X represents the new cluster formed by joining clusters F and B."
+            }
+          ]
+        },
+        {
+          "id": "l30-q03",
+          "question": "What modification is required in the distance matrix after forming the new cluster X?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The distance matrix needs to be modified to reflect the distances between the new cluster X and the other existing trees, such as tree W."
+            }
+          ]
+        },
+        {
+          "id": "l30-q04",
+          "question": "Explain the significance of joining two sub-trees in UPGMA-IV.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Joining two sub-trees is significant because it allows the formation of a single complete tree from the previously formed sub-trees, completing the clustering process."
+            }
+          ]
+        },
+        {
+          "id": "l30-q05",
+          "question": "What is the initial step in joining two sub-trees according to the lesson text?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The initial step is to form a new cluster by combining two clusters (e.g., F and B) into a new cluster (e.g., X)."
+            }
+          ]
+        },
+        {
+          "id": "l30-q06",
+          "question": "Outline the process described for creating a complete tree in UPGMA-IV.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Form clusters according to minimum distance.",
+                "Identify two separate trees formed from these clusters.",
+                "Join two clusters (e.g., F and B) to form a new cluster (X).",
+                "Modify the distance matrix to reflect distances involving the new cluster.",
+                "Join the two sub-trees to form a complete tree."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 31,
+      "lessonId": "lesson-31",
+      "title": "86 UPGMA-V",
+      "shortQuestions": [
+        {
+          "id": "l31-q01",
+          "question": "What happens when clusters X and W are combined in UPGMA?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "When clusters X and W are combined, they form a new cluster called Y."
+            }
+          ]
+        },
+        {
+          "id": "l31-q02",
+          "question": "What must be done to the distance matrix after forming the new cluster Y?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The distance matrix must be modified to reflect the distances between the new cluster Y and the other clusters."
+            }
+          ]
+        },
+        {
+          "id": "l31-q03",
+          "question": "What is the next step after forming the new cluster Y in the UPGMA process?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The next step is to determine the distance between the new cluster Y and other clusters, such as cluster C."
+            }
+          ]
+        },
+        {
+          "id": "l31-q04",
+          "question": "What was the result of applying UPGMA before joining the two sub-trees?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The application of UPGMA resulted in the formation of two sub-trees."
+            }
+          ]
+        },
+        {
+          "id": "l31-q05",
+          "question": "What is the purpose of joining the two sub-trees formed by UPGMA?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The purpose is to join the two sub-trees into a single tree."
+            }
+          ]
+        },
+        {
+          "id": "l31-q06",
+          "question": "Briefly explain the process of finalizing the tree in UPGMA as described.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Finalizing the tree involves joining the last two clusters (sub-trees) into one cluster and modifying the distance matrix accordingly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 32,
+      "lessonId": "lesson-32",
+      "title": "87 DNA to RNA Sequences, Base Complementarity",
+      "shortQuestions": [
+        {
+          "id": "l32-q01",
+          "question": "Briefly explain the role of RNA in gene expression and protein synthesis.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA takes information from DNA and converts that information into protein synthesis. It performs most of the work in gene expression and proteins."
+            }
+          ]
+        },
+        {
+          "id": "l32-q02",
+          "question": "List the different types of RNA mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "mRNA",
+                "tRNA",
+                "miRNA",
+                "siRNA"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l32-q03",
+          "question": "Outline the differences between RNA and DNA molecules as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Thymine is replaced by Uracil in RNA.",
+                "RNA molecule is single stranded.",
+                "RNA contains ribose sugar."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l32-q04",
+          "question": "Define RNA viruses and give two examples mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA viruses are viruses that assemble their genomes from RNAs."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Human Immunodeficiency Virus",
+                "Hepatitis C Virus"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l32-q05",
+          "question": "Distinguish between RNA and DNA in terms of their sugar component and strand structure.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA contains ribose sugar and is single stranded, whereas DNA contains deoxyribose sugar and is typically double stranded."
+            }
+          ]
+        },
+        {
+          "id": "l32-q06",
+          "question": "Briefly explain the initial motivation for studying RNA according to the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Initially, RNA was considered as a structure involved between DNA and protein, meaning it takes information from DNA and converts that information into protein synthesis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 33,
+      "lessonId": "lesson-33",
+      "title": "Figure 0 . 1 Ribose sugar has (OH) and Deoxyribose (H)",
+      "shortQuestions": [
+        {
+          "id": "l33-q01",
+          "question": "Define the difference between Ribose sugar and Deoxyribose sugar.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Ribose sugar has two (OH) groups, while Deoxyribose sugar has one (OH) group replaced by (H)."
+            }
+          ]
+        },
+        {
+          "id": "l33-q02",
+          "question": "List the two main categories of RNA.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Coding RNA",
+                "Non-Coding RNA"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l33-q03",
+          "question": "Briefly explain the functions of Coding RNA and Non-Coding RNA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Coding RNA performs their coded function in protein synthesis."
+            },
+            {
+              "type": "paragraph",
+              "text": "Non-Coding RNA helps in the translation process."
+            }
+          ]
+        },
+        {
+          "id": "l33-q04",
+          "question": "Outline the different types of RNA mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Messenger RNA (mRNA)",
+                "Transfer RNA (tRNA)",
+                "Ribosomal RNA (rRNA)",
+                "Micro RNAs (miRNA)",
+                "Small Interfering RNA (siRNA)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l33-q05",
+          "question": "Describe the key features of Messenger RNA (mRNA).",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Only 5-10% of this RNA type is present in the cell.",
+                "Has variable sequence and variable size.",
+                "Carries genetic information from DNA to ribosomes for protein assembly.",
+                "5’ end is capped with 7-Methyl Guanosine Triphosphate to help ribosome identification.",
+                "3’ end has a poly A tail (30-200 adenylate residues) to protect against 3’ exonucleases."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l33-q06",
+          "question": "Explain why RNA has a short life span according to the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA has two (OH) groups which cause repulsion, leading to a short life span."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 34,
+      "lessonId": "lesson-34",
+      "title": "DNA information transfer",
+      "shortQuestions": [
+        {
+          "id": "l34-q01",
+          "question": "List the types of hydrogen bonds formed between RNA nucleotides.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "A (Adenine) forms hydrogen bonds with U (Uracil).",
+                "G (Guanine) forms hydrogen bonds with C (Cytosine).",
+                "G (Guanine) can also form hydrogen bonds with U (Uracil) - known as Wobble Pair."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l34-q02",
+          "question": "Briefly explain why RNA can form many different structures.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA can form many different structures due to its nucleotides' ability to form hydrogen bonds and the presence of ribose sugar instead of deoxyribose. This bonding ability allows RNA to fold into various 3D structures that contribute to its stability and functional diversity."
+            }
+          ]
+        },
+        {
+          "id": "l34-q03",
+          "question": "Outline the main functions of RNA in the cell as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA information transfer",
+                "Regulatory roles",
+                "Catalytic roles",
+                "Defense and immune response",
+                "Structure-based special roles"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l34-q04",
+          "question": "Define Gibbs Free Energy in the context of RNA folding.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Gibbs Free Energy is the free energy available for the RNA molecule to undergo reactions and form structures. RNA folding occurs at a lower Gibbs Free Energy state, and when multiple structures are possible, the one with the lowest energy state is preferred."
+            }
+          ]
+        },
+        {
+          "id": "l34-q05",
+          "question": "Distinguish between the sugar and base components of RNA and DNA mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Component",
+                "RNA",
+                "DNA"
+              ],
+              "rows": [
+                [
+                  "Sugar",
+                  "Ribose",
+                  "Deoxyribose"
+                ],
+                [
+                  "Base",
+                  "Uracil (U)",
+                  "Thymine (T)"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l34-q06",
+          "question": "Briefly explain the significance of the Wobble Pair in RNA structure.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Wobble Pair refers to the hydrogen bonding between Guanine (G) and Uracil (U) in RNA. This non-standard pairing contributes to the flexibility and variety of RNA structures, allowing RNA to perform diverse functions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 35,
+      "lessonId": "lesson-35",
+      "title": "Lesson 35",
+      "shortQuestions": [
+        {
+          "id": "l35-q01",
+          "question": "Define the process of RNA folding in terms of energy.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA folding involves the continuous release of energy as the RNA molecule forms complementary base pairs. The overall energy of RNA structures can be calculated by summing the energies given out during the folding process."
+            }
+          ]
+        },
+        {
+          "id": "l35-q02",
+          "question": "List the four nucleotides that compose RNA.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Adenine (A)",
+                "Uracil (U)",
+                "Cytosine (C)",
+                "Guanine (G)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l35-q03",
+          "question": "Briefly explain the role of hydrogen bonding in RNA stability.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Hydrogen bonding occurs between specific nucleotides in RNA, where Guanine (G) bonds with Cytosine (C), and Adenine (A) bonds with Uracil (U). These bonds release energy, which contributes to the increased stability of the RNA molecule."
+            }
+          ]
+        },
+        {
+          "id": "l35-q04",
+          "question": "Outline how the overall energy of RNA structures is calculated.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Identify the energies given out during the folding process of RNA.",
+                "Sum the positive and negative values of stabilizing and destabilizing energies.",
+                "Factor in the ways RNA can be destabilized to adjust the calculations."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l35-q05",
+          "question": "Distinguish between stabilizing and destabilizing energies in RNA folding.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Stabilizing energies are the positive values released during hydrogen bonding between complementary bases, which increase RNA stability. Destabilizing energies are negative values that arise from factors that disrupt RNA structure, reducing stability."
+            }
+          ]
+        },
+        {
+          "id": "l35-q06",
+          "question": "Explain the composition of the RNA backbone.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The RNA backbone is composed of ribose sugar molecules to which the four nucleotides (A, U, C, and G) are attached."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 36,
+      "lessonId": "lesson-36",
+      "title": "92 Types of RNA Secondary Structures – I",
+      "shortQuestions": [
+        {
+          "id": "l36-q01",
+          "question": "Define the primary and secondary structures of RNA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The primary structure of RNA is a simple nucleotide sequence and is denoted by 1’. The secondary structure is formed when these nucleotides fold together to create a complex structure and is denoted by 2’."
+            }
+          ]
+        },
+        {
+          "id": "l36-q02",
+          "question": "List the main structural patterns found in RNA secondary structures.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Helices",
+                "Loops",
+                "Bulges",
+                "Junctions"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l36-q03",
+          "question": "Briefly explain how the RNA helix differs from the DNA helix.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The RNA helix is formed when the RNA folds onto itself, unlike the DNA helix which is typically formed by two separate strands winding around each other."
+            }
+          ]
+        },
+        {
+          "id": "l36-q04",
+          "question": "What is the minimum length of the hairpin loop in RNA secondary structure and why?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The hairpin loop must be at least four bases long to avoid steric hindrance with base-pairing in the stem part of the structure."
+            }
+          ]
+        },
+        {
+          "id": "l36-q05",
+          "question": "Outline the effect of hydrogen bond formation on RNA stability.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Formation of hydrogen bonds between 5 nucleotides releases energy (-12.0 kcal/mol), causing the RNA molecule to adopt a 2’ structure and become more stable."
+            }
+          ]
+        },
+        {
+          "id": "l36-q06",
+          "question": "Distinguish between the RNA 1’ and 2’ structures with examples.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Structure",
+                "Description",
+                "Example"
+              ],
+              "rows": [
+                [
+                  "1’ (Primary)",
+                  "Simple nucleotide sequence",
+                  "RNA nucleotide sequence from 5’ to 3’ ends"
+                ],
+                [
+                  "2’ (Secondary)",
+                  "Folded complex structure formed by base pairing",
+                  "Helix, Hairpin loop, Bulge loop"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 37,
+      "lessonId": "lesson-37",
+      "title": "94 Types of RNA Secondary Structures – III",
+      "shortQuestions": [
+        {
+          "id": "l37-q01",
+          "question": "Define bulges in RNA secondary structure.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bulges are formed when a double-stranded region cannot form base pairs perfectly. They can be asymmetric with a varying number of base pairs on one side of the loop."
+            }
+          ]
+        },
+        {
+          "id": "l37-q02",
+          "question": "Briefly explain the formation of interior loops in RNA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Interior loops are formed by an asymmetric number of unpaired bases on each side of the loop."
+            }
+          ]
+        },
+        {
+          "id": "l37-q03",
+          "question": "List the characteristics of RNA junctions or intersections.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Include two or more double-stranded regions converging to form a closed structure.",
+                "Unpaired bases appear as a bulge."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l37-q04",
+          "question": "Outline the role of bulge loops in cellular RNAs.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bulge loops are commonly found in helical segments of cellular RNAs and are used to measure the helical twist of RNA in solution."
+            }
+          ]
+        },
+        {
+          "id": "l37-q05",
+          "question": "Distinguish between RNA secondary and tertiary structures based on the lesson text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA secondary structures involve folding within the RNA molecule forming regions like bulges, interior loops, and junctions."
+            },
+            {
+              "type": "paragraph",
+              "text": "RNA tertiary structures are formed when unpaired bases in the secondary structure interact by forming hydrogen bonds with each other."
+            }
+          ]
+        },
+        {
+          "id": "l37-q06",
+          "question": "Briefly explain how RNA tertiary structures are formed according to the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA tertiary structures form when nucleotides that remain unpaired after RNA folding interact by forming hydrogen bonds together."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 38,
+      "lessonId": "lesson-38",
+      "title": "The above figure:",
+      "shortQuestions": [
+        {
+          "id": "l38-q01",
+          "question": "Define tertiary (3’) structure in RNA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Tertiary or 3’ structure in RNA is formed when unpaired nucleotides of the 2’ structure interact with other unpaired nucleotides, creating a more complex three-dimensional folding."
+            }
+          ]
+        },
+        {
+          "id": "l38-q02",
+          "question": "Outline how 2’ structures come together in RNA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The unpaired nucleotides in 2’ structures interact with other unpaired nucleotides to form tertiary (3’) structures."
+            },
+            {
+              "type": "paragraph",
+              "text": "For example, 4 nucleotides in a hairpin loop structure interact to contribute to tertiary folding."
+            }
+          ]
+        },
+        {
+          "id": "l38-q03",
+          "question": "Indicate the difference between an internal loop and a multi loop in RNA structure.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The lesson text does not provide explicit definitions or differences between internal loop and multi loop but asks to indicate the difference."
+            }
+          ]
+        },
+        {
+          "id": "l38-q04",
+          "question": "What are pseudoknots in RNA tertiary structure?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Pseudoknots are abnormal foldings in RNA tertiary structure where unpaired bases remain paired by unusual interactions, but instead of normal pairing, they remain available for pairing."
+            }
+          ]
+        },
+        {
+          "id": "l38-q05",
+          "question": "How can pseudoknots be detected in RNA structures?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Pseudoknots can be detected using a circular plot, which is a graphical approach to represent RNA structures."
+            },
+            {
+              "type": "paragraph",
+              "text": "In a circular plot, intersecting arcs indicate the presence of pseudoknots."
+            }
+          ]
+        },
+        {
+          "id": "l38-q06",
+          "question": "Indicate the role of unpaired bases in the tertiary structure of RNA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Unpaired bases in the tertiary structure remain paired by abnormal folding called pseudoknots, but instead of normal pairing, they remain available or pairing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 39,
+      "lessonId": "lesson-39",
+      "title": "97 Experimental Methods for Determining RNA Strucutres",
+      "shortQuestions": [
+        {
+          "id": "l39-q01",
+          "question": "Define the 1’, 2’ and 3’ structures of RNA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA has three levels of structure: 1’ structure is the simple nucleotide sequence, 2’ structure involves nucleotide folding, and 3’ structure includes knots formed in the RNA."
+            }
+          ]
+        },
+        {
+          "id": "l39-q02",
+          "question": "Briefly explain how X-ray crystallography is used to determine RNA structure.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "X-ray crystallography works on the principle of diffraction. Crystallized RNA diffracts X-rays, which helps estimate the atomic positions within the RNA molecule."
+            }
+          ]
+        },
+        {
+          "id": "l39-q03",
+          "question": "List the key property of isotopes that is relevant to Nuclear Magnetic Resonance Imaging (NMR) in RNA structure determination.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Isotopes with an odd number of protons and/or neutrons have a nonzero spin (intrinsic magnetic moment and angular momentum).",
+                "Isotopes with even numbers of both protons and neutrons have a total spin of zero.",
+                "Commonly studied nuclei in NMR include 1H and 13C."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l39-q04",
+          "question": "Outline the principle of Atomic Force Microscopy (AFM) used for RNA structure measurement.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In Atomic Force Microscopy, a laser connected to a Si3N4 piezoelectric probe scans an RNA sample. This technique works well in both air and liquid environments."
+            }
+          ]
+        },
+        {
+          "id": "l39-q05",
+          "question": "Distinguish Nuclear Magnetic Resonance Imaging (NMR) from X-ray crystallography in RNA structure determination.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "NMR uses resonance of hydrogen atoms in RNA placed in a high magnetic field and does not require crystallization of RNA.",
+                "X-ray crystallography relies on diffraction of X-rays by crystallized RNA to estimate atomic positions."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l39-q06",
+          "question": "Briefly explain why some nuclei are studied in NMR for RNA structure analysis.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Nuclei with nonzero spin, such as 1H and 13C, have intrinsic magnetic moments and angular momentum, making them suitable for resonance in a magnetic field during NMR studies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 40,
+      "lessonId": "lesson-40",
+      "title": "http://www.slideshare.net/Oatsmith/13-nuclear-magnetic-resonance-spectroscopy-wade-7th",
+      "shortQuestions": [
+        {
+          "id": "l40-q01",
+          "question": "Define the purpose of RNA Bricks database.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA Bricks is a database of RNA 3D structure motifs and their contacts, both with themselves and with proteins."
+            }
+          ]
+        },
+        {
+          "id": "l40-q02",
+          "question": "List two examples of online databases where RNA structures are stored.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "RNA Bricks",
+                "Stanford University’s RNA Mapping Database (RMDB)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l40-q03",
+          "question": "Briefly explain why RNA molecules have a short shelf life.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA molecules readily degrade due to their inherent instability, which results in a short shelf life."
+            }
+          ]
+        },
+        {
+          "id": "l40-q04",
+          "question": "Outline how the 1’ RNA structure relates to the 2’ structure in RNA folding.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The 1’ RNA structure creates the 2’ structure because the simple nucleotides fold and form the 2’ structure."
+            }
+          ]
+        },
+        {
+          "id": "l40-q05",
+          "question": "Distinguish between experimental measurement and prediction of RNA 2’ structure.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Experimental measurement of RNA 2’ structure is slow and costly, and there is a possibility of multiple structures existing."
+            },
+            {
+              "type": "paragraph",
+              "text": "Prediction relies on folding patterns and stability considerations derived from the 1’ structure."
+            }
+          ]
+        },
+        {
+          "id": "l40-q06",
+          "question": "Explain the significance of maximizing the number of nucleotides in RNA structure prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Maximizing the number of nucleotides can increase the stability of the RNA molecule’s structure."
+            },
+            {
+              "type": "paragraph",
+              "text": "Selecting the structure according to stability helps in predicting the most likely RNA conformation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 41,
+      "lessonId": "lesson-41",
+      "title": "Figure 17 Potato Tuber Spindle Viroid",
+      "shortQuestions": [
+        {
+          "id": "l41-q01",
+          "question": "Briefly explain the dot plot method for RNA structure prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The dot plot method involves drawing a square partitioned by gridlines, placing the RNA sequence on the top and left sides of the square, and putting a \"DOT\" at positions where nucleotides are complementary. These dots indicate base pairing, and connecting regions of paired nucleotides helps form the RNA secondary structure."
+            }
+          ]
+        },
+        {
+          "id": "l41-q02",
+          "question": "What happens to the gaps between complementary nucleotides in the longest RNA sequences?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In the longest RNA nucleotides, the gaps between complementary nucleotides become bulges and loops in the RNA secondary structure."
+            }
+          ]
+        },
+        {
+          "id": "l41-q03",
+          "question": "Outline why experimental prediction of RNA structure is limited.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Experimental prediction of RNA structure is slow and costly, which results in only a few RNA secondary structures being reported experimentally."
+            }
+          ]
+        },
+        {
+          "id": "l41-q04",
+          "question": "What is the purpose of calculating the overall stability of RNA secondary structures during prediction?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Calculating the overall stability helps in selecting the optimal RNA secondary structure from many possible predicted structures."
+            }
+          ]
+        },
+        {
+          "id": "l41-q05",
+          "question": "Distinguish between stabilizing energy and destabilizing energy in RNA structure prediction.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Stabilizing energy is the energy released when complementary nucleotides form bonds, which helps find the optimal predicted structure.",
+                "Destabilizing energy refers to factors that reduce the stability of the RNA structure."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l41-q06",
+          "question": "List the steps involved in using the dot plot method to predict RNA secondary structure.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Draw a square and partition it by drawing gridlines.",
+                "Place the RNA sequence along the top and left sides of the square.",
+                "Mark a dot where nucleotides are complementary.",
+                "Connect regions of paired nucleotides to form secondary structures."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 42,
+      "lessonId": "lesson-42",
+      "title": "SUM OF ENERGIES",
+      "shortQuestions": [
+        {
+          "id": "l42-q01",
+          "question": "Define the sum of energies in the context of 2’ RNA structure.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The sum of energies refers to the total of stabilizing and destabilizing energies used to determine the quality of a 2’ RNA structure."
+            }
+          ]
+        },
+        {
+          "id": "l42-q02",
+          "question": "List the two types of energies involved in evaluating RNA structures.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Stabilizing energies (negative values)",
+                "Destabilizing energies (positive values)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l42-q03",
+          "question": "Briefly explain the role of Zuker’s Algorithm in RNA structure prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Zuker’s Algorithm is used to compute the stabilizing and destabilizing energies and their sum to predict the optimal 1’ or 2’ RNA structure based on free energy evaluation."
+            }
+          ]
+        },
+        {
+          "id": "l42-q04",
+          "question": "Outline how the quality of a 2’ RNA structure can be determined.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The quality of a 2’ RNA structure can be determined by comparing the sum of stabilizing and destabilizing energies and by evaluating the length of coupled sequences."
+            }
+          ]
+        },
+        {
+          "id": "l42-q05",
+          "question": "Distinguish between stabilizing and destabilizing energies in RNA structure analysis.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Energy Type",
+                "Value Sign",
+                "Effect on RNA Structure"
+              ],
+              "rows": [
+                [
+                  "Stabilizing energies",
+                  "Negative (-ve)",
+                  "Contribute to the stability of the RNA structure"
+                ],
+                [
+                  "Destabilizing energies",
+                  "Positive (+ve)",
+                  "Reduce the stability of the RNA structure"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l42-q06",
+          "question": "What is the significance of computing the sum of positive and negative energies in RNA structure prediction?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Computing the sum of positive and negative energies helps in determining the overall free energy, which is essential for predicting the optimal RNA structure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 43,
+      "lessonId": "lesson-43",
+      "title": "102 Example - Zuker Algorithm",
+      "shortQuestions": [
+        {
+          "id": "l43-q01",
+          "question": "Define the main goal of Zuker Algorithm in RNA structure prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Zuker Algorithm aims to compute energies of all possible 2’ RNA structures and select the one with the lowest energy, representing the most stable structure."
+            }
+          ]
+        },
+        {
+          "id": "l43-q02",
+          "question": "List the key steps involved in the Zuker Algorithm as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Compute stabilizing and destabilizing energies of all possible 2’ RNA structures.",
+                "Generate all possible 2’ RNA structures.",
+                "Construct all possible combinations of nucleotides.",
+                "Select the 2’ RNA structure with the lowest energy."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l43-q03",
+          "question": "Briefly explain what is meant by '2’ structure' in the context of this lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The '2’ structure' refers to the secondary structure of RNA formed by nucleotide base pairing and folding, which is analyzed for its energy stability."
+            }
+          ]
+        },
+        {
+          "id": "l43-q04",
+          "question": "Outline why it is necessary to generate all possible 2’ structures in the Zuker Algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Generating all possible 2’ structures allows the algorithm to evaluate every potential folding configuration to identify the most stable structure with the lowest energy."
+            }
+          ]
+        },
+        {
+          "id": "l43-q05",
+          "question": "Distinguish between stabilizing and destabilizing energies in the context of RNA 2’ structures.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Stabilizing energies contribute to the formation and maintenance of the RNA 2’ structure by lowering the overall energy, while destabilizing energies increase the energy, making the structure less stable."
+            }
+          ]
+        },
+        {
+          "id": "l43-q06",
+          "question": "What is the significance of selecting the structure with the lowest energy in the Zuker Algorithm?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Selecting the structure with the lowest energy ensures choosing the most thermodynamically stable RNA 2’ structure, which is the most likely to occur naturally."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 44,
+      "lessonId": "lesson-44",
+      "title": "103 Zuker Algorithm – Flowchart",
+      "shortQuestions": [
+        {
+          "id": "l44-q01",
+          "question": "Define Zuker’s Algorithm in the context of 2’ structure energy computation.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Zuker’s Algorithm involves computing stabilizing and destabilizing energies of 2’ structure and calculating the overall energy by summing up the positive and negative energies."
+            }
+          ]
+        },
+        {
+          "id": "l44-q02",
+          "question": "List the diagonal combinations used in Zuker’s Algorithm.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "A/U, C/G, G/C, U/G",
+                "G/U, U/G"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l44-q03",
+          "question": "Briefly explain how the overall energy is selected in Zuker’s Algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The diagonal combination from all possible options is selected based on the overall lowest energy."
+            }
+          ]
+        },
+        {
+          "id": "l44-q04",
+          "question": "Outline the main difference between Zuker’s Algorithm and Martinez Algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Martinez Algorithm is an improvement on Zuker’s Algorithm that favors 2’ structures which are energetically more feasible, reducing the time consumption involved in making combinations of all possible structures."
+            }
+          ]
+        },
+        {
+          "id": "l44-q05",
+          "question": "What energies does Zuker’s Algorithm compute for the 2’ structure?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Stabilizing energies",
+                "Destabilizing energies",
+                "Overall energy by summing positive and negative energies"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l44-q06",
+          "question": "Distinguish between the two diagonals ('D') mentioned in Zuker’s Algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The two diagonals include different base pair combinations: the first diagonal includes A/U, C/G, G/C, U/G pairs, while the second diagonal includes G/U and U/G pairs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 45,
+      "lessonId": "lesson-45",
+      "title": "Figure 25 Martinez Algorithm flow chart",
+      "shortQuestions": [
+        {
+          "id": "l45-q01",
+          "question": "Define Monte Carlo methods as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Monte Carlo methods (or Monte Carlo experiments) are a broad class of computational algorithms that rely on repeated random sampling to obtain numerical results."
+            },
+            {
+              "type": "paragraph",
+              "text": "They are often used in physical and mathematical problems and are most useful when it is difficult or impossible to use other mathematical methods."
+            },
+            {
+              "type": "paragraph",
+              "text": "Monte Carlo methods do not provide a definitive solution."
+            }
+          ]
+        },
+        {
+          "id": "l45-q02",
+          "question": "List the types of nucleotide pairs mentioned in the RNA sequence.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "G/C",
+                "G/U",
+                "A/U"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l45-q03",
+          "question": "Briefly explain why Dynamic Programming is used in RNA 2’ structure prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA 2’ structure may contain a large number of nucleotide sequences with many combinations, making it hard to find the optimal structure."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dynamic Programming (DP) breaks the larger problem into smaller ones to efficiently predict the optimal structure."
+            }
+          ]
+        },
+        {
+          "id": "l45-q04",
+          "question": "Outline the principle of Dynamic Programming in the context of RNA structure prediction.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Select the sequence of RNA nucleotides.",
+                "List all possible complementary positions for nucleotides in the complete sequence.",
+                "Recombine these combinations through a process called \"Traceback\".",
+                "Ensure that the highest coupled 2’ structure is reported."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l45-q05",
+          "question": "Distinguish between the solutions provided by Monte Carlo methods and Dynamic Programming in RNA structure prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Monte Carlo methods rely on random sampling and do not provide a definitive solution."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dynamic Programming breaks the problem into smaller parts and systematically finds the optimal structure."
+            }
+          ]
+        },
+        {
+          "id": "l45-q06",
+          "question": "What is the role of the 'Traceback' process in Dynamic Programming for RNA structure prediction?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Traceback recombines possible complementary base combinations to ensure that the highest coupled 2’ structure is reported."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 46,
+      "lessonId": "lesson-46",
+      "title": "http://ultrastudio.org/en/Nussinov_algorithm",
+      "shortQuestions": [
+        {
+          "id": "l46-q01",
+          "question": "Define the Nussinov-Jacobson (NJ) Algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Nussinov-Jacobson (NJ) Algorithm is a Dynamic Programming (DP) strategy proposed in 1980 to predict optimal RNA 2’ structures by computing the structures with the most nucleotide coupling."
+            }
+          ]
+        },
+        {
+          "id": "l46-q02",
+          "question": "Outline the initial setup of the matrix used in the NJ Algorithm.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Create a matrix with RNA sequences placed on the top and right sides.",
+                "Set the diagonal and lower tri-diagonal elements of the matrix to zero."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l46-q03",
+          "question": "Briefly explain how the NJ Algorithm fills the scoring matrix.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The NJ Algorithm fills each empty position in the scoring matrix by choosing the maximum score from four possible matrix positions."
+            }
+          ]
+        },
+        {
+          "id": "l46-q04",
+          "question": "What does the score S(i, j) represent in the NJ Algorithm?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The score S(i, j) represents the maximum value obtained from four possible scoring options for the matrix position corresponding to nucleotides i and j."
+            }
+          ]
+        },
+        {
+          "id": "l46-q05",
+          "question": "List the key features of the NJ Algorithm as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "It is a dynamic programming approach.",
+                "It predicts optimal RNA 2’ structures.",
+                "It uses a scoring matrix initialized to record scores.",
+                "It fills the scoring matrix by selecting the maximum score from four matrix positions."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l46-q06",
+          "question": "Distinguish the role of the scoring matrix in the NJ Algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The scoring matrix in the NJ Algorithm is initialized to record scores and is progressively filled by selecting the maximum score from four possible positions, which helps in predicting the optimal RNA 2’ structure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 47,
+      "lessonId": "lesson-47",
+      "title": "Figure 28 flow chart of NJ Algorithm.",
+      "shortQuestions": [
+        {
+          "id": "l47-q01",
+          "question": "What is the purpose of traceback in the NJ Algorithm?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Traceback is used to report the coupling of structures in sequences."
+            }
+          ]
+        },
+        {
+          "id": "l47-q02",
+          "question": "List the main points to be focused on in the NJ Algorithm.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Scoring Matrix",
+                "Matrix Initialization",
+                "Scoring method",
+                "The 4 different positions to be considered for calculating matrix"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l47-q03",
+          "question": "How many positions are used in scoring for maximum score according to Figure 0.3?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "For maximum score, 4 positions are used in scoring."
+            }
+          ]
+        },
+        {
+          "id": "l47-q04",
+          "question": "Briefly explain what Figure 29 represents in the context of the NJ Algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Figure 29 represents the scoring method used in the NJ Algorithm."
+            }
+          ]
+        },
+        {
+          "id": "l47-q05",
+          "question": "What example is given in the lesson to illustrate the NJ Algorithm?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The example given is the Jacobson Algorithm."
+            }
+          ]
+        },
+        {
+          "id": "l47-q06",
+          "question": "Outline the role of the scoring matrix in the NJ Algorithm.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The scoring matrix is a key component used to calculate scores based on 4 different positions, which helps in the matrix initialization and scoring method for the NJ Algorithm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 48,
+      "lessonId": "lesson-48",
+      "title": "109 Score Calculations and Traceback",
+      "shortQuestions": [
+        {
+          "id": "l48-q01",
+          "question": "Define the four different positions used to fill the matrix in RNA secondary structure prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The matrix is filled by four different positions: Left, Bottom, Diagonal, and Left/Bottom elements. These positions cater to all complementary nucleotide couplings."
+            }
+          ]
+        },
+        {
+          "id": "l48-q02",
+          "question": "Briefly explain how the 109 score is calculated in RNA secondary structure prediction.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The 109 score is calculated from four positions in the matrix, where the score contribution from each position is computed, and the maximum score is selected."
+            }
+          ]
+        },
+        {
+          "id": "l48-q03",
+          "question": "What is the role of traceback in the Nussinov-Jacobson (N-J) algorithm?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Traceback is used to generate RNA secondary structures from the scoring matrix. Multiple traceback paths may exist, and the one with the highest number of nucleotide couplings is selected."
+            }
+          ]
+        },
+        {
+          "id": "l48-q04",
+          "question": "List the two main strategies used by RNA structure prediction algorithms.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Nucleotides stacking",
+                "Energy minimization"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l48-q05",
+          "question": "Distinguish between Zuker’s Algorithm and Nussinov-Jacobson’s Algorithm in RNA structure prediction.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Zuker’s Algorithm involves energy minimization, incorporates phylogenetic information, and accommodates pseudoknots.",
+                "Nussinov-Jacobson’s Algorithm focuses on maximizing nucleotide pairing using nucleotides stacking and uses traceback to find the best 2’ structure."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l48-q06",
+          "question": "Why is it beneficial to combine nucleotides stacking and energy minimization methods in RNA structure prediction?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Combining both methods improves prediction accuracy because Nussinov-Jacobson’s algorithm predicts about 75% accurate 2’ structures and multiple equal scores may exist from different positions."
+            }
+          ]
+        },
+        {
+          "id": "l48-q07",
+          "question": "Name an online tool based on Zuker’s algorithm for RNA secondary structure prediction and mention one of its limitations.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The mfold web server is based on Zuker’s algorithm. It is computationally expensive and can only process sequences with less than 8000 nucleotides."
+            }
+          ]
+        },
+        {
+          "id": "l48-q08",
+          "question": "What is the function of the RNA Bricks online database?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA Bricks is an online database established for 2’ RNA structures, acting as a dictionary for RNA secondary structures formed from 1’ nucleotide sequences."
+            }
+          ]
+        },
+        {
+          "id": "l48-q09",
+          "question": "Outline the central dogma of molecular biology as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA contains four nucleotide bases (A, C, T, G).",
+                "RNA contains four nucleotide bases (A, C, U, G).",
+                "Proteins are made of 20 different amino acids.",
+                "DNA is transcribed to RNA, which is then translated into protein."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l48-q10",
+          "question": "Define an open reading frame (ORF) and state the criteria for a valid ORF.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "An ORF is a continuous stretch of codons that has the potential to code for a protein or peptide without any stop codons. A valid ORF must have the longest sequence without stop codons."
+            }
+          ]
+        },
+        {
+          "id": "l48-q11",
+          "question": "Briefly explain Edman degradation in protein sequencing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Edman degradation sequences amino acids in a peptide by labeling and cleaving the amino-terminal residue one at a time without disrupting peptide bonds between other residues."
+            }
+          ]
+        },
+        {
+          "id": "l48-q12",
+          "question": "List the main components of a mass spectrometry (MS) system used in protein sequencing.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Sample Injection",
+                "Ionization Source",
+                "Mass Analyzer",
+                "Ion Detector"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l48-q13",
+          "question": "Distinguish between bottom-up and top-down proteomics approaches.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Bottom-up proteomics cleaves proteins into peptides using enzymes and measures peptide masses for identification.",
+                "Top-down proteomics ionizes intact proteins, measures their masses, fragments them, and analyzes resultant peptides."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l48-q14",
+          "question": "What is the purpose of peptide sequence tags (PSTs) in protein identification?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "PSTs are short sequences derived from MS2 fragmentation data that provide clues about precursor protein sequences and help in searching protein sequence databases to identify candidate proteins."
+            }
+          ]
+        },
+        {
+          "id": "l48-q15",
+          "question": "Explain the role of scoring schemes in protein identification using mass spectrometry data.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Scoring schemes quantitatively represent the quality of matches between experimental and theoretical masses, helping to rank candidate proteins and isolate true positives from false positives."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

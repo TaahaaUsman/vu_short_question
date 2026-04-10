@@ -1,0 +1,4481 @@
+{
+  "courseCode": "ACC311",
+  "sourceHtml": "short_questions/script/input/BIF101_Handouts_PDF_FULL_BOOK_UPDATED_2022_BY_STUDENT_INFO_5.html",
+  "generatedAt": "2026-04-10T12:35:08.832Z",
+  "model": "gpt-4.1-mini",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "lessonId": "lesson-01",
+      "title": "Module 3: Molecules of life Text (4 minutes)",
+      "shortQuestions": [
+        {
+          "id": "l01-q01",
+          "question": "Define low molecular substances and give examples.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Low molecular substances are substances in living organisms with a molecular weight (Mr) less than 10,000."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Water",
+                "Inorganic (mineral) substances",
+                "Intermediates of metabolic pathways (carboxylic acids etc.)",
+                "Final products of metabolic pathways (amino acids, monosaccharides, lipids, nucleotides)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l01-q02",
+          "question": "List the types of high molecular substances found in living organisms.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Proteins",
+                "Polysaccharides",
+                "Nucleic acids"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l01-q03",
+          "question": "Briefly explain the term 'biological macromolecules' and their building units.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Biological macromolecules, also known as biopolymers, are high molecular substances present in living organisms."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Proteins are made up of amino acids.",
+                "Polysaccharides are made up of monosaccharides.",
+                "Nucleic acids are made up of nucleotides."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l01-q04",
+          "question": "Distinguish between inorganic and organic substances in living organisms.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Substances in living organisms are divided according to their origin into inorganic and organic substances."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Inorganic Substances",
+                "Organic Substances"
+              ],
+              "rows": [
+                [
+                  "Water, carbon dioxide, mineral substances",
+                  "Nucleic acids, proteins, saccharides, lipids"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l01-q05",
+          "question": "Outline the process of condensation in biological macromolecule synthesis.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Condensation is a chemical process where two molecules join to form a larger molecule with the loss of water."
+            },
+            {
+              "type": "paragraph",
+              "text": "In this process, molecules with projecting -H atoms link to molecules with projecting -OH groups, producing H2O which is removed."
+            },
+            {
+              "type": "paragraph",
+              "text": "The general reaction is: A-H + B-OH → A-B + H2O."
+            }
+          ]
+        },
+        {
+          "id": "l01-q06",
+          "question": "Briefly explain hydrolysis and how it differs from condensation.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Hydrolysis is the splitting of a large molecule into smaller parts by breaking a bond and adding -H to one part and -OH to the other."
+            },
+            {
+              "type": "paragraph",
+              "text": "It involves the addition of water, which is why it is called hydrolysis, meaning splitting by water."
+            },
+            {
+              "type": "paragraph",
+              "text": "The general reaction is: A-B + H2O → A-H + B-OH."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 2,
+      "lessonId": "lesson-02",
+      "title": "Module 4: Journey into the cell Text (7 minutes)",
+      "shortQuestions": [
+        {
+          "id": "l02-q01",
+          "question": "Define the term 'cell' as used in the context of this lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A cell is the basic structural and functional unit of all living organisms."
+            }
+          ]
+        },
+        {
+          "id": "l02-q02",
+          "question": "List the main components of a typical cell mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Cell membrane",
+                "Cytoplasm",
+                "Nucleus"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l02-q03",
+          "question": "Briefly explain the function of the cell membrane.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The cell membrane controls the movement of substances in and out of the cell, maintaining the internal environment."
+            }
+          ]
+        },
+        {
+          "id": "l02-q04",
+          "question": "Outline the role of the nucleus in the cell.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The nucleus acts as the control center of the cell, containing genetic material that regulates cell activities."
+            }
+          ]
+        },
+        {
+          "id": "l02-q05",
+          "question": "Distinguish between the cytoplasm and the nucleus.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Cytoplasm",
+                "Nucleus"
+              ],
+              "rows": [
+                [
+                  "Gel-like substance inside the cell where organelles are suspended",
+                  "Central organelle containing the cell's genetic material"
+                ],
+                [
+                  "Site of many cellular processes",
+                  "Controls cell activities and stores DNA"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l02-q06",
+          "question": "List the steps involved in the journey into the cell as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Approach the cell membrane",
+                "Pass through the cell membrane",
+                "Move into the cytoplasm",
+                "Reach the nucleus"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 3,
+      "lessonId": "lesson-03",
+      "title": "Module 5; Size Matters Text (8 minutes)",
+      "shortQuestions": [
+        {
+          "id": "l03-q01",
+          "question": "Define why cells are very small according to the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Cells are very small to maintain a large surface area to volume ratio, which makes smaller cells more powerful and efficient in transporting materials, including waste products."
+            }
+          ]
+        },
+        {
+          "id": "l03-q02",
+          "question": "List the main characteristics of prokaryotic cells mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "No membrane enclosed internal compartments",
+                "Plasma membrane regulates traffic (acts as a barrier)",
+                "Nucleoid region contains DNA",
+                "Most have a cell wall"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l03-q03",
+          "question": "Briefly explain the role of the plasma membrane in prokaryotic cells.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The plasma membrane in prokaryotic cells regulates traffic by acting as a barrier, controlling the movement of substances in and out of the cell."
+            }
+          ]
+        },
+        {
+          "id": "l03-q04",
+          "question": "Outline the special features of prokaryotic cells described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Cyanobacteria contain chlorophyll and have folds of plasma membrane",
+                "Other prokaryotes have mesosomes involved in energy processes",
+                "Some have actin-like filaments",
+                "Some have flagella made up of flagellin"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l03-q05",
+          "question": "Distinguish between the nucleoid region and membrane-enclosed compartments in prokaryotic cells.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The nucleoid region in prokaryotic cells contains DNA but is not enclosed by a membrane, whereas membrane-enclosed internal compartments are absent in prokaryotic cells."
+            }
+          ]
+        },
+        {
+          "id": "l03-q06",
+          "question": "List the components related to movement found in some prokaryotic cells.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Flagella made up of flagellin",
+                "Actin-like filaments"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 4,
+      "lessonId": "lesson-04",
+      "title": "Module 6: The Nucleus Text (7 minutes)",
+      "shortQuestions": [
+        {
+          "id": "l04-q01",
+          "question": "Define the nucleus and its main function in a cell.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The nucleus contains most of the cell’s genetic material (DNA). Its main functions include the duplication of genetic material and the first steps in decoding genetic information."
+            }
+          ]
+        },
+        {
+          "id": "l04-q02",
+          "question": "List the key roles of the nucleus in a cell.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Site of DNA duplication",
+                "Site of genetic control of the cell’s activities",
+                "Assembly of ribosomes begins in the nucleolus within the nucleus"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l04-q03",
+          "question": "Briefly explain the structure and function of the nuclear envelope.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The nuclear envelope surrounds the nucleus and consists of two membranes separated by 10–20 nm. It is perforated by nuclear pores approximately 9 nm in diameter, which connect the interior of the nucleus with the cytoplasm."
+            }
+          ]
+        },
+        {
+          "id": "l04-q04",
+          "question": "Outline the features of nuclear pores and their role.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Nuclear pores are about 9 nm in diameter",
+                "They connect the interior of the nucleus with the cytoplasm",
+                "Each pore is surrounded by a pore complex made up of eight large protein granules arranged in an octagon",
+                "RNA and proteins pass through these pores to enter or leave the nucleus"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l04-q05",
+          "question": "Distinguish between the outer and inner membranes of the nuclear envelope at the pores.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "At the nuclear pores, the outer membrane of the nuclear envelope is continuous with the inner membrane, allowing communication between the nucleus and cytoplasm."
+            }
+          ]
+        },
+        {
+          "id": "l04-q06",
+          "question": "What is the approximate diameter of the nucleus in most animal cells, and how does it compare to prokaryotic cells?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The nucleus of most animal cells is approximately 5 µm in diameter, which is substantially larger than most entire prokaryotic cells."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 5,
+      "lessonId": "lesson-05",
+      "title": "Module 7: Introduction to Molecular Biology Text (6 minutes)",
+      "shortQuestions": [
+        {
+          "id": "l05-q01",
+          "question": "Define Molecular Biology.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Molecular Biology is the study of biological molecules related to genes, gene products and heredity."
+            }
+          ]
+        },
+        {
+          "id": "l05-q02",
+          "question": "List the two scientific revolutions mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Information technology",
+                "Molecular Biology"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l05-q03",
+          "question": "Briefly explain the significance of Molecular Biology in modern sciences.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Molecular Biology has revolutionized the biological sciences, especially in the fields of Health Sciences and Agricultural Sciences, by handling large amounts of biological information."
+            }
+          ]
+        },
+        {
+          "id": "l05-q04",
+          "question": "Outline the contribution of Molecular Biology to human genome research.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "The almost complete sequence of the DNA molecules comprising the human genome was revealed.",
+                "Science has made available all of the genetic information needed to make a human being in theory.",
+                "The function of most of a human’s approximately 35,000 genes remains a mystery."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l05-q05",
+          "question": "Distinguish two main areas where Molecular Biology has a massive impact according to the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Human genome research and understanding genetic information.",
+                "Agriculture, through the development of genetically engineered plants and animals."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l05-q06",
+          "question": "List the benefits of Molecular Biology in agriculture as mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Creation of new varieties of genetically engineered plants and animals.",
+                "Some genetically engineered varieties are already in agricultural use.",
+                "Importance for the economy of Pakistan."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 6,
+      "lessonId": "lesson-06",
+      "title": "Module 8: History of Molecular Biology Text (6 minutes)",
+      "shortQuestions": [
+        {
+          "id": "l06-q01",
+          "question": "Define Molecular Biology according to the lesson text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Molecular Biology is a molecular mechanism that performs various cellular functions."
+            }
+          ]
+        },
+        {
+          "id": "l06-q02",
+          "question": "List the factors closely related to the advances in Molecular Biology.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "New technology development",
+                "Work of scientists and their experiments"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l06-q03",
+          "question": "Outline the basis of the history of Molecular Biology as mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The history of Molecular Biology depends on the work of scientists and their experiments."
+            }
+          ]
+        },
+        {
+          "id": "l06-q04",
+          "question": "Briefly explain what molecular biologists study.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Molecular biologists study how molecules interact with one another in living organisms to perform the important functions of life."
+            }
+          ]
+        },
+        {
+          "id": "l06-q05",
+          "question": "Distinguish between Molecular Biology and Bioinformatics as introduced in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Molecular Biology is the study of molecular mechanisms performing cellular functions, while Bioinformatics is the study of biological phenomena."
+            }
+          ]
+        },
+        {
+          "id": "l06-q06",
+          "question": "What conclusion did molecular biologists reach about molecular interactions in living organisms?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Molecular biologists concluded that molecules interact with one another in living organisms to perform the important functions of life."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 7,
+      "lessonId": "lesson-07",
+      "title": "Module: 9 Achievements of molecular biology Text (7minutes)",
+      "shortQuestions": [
+        {
+          "id": "l07-q01",
+          "question": "Define the Central dogma of molecular biology as laid out by Francis Crick.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Central dogma of molecular biology, laid out by Francis Crick in 1957, describes the relationship between DNA, RNA, and proteins."
+            }
+          ]
+        },
+        {
+          "id": "l07-q02",
+          "question": "List the key achievements of molecular biology mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Francis Crick's Central dogma of molecular biology in 1957",
+                "Meselson and Stahl's proof of semi-conservative DNA replication in 1958",
+                "Marshall Nirenberg and Gobind Khorana cracking the genetic code in the early 1960s",
+                "The Human Genome Project launched in 1990 and completed in 2003"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l07-q03",
+          "question": "Briefly explain the significance of Meselson and Stahl's experiment in 1958.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Meselson and Stahl proved that DNA replication is semi-conservative, meaning each new DNA molecule consists of one original strand and one newly synthesized strand."
+            }
+          ]
+        },
+        {
+          "id": "l07-q04",
+          "question": "Outline the contribution of Marshall Nirenberg and Gobind Khorana to molecular biology.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Marshall Nirenberg and Gobind Khorana, working independently, cracked the genetic code in the early 1960s."
+            }
+          ]
+        },
+        {
+          "id": "l07-q05",
+          "question": "When was the Human Genome Project launched and completed?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Human Genome Project was launched in 1990 and completed in 2003."
+            }
+          ]
+        },
+        {
+          "id": "l07-q06",
+          "question": "Distinguish between the roles of DNA, RNA, and proteins as implied by the Central dogma of molecular biology.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "According to the Central dogma, DNA serves as the genetic blueprint, RNA acts as the messenger that carries information from DNA, and proteins are the functional molecules synthesized based on the RNA code."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 8,
+      "lessonId": "lesson-08",
+      "title": "Module 10: Nucleic Acid Text (7 minutes)",
+      "shortQuestions": [
+        {
+          "id": "l08-q01",
+          "question": "Define nucleotide in the context of nucleic acids.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Nucleotides are the repeating units in nucleic acids, which are polymeric compounds responsible for storage and transmission of hereditary information."
+            }
+          ]
+        },
+        {
+          "id": "l08-q02",
+          "question": "List the three components of a DNA nucleotide.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Deoxyribose (sugar group)",
+                "Nitrogenous base",
+                "Phosphoric acid (phosphate group)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l08-q03",
+          "question": "Briefly explain the base pairing rules in DNA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In DNA, the nitrogenous bases form specific pairs held by hydrogen bonds: adenine (A) pairs only with thymine (T), and guanine (G) pairs only with cytosine (C)."
+            }
+          ]
+        },
+        {
+          "id": "l08-q04",
+          "question": "Outline the chemical structure of DNA as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA is a polymer of deoxyribonucleotides.",
+                "Each nucleotide consists of a deoxyribose sugar, a phosphate group, and one of four nitrogenous bases.",
+                "The four nitrogenous bases are adenine, guanine, cytosine, and thymine.",
+                "Nucleotides are linked by covalent bonds between the phosphate of one nucleotide and the sugar of the next, forming a phosphate-sugar backbone.",
+                "Two DNA strands form a double helix held together by hydrogen bonds between complementary bases."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l08-q05",
+          "question": "Distinguish between purines and pyrimidines in DNA bases.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In DNA, purines are adenine and guanine, while pyrimidines are cytosine and thymine."
+            }
+          ]
+        },
+        {
+          "id": "l08-q06",
+          "question": "When was DNA first discovered and when was its role in genetic inheritance demonstrated?",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "DNA was first discovered in 1869.",
+                "Its role in genetic inheritance was demonstrated in 1943."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 9,
+      "lessonId": "lesson-09",
+      "title": "Module:12 Nucleoside and Nucleotide Text (7 minutes)",
+      "shortQuestions": [
+        {
+          "id": "l09-q01",
+          "question": "Define nucleotide.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A molecule that contains phosphate group, pentose sugar and nitrogenous bases is called nucleotide."
+            }
+          ]
+        },
+        {
+          "id": "l09-q02",
+          "question": "Define nucleoside.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A molecule that contains pentose sugar and nitrogenous bases but lacks phosphate group is called nucleoside."
+            }
+          ]
+        },
+        {
+          "id": "l09-q03",
+          "question": "List the components of a nucleotide.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Phosphate group",
+                "Pentose sugar",
+                "Nitrogenous bases"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l09-q04",
+          "question": "Briefly explain the role of nucleosides in living organisms.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Nucleosides play important roles in metabolism, macromolecule biosynthesis, and cell signaling."
+            },
+            {
+              "type": "paragraph",
+              "text": "They also help in transmitting, encoding, and expressing genetic information in living organisms."
+            }
+          ]
+        },
+        {
+          "id": "l09-q05",
+          "question": "Outline the significance of nucleosides and nucleotides in controlling retrovirus replication.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Many nucleosides and nucleotides inhibit the enzyme reverse transcriptase."
+            },
+            {
+              "type": "paragraph",
+              "text": "This inhibition controls the replication of retroviruses, including the human immunodeficiency virus (HIV)."
+            }
+          ]
+        },
+        {
+          "id": "l09-q06",
+          "question": "Distinguish between nucleotide and nucleoside.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Nucleotide",
+                "Nucleoside"
+              ],
+              "rows": [
+                [
+                  "Contains phosphate group, pentose sugar, and nitrogenous bases",
+                  "Contains pentose sugar and nitrogenous bases but lacks phosphate group"
+                ],
+                [
+                  "Is a molecule with three components",
+                  "Is a molecule with two components"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 10,
+      "lessonId": "lesson-10",
+      "title": "Module:13 Types of Deoxyribonucleotides Text (7 minutes)",
+      "shortQuestions": [
+        {
+          "id": "l10-q01",
+          "question": "List the four types of deoxyribonucleotides.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "dCTP (Deoxycytidine Triphosphate)",
+                "dATP (Deoxyadenosine Triphosphate)",
+                "dGTP (Deoxyguanine Triphosphate)",
+                "dTTP (Deoxythymine Triphosphate)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l10-q02",
+          "question": "Define a deoxyribonucleotide and name its three components.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A deoxyribonucleotide is the monomer, or single unit, of DNA (deoxyribonucleic acid)."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Nitrogenous base",
+                "Deoxyribose sugar",
+                "One phosphate group"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l10-q03",
+          "question": "Briefly explain how deoxyribonucleotides join to form a DNA strand.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Deoxyribonucleotides are joined by covalent bonds called phosphodiester bonds. These bonds form between the phosphate group of one nucleotide and the 3' carbon atom of the pentose sugar in the next nucleotide, producing an alternating sugar-phosphate backbone."
+            }
+          ]
+        },
+        {
+          "id": "l10-q04",
+          "question": "Outline the directionality of DNA synthesis in terms of carbon numbering on the sugar.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "New nucleotides are always added to the 3' carbon of the last nucleotide, so DNA synthesis proceeds from the 5' end to the 3' end."
+            }
+          ]
+        },
+        {
+          "id": "l10-q05",
+          "question": "Distinguish the difference between deoxyribose and ribose sugars in nucleotides.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Deoxyribose differs from ribose by having a proton (H) on the 2' carbon instead of a hydroxyl group (OH) found in ribose."
+            }
+          ]
+        },
+        {
+          "id": "l10-q06",
+          "question": "What is the name of the bond that links nucleotides in a DNA strand and what does it connect?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The bond is called a phosphodiester bond. It connects the phosphate group of one nucleotide to the 3' carbon of the sugar in the next nucleotide."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 11,
+      "lessonId": "lesson-11",
+      "title": "Module:15 Structure of DNA Text (7 minutes)",
+      "shortQuestions": [
+        {
+          "id": "l11-q01",
+          "question": "Define nucleic acids and name their two main types.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Nucleic acids are biopolymers, or large biomolecules, essential for all known forms of life."
+            },
+            {
+              "type": "paragraph",
+              "text": "The two main types of nucleic acids are DNA (deoxyribonucleic acid) and RNA (ribonucleic acid)."
+            }
+          ]
+        },
+        {
+          "id": "l11-q02",
+          "question": "List the three components of a nucleotide.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "A 5-carbon sugar",
+                "A phosphate group",
+                "A nitrogenous base"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l11-q03",
+          "question": "Distinguish between DNA and RNA based on their sugar component.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "If the sugar is deoxyribose, the polymer is DNA."
+            },
+            {
+              "type": "paragraph",
+              "text": "If the sugar is ribose, the polymer is RNA."
+            }
+          ]
+        },
+        {
+          "id": "l11-q04",
+          "question": "Briefly explain the function of nucleic acids in living organisms.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Nucleic acids function in encoding, transmitting, and expressing genetic information."
+            },
+            {
+              "type": "paragraph",
+              "text": "Information is conveyed through the nucleic acid sequence, or the order of nucleotides within a DNA or RNA molecule."
+            }
+          ]
+        },
+        {
+          "id": "l11-q05",
+          "question": "Who discovered nucleic acids and in which year?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Nucleic acids were discovered by Friedrich Miescher in 1869."
+            }
+          ]
+        },
+        {
+          "id": "l11-q06",
+          "question": "Outline the structure of DNA.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA consists of two long polymers of nucleotides.",
+                "Backbones are made of sugars and phosphate groups joined by ester bonds.",
+                "The two strands run in opposite directions and are anti-parallel.",
+                "Each sugar is attached to one of four nucleobases.",
+                "The sequence of nucleobases encodes genetic information."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l11-q07",
+          "question": "What is the role of the genetic code in DNA?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The genetic code specifies the sequence of amino acids within proteins."
+            },
+            {
+              "type": "paragraph",
+              "text": "It is read by copying stretches of DNA into RNA in a process called transcription."
+            }
+          ]
+        },
+        {
+          "id": "l11-q08",
+          "question": "Define genetics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Genetics is the study of genes, heredity, and variation."
+            },
+            {
+              "type": "paragraph",
+              "text": "It is a field of biology concerned with the principles of heredity."
+            }
+          ]
+        },
+        {
+          "id": "l11-q09",
+          "question": "List the four sub-disciplines of genetics.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Transmission genetics",
+                "Population genetics",
+                "Quantitative genetics",
+                "Molecular genetics"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l11-q10",
+          "question": "Briefly explain the focus of transmission genetics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Transmission genetics deals with the movement of genes and genetic traits from parents to offspring."
+            },
+            {
+              "type": "paragraph",
+              "text": "It also deals with genetic recombination."
+            }
+          ]
+        },
+        {
+          "id": "l11-q11",
+          "question": "What traits does quantitative genetics study?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Quantitative genetics studies group heredity for traits determined by many genes simultaneously."
+            },
+            {
+              "type": "paragraph",
+              "text": "Examples include skin color, height, and eye color."
+            }
+          ]
+        },
+        {
+          "id": "l11-q12",
+          "question": "Describe the main focus of molecular genetics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Molecular genetics deals with the molecular structure and function of genes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 12,
+      "lessonId": "lesson-12",
+      "title": "Module 18: Genetic terminologies Text (9:00)",
+      "shortQuestions": [
+        {
+          "id": "l12-q01",
+          "question": "Define the term 'Character' in genetics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A heritable feature such as skin color or height."
+            }
+          ]
+        },
+        {
+          "id": "l12-q02",
+          "question": "What is meant by 'Trait' in genetics?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A variant for a character, for example brown, black, or white."
+            }
+          ]
+        },
+        {
+          "id": "l12-q03",
+          "question": "List the different generations commonly used in genetic crosses.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "P generation (parents)",
+                "F1 generation (1st filial generation)",
+                "F2 generation (2nd filial generation)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l12-q04",
+          "question": "Briefly explain what is meant by a 'Pure Cross' in genetics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A cross between a true breed plant or animal with another true breed plant or animal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example: True Breeding X True Breeding (WW X ww)."
+            }
+          ]
+        },
+        {
+          "id": "l12-q05",
+          "question": "Distinguish between Genotype and Phenotype.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Genotype: The genetic make-up of an organism.",
+                "Phenotype: The physical appearance of an organism."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l12-q06",
+          "question": "Define Dominant and Recessive traits with examples from Mendel's experiments.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Dominant trait is when one characteristic expresses itself over the other, for example, round seed shape was dominant over wrinkled in Mendel's experiments."
+            },
+            {
+              "type": "paragraph",
+              "text": "Recessive trait is the trait that does not show through in the first generation, for example, wrinkled seed shape."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 13,
+      "lessonId": "lesson-13",
+      "title": "Module 19: Genome informatics Text (9)",
+      "shortQuestions": [
+        {
+          "id": "l13-q01",
+          "question": "Define Genome Informatics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Genome Informatics (also Geno informatics) is the field of study of information processing and flow in genomes."
+            }
+          ]
+        },
+        {
+          "id": "l13-q02",
+          "question": "List the current research topics in genome informatics as mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Identification of cis-regulatory elements for transcription and splicing",
+                "Comparative genome analyses to understand gene duplications and genome rearrangements",
+                "Genome informatics analysis of sex differences",
+                "Gene expression in cancer tissues"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l13-q03",
+          "question": "Briefly explain why identification of regulatory regions in the genome is important.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Identification of regulatory regions in the genome is important for molecular medicine because mutations in these regions might be responsible for many diseases."
+            }
+          ]
+        },
+        {
+          "id": "l13-q04",
+          "question": "Outline the role of comparative genome analyses in genome informatics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Comparative genome analyses are necessary to understand the changes in genomic structures and to identify functional regions."
+            }
+          ]
+        },
+        {
+          "id": "l13-q05",
+          "question": "Distinguish the roles of bioinformaticians and experimental molecular biologists in genome data analysis.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Massive data analysis is not only for bioinformaticians but also requires researchers working at the bench to master basic tools and databases."
+            },
+            {
+              "type": "paragraph",
+              "text": "An interactive process between experimental molecular biologists and bioinformaticians is necessary to fully facilitate genome data and high-throughput data, including a feedback loop between hypothesis making and experimental verification."
+            }
+          ]
+        },
+        {
+          "id": "l13-q06",
+          "question": "Briefly explain the importance of high-throughput analyses in genome informatics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "With the progress of high-throughput analyses, such as microarrays and next-generation sequencing technologies, computational analysis of massive data is essential for interpretation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 14,
+      "lessonId": "lesson-14",
+      "title": "Module 20: Prokaryotic genome Text (10)",
+      "shortQuestions": [
+        {
+          "id": "l14-q01",
+          "question": "Define prokaryotes based on their genetic material.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Prokaryotes are organisms whose genetic material (DNA) is not enclosed in a nuclear membrane, meaning they do not have a nucleus."
+            }
+          ]
+        },
+        {
+          "id": "l14-q02",
+          "question": "List the characteristics of prokaryotic cells mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Genetic material is not enclosed in a nuclear membrane (no nucleus).",
+                "No other membrane-bound organelles are present.",
+                "Relatively simple cells.",
+                "Contain a genome in the form of a chromosome.",
+                "Have ribosomes for protein synthesis.",
+                "Have a cell wall with different layers."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l14-q03",
+          "question": "Briefly explain the endosymbiont hypothesis as mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The endosymbiont hypothesis suggests that mitochondria in eukaryotic cells evolved from bacteria."
+            }
+          ]
+        },
+        {
+          "id": "l14-q04",
+          "question": "Outline the differences between eukaryotic and prokaryotic cells as described.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Eukaryotic cells have membrane-bound organelles such as mitochondria; prokaryotic cells do not.",
+                "Eukaryotic cells are larger and more complex than prokaryotic cells.",
+                "Prokaryotic cells lack a nucleus; eukaryotic cells have a nucleus."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l14-q05",
+          "question": "Name the first prokaryotic genome that was sequenced and mention its significance.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The first prokaryotic genome sequenced was that of Hemophilic influenza. Its sequencing was done at a moderate cost and efficient pace, paving the way for sequencing many other organisms."
+            }
+          ]
+        },
+        {
+          "id": "l14-q06",
+          "question": "Compare the genome sizes and protein encoding genes of Hemophilic influenza and Mycoplasma.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Organism",
+                "Genome Size (Mbp)",
+                "Protein Encoding Genes",
+                "Pathogenicity"
+              ],
+              "rows": [
+                [
+                  "Hemophilic influenza",
+                  "1.83",
+                  "1743",
+                  "Human pathogen"
+                ],
+                [
+                  "Mycoplasma",
+                  "0.82",
+                  "676",
+                  "Human pathogen, metabolically weak"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l14-q07",
+          "question": "List the conclusions drawn about prokaryotic genomes from the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Prokaryotes have simple genomes.",
+                "They serve as easy models to study biochemistry, physiology, and molecular biology of life processes.",
+                "Sequencing is first implemented on simpler genomes before exploring complex genomes."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l14-q08",
+          "question": "Briefly explain why the genome size of eukaryotes does not always correlate with genetic complexity.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Many eukaryotic genomes contain large amounts of non-coding DNA sequences that do not code for proteins, which increases genome size without increasing genetic complexity."
+            }
+          ]
+        },
+        {
+          "id": "l14-q09",
+          "question": "Distinguish between the gene content of the human genome and E. coli genome as mentioned.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The human genome contains approximately 100,000 genes, about 25 times more than E. coli, but the much larger size of the human genome is mainly due to abundant noncoding sequences."
+            }
+          ]
+        },
+        {
+          "id": "l14-q10",
+          "question": "Outline the role of noncoding DNA in the genome size of complex eukaryotes.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Noncoding DNA constitutes most of the DNA in higher eukaryotic cells and accounts for the large genome sizes observed, rather than an increase in the number of functional genes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 15,
+      "lessonId": "lesson-15",
+      "title": "Module 22: DNA Sequencing Text (9:00)",
+      "shortQuestions": [
+        {
+          "id": "l15-q01",
+          "question": "Define Alkaptonuria and explain its genetic basis.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Alkaptonuria is a genetic disease characterized by “black urine.” The molecular basis of this phenotype was discovered before DNA was known as the genetic material. It is caused by an abnormal gene leading to a missing enzyme. The disease is most common in children whose parents are first cousins, with an occurrence rate of 12.5%."
+            }
+          ]
+        },
+        {
+          "id": "l15-q02",
+          "question": "Briefly explain the significance of Neurospora in genetic studies.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Neurospora was used to demonstrate that an altered gene results in an altered phenotype associated with an altered enzyme. It is haploid with recessive alleles, and X-rays acting as mutagens converted prototrophs (original strains) to auxotrophs (mutants requiring supplements)."
+            }
+          ]
+        },
+        {
+          "id": "l15-q03",
+          "question": "Outline how arginine mutants in Neurospora were used to identify enzyme deficiencies.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Mutant strains unable to grow on minimal medium were identified.",
+                "Some mutants grew when supplemented with arginine (arg mutants).",
+                "Arg mutants were grown with suspected intermediate compounds in the arginine synthesis pathway.",
+                "Each mutation was classified as affecting a specific enzyme.",
+                "Enzyme activities were examined in wild-type and mutant cells.",
+                "Results confirmed each mutant strain lacked a single active enzyme in the pathway."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l15-q04",
+          "question": "Distinguish between the messenger hypothesis and the adapter hypothesis in molecular biology.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "**Messenger Hypothesis:** RNA forms a complementary copy of one DNA strand, moves to the cytoplasm, and serves as a template for protein synthesis.",
+                "**Adapter Hypothesis:** An adapter molecule binds a specific amino acid with one region and recognizes a nucleotide sequence with another region to translate DNA language into protein language."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l15-q05",
+          "question": "List the flow of genetic information according to the central dogma of molecular biology.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA → RNA → Proteins"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l15-q06",
+          "question": "Briefly explain how some viruses like HIV differ in their genetic information flow.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Some viruses such as HIV transcribe from RNA to RNA and make a DNA copy of their genome, differing from the typical DNA to RNA to protein flow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 16,
+      "lessonId": "lesson-16",
+      "title": "Module 25: Background of Bioinformatics Text (8)",
+      "shortQuestions": [
+        {
+          "id": "l16-q01",
+          "question": "Define bioinformatics as introduced in the 1990s.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics originally dealt with the management and analysis of data pertaining to DNA, RNA, and protein sequences."
+            }
+          ]
+        },
+        {
+          "id": "l16-q02",
+          "question": "List the scientific disciplines that bioinformatics intersects with.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Biology",
+                "Mathematics",
+                "Computer Science",
+                "Chemistry",
+                "Physics"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l16-q03",
+          "question": "Briefly explain the challenge presented by proteins in bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Proteins may undergo various post-translational modifications leading to a very large number of functionally unique molecules, which creates a huge challenge in identifying genes and proteins."
+            }
+          ]
+        },
+        {
+          "id": "l16-q04",
+          "question": "Outline three next generation instruments used in biology experiments for obtaining digitalized biological information.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Next Generation Sequencers (NGS) for whole genome sequencing",
+                "High Resolution Mass Spectrometry for whole proteome profiling",
+                "Nuclear Magnetic Resonance Spectroscopy for structural studies"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l16-q05",
+          "question": "Distinguish the type of data produced by biological experiments in wet labs today.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Biological experiments produce digital data that may include text, numbers, symbols, or images, which are continuously stored on computer disks."
+            }
+          ]
+        },
+        {
+          "id": "l16-q06",
+          "question": "Explain the significance of digitalization in biology according to the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Digitalization enables the analysis of biological information using computer algorithms and software, facilitating the management and interpretation of large volumes of biological data."
+            }
+          ]
+        },
+        {
+          "id": "l16-q07",
+          "question": "Briefly describe the speed of data growth in biological databases.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Due to advancements in instrumentation, biological data is accumulating at exponentially increasing rates; for example, genome sequences in genome databases are doubling every few years."
+            }
+          ]
+        },
+        {
+          "id": "l16-q08",
+          "question": "Outline why computers are important in overcoming limitations of the human brain in bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The human brain is limited in recalling information from memory, whereas computers have an infinite ability to recall and quickly process information, aiding in bioinformatics analysis."
+            }
+          ]
+        },
+        {
+          "id": "l16-q09",
+          "question": "List the types of biological molecules initially managed and analyzed by bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA sequences",
+                "RNA sequences",
+                "Protein sequences"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l16-q10",
+          "question": "Briefly explain the role of new information technologies in biomedical and health research.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The increasing amount of data acquired, stored, and processed in life sciences and health sectors makes the development of new information technologies key to advancing knowledge in biomedical and health research."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 17,
+      "lessonId": "lesson-17",
+      "title": "Module 26: Introduction to bioinformatics Text (6 minutes)",
+      "shortQuestions": [
+        {
+          "id": "l17-q01",
+          "question": "Define bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics is an interdisciplinary field mainly involving molecular biology and genetics, computer science, mathematics, and statistics. It addresses large-scale biological problems from a computational point of view, focusing on modeling biological processes at the molecular level and making inferences from collected data."
+            }
+          ]
+        },
+        {
+          "id": "l17-q02",
+          "question": "List the main disciplines involved in bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Molecular biology and genetics",
+                "Computer science",
+                "Mathematics",
+                "Statistics"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l17-q03",
+          "question": "Outline the motivation behind the development of bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "It is an interdisciplinary field covering biological digital information including humans, plants, animals, and microorganisms.",
+                "Despite being a new field, it is rapidly developing.",
+                "It presents many opportunities in scientific discovery due to data from a wide range of species.",
+                "It requires very low-cost infrastructure and hardly any lab equipment."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l17-q04",
+          "question": "Briefly explain the scope of bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics primarily deals with digitalized biological information and data from biology experiments by employing computational methods, data processing techniques, and algorithms."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Storage of data",
+                "Organization of data",
+                "Analysis of many experiments",
+                "Representation of biological information"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l17-q05",
+          "question": "What are the main goals of bioinformatics?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "To convert complex biological data into useful information and knowledge.",
+                "To provide central, globally accessible databases for submission, search, and analysis of biological information.",
+                "To offer analysis software and tools for modelling, visualizing, exploring, and interpreting data."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l17-q06",
+          "question": "List some applications of bioinformatics approaches mentioned in the text.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Understanding the function of genes",
+                "Regulation of cells",
+                "Drug target selection",
+                "Drug design",
+                "Disease analysis"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l17-q07",
+          "question": "Describe the activities involved in bioinformatics in modern biological sciences.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Developing algorithms for organizing data collected from experiments",
+                "Writing software and tools for data analysis",
+                "Data processing to determine the role of underlying biomolecules",
+                "Statistical evaluation of data using methods such as t-test and ANOVA",
+                "Data visualization for meaningful presentation of biological information"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l17-q08",
+          "question": "Explain the significance of bioinformatics in Pakistan as mentioned in the conclusion.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In Pakistan, biology is rapidly changing due to the onset of bioinformatics. New research and educational programs are being developed, opening new opportunities for future generations."
+            }
+          ]
+        },
+        {
+          "id": "l17-q09",
+          "question": "What kind of data does bioinformatics primarily deal with?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics primarily deals with digitalized biological information and data reported from biology experiments."
+            }
+          ]
+        },
+        {
+          "id": "l17-q10",
+          "question": "Distinguish between the types of data bioinformatics handles and the computational methods it uses.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics handles digitalized biological data and experimental biology data. It uses computational methods, data processing techniques, and algorithms to store, organize, analyze, and represent this information."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 18,
+      "lessonId": "lesson-18",
+      "title": "Module 27: NEED OF BIOINFORMATICS-I Text (4 minutes)",
+      "shortQuestions": [
+        {
+          "id": "l18-q01",
+          "question": "Define bioinformatics based on the lesson text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics is the use of computers to efficiently store, retrieve, analyze, and interpret biological data, especially sequence data such as nucleotides and proteins."
+            }
+          ]
+        },
+        {
+          "id": "l18-q02",
+          "question": "List the major needs of bioinformatics as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "To store and retrieve biological data",
+                "To analyze biological data like sequence patterns",
+                "To interpret biological data",
+                "To predict 3D structures of biomolecules",
+                "To construct evolutionary trees to find ancestry of different organisms"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l18-q03",
+          "question": "Briefly explain why computers are essential in bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Computers are essential in bioinformatics because they enable efficient data storage, retrieval, and analysis of the enormous amount of biological data such as the approximately 3 billion nucleotides in human DNA."
+            }
+          ]
+        },
+        {
+          "id": "l18-q04",
+          "question": "Outline the allied disciplines that contribute to the field of bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Biomedical Engineering",
+                "Electrical and Computer Engineering",
+                "Computer Science",
+                "Applied Mathematics",
+                "Genetics",
+                "Biology",
+                "Anatomy and Cell Biology",
+                "Microbiology",
+                "Biostatistics"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l18-q05",
+          "question": "Distinguish between the role of bioinformatics in data storage and data interpretation.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In data storage, bioinformatics provides tools and databases to efficiently store and retrieve vast biological datasets. In data interpretation, bioinformatics analyzes and makes sense of this data, such as predicting structures and constructing evolutionary trees."
+            }
+          ]
+        },
+        {
+          "id": "l18-q06",
+          "question": "Explain the significance of the rapid increase in online tools for genomics and proteomics from 2000 to 2015.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The rapid increase in online tools reflects the growing need for bioinformatics in modern biology to process and analyze the expanding biological data generated by sequencing technologies."
+            }
+          ]
+        },
+        {
+          "id": "l18-q07",
+          "question": "What is the challenge faced by bioinformatics according to the lesson text?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The main challenge is to make sense of the large volume of sequence data being generated daily, turning raw data into meaningful biological insights."
+            }
+          ]
+        },
+        {
+          "id": "l18-q08",
+          "question": "Briefly describe the relationship between bioinformatics and the human genome project as mentioned in the text.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The human genome project revealed that each cell contains about 20,000 genes and approximately 3 billion nucleotides, creating enormous data that bioinformatics helps to store, retrieve, and analyze."
+            }
+          ]
+        },
+        {
+          "id": "l18-q09",
+          "question": "Outline the conclusion about the need for bioinformatics given in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The need for bioinformatics is rapidly increasing due to the exponential growth of biological data, which is becoming widely available online and free of cost."
+            }
+          ]
+        },
+        {
+          "id": "l18-q10",
+          "question": "List the main purposes of using bioinformatics in modern biology as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Efficient storage and retrieval of biological data",
+                "Analysis of sequence patterns",
+                "Interpretation of biological data",
+                "Prediction of 3D structures of biomolecules",
+                "Construction of evolutionary trees to understand ancestry"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 19,
+      "lessonId": "lesson-19",
+      "title": "Module 30: Applications of Bioinformatics - II Text (7 minutes)",
+      "shortQuestions": [
+        {
+          "id": "l19-q01",
+          "question": "Define bioinformatics as introduced in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics is the application of computational techniques to generate, collect, analyze, and store large biological data, enabling understanding from genomic to entire system levels."
+            }
+          ]
+        },
+        {
+          "id": "l19-q02",
+          "question": "List the main fields where bioinformatics is commonly applied according to the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Genomics",
+                "Transcriptomics",
+                "Proteomics",
+                "Metabolomics",
+                "Structural Proteomics",
+                "Designing Drugs",
+                "System Biology",
+                "Personalization of medicines for cure"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l19-q03",
+          "question": "Briefly explain how bioinformatics helps in understanding biological systems from small to big.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics helps to understand systems starting from gene findings to entire system prediction, including structure findings and modeling of many biological systems."
+            }
+          ]
+        },
+        {
+          "id": "l19-q04",
+          "question": "Outline the role of bioinformatics in understanding protein interactions and biological processes.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Helps humans understand proteins and protein interactions in many biological systems.",
+                "Provides concepts of how biological processes are interconnected and affect each other."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l19-q05",
+          "question": "What are some specific biological aspects that bioinformatics enables us to model or understand, as mentioned in the lesson?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Modeling of molecules and genome at the cell level",
+                "Signaling pathways",
+                "Morphology of tissue through models created with bioinformatics tools"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l19-q06",
+          "question": "Briefly explain the concluding role of bioinformatics in disease prediction and personalized medicine.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics not only collects, analyzes, and stores data but processes it authentically to validate hypotheses. It is expected to help in the near future to predict diseases and develop personalized medicine to tackle them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 20,
+      "lessonId": "lesson-20",
+      "title": "Module 31: Frontiers in Bioinformatics - I Text (6 minutes)",
+      "shortQuestions": [
+        {
+          "id": "l20-q01",
+          "question": "Define bioinformatics as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics is a new and emerging field of science with vast opportunities. It involves innovation in tools to increase the scale of biological data analysis and addresses many unsolved challenges in life science by developing new innovative ideas."
+            }
+          ]
+        },
+        {
+          "id": "l20-q02",
+          "question": "List the frontiers in genomics mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Sequencing the whole genome using Next Generation Sequencing (NGS)",
+                "Saving, storing, and analyzing massive biological data (Terabyte files)",
+                "Handling and processing large amounts of data easily",
+                "Assembling the whole genome sequence and identifying flaws"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l20-q03",
+          "question": "Briefly explain the frontier in transcriptomics according to the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Identifying unknown or under-discussion matters in genomics",
+                "Understanding the role of RNA in protein synthesis and its dynamics",
+                "Understanding RNA molecule interactions through simple models"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l20-q04",
+          "question": "Outline the frontiers in proteomics described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Identifying deficiency of low proteins in patient’s body tissue",
+                "Identifying protein production at large molecular levels in organisms",
+                "Designing pathways before and after biological reactions"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l20-q05",
+          "question": "What are the three main frontiers in bioinformatics introduced in Module 32?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Next generation genomics",
+                "Transcriptomics",
+                "Proteomics"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l20-q06",
+          "question": "Explain the frontier in protein structure as per the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics helps to understand how proteins fold in layers, how proteins interact with each other, and how drugs can affect or stimulate proteins. Protein structure is important for these interactions."
+            }
+          ]
+        },
+        {
+          "id": "l20-q07",
+          "question": "Briefly describe the frontier in system biology mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "System biology helps us understand the whole system of a single cell, including how organelles, genes, proteins, and metabolites are interconnected in a unified system. Bioinformatics also provides ideas on how these models can be applied in real-time."
+            }
+          ]
+        },
+        {
+          "id": "l20-q08",
+          "question": "What is personalized medicine and how does bioinformatics contribute to it?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Personalized medicine is the customization of medical treatment to the individual characteristics of each patient to ensure exact cure of diseases. Bioinformatics helps personalize medicines by evaluating them and ensuring they work effectively for specific patients, as not all medicines work the same for everyone."
+            }
+          ]
+        },
+        {
+          "id": "l20-q09",
+          "question": "Outline the conclusion about bioinformatics given in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Bioinformatics is a science full of challenges and opportunities, leading a revolution in biology and daily life. It is expected to enable humans to cure many diseases, especially through personalized medicine, making the 21st century the century of bioinformatics."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 21,
+      "lessonId": "lesson-21",
+      "title": "Module 33: The Central Dogma Text (13)",
+      "shortQuestions": [
+        {
+          "id": "l21-q01",
+          "question": "Define the central dogma of molecular biology.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The central dogma outlines the flow of genetic information during growth and division of the cells, specifically that genetic information flows from DNA to RNA to protein during cell growth."
+            }
+          ]
+        },
+        {
+          "id": "l21-q02",
+          "question": "List the key steps involved in the flow of genetic information according to the central dogma.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA serves as a template for the synthesis of RNA molecules.",
+                "RNA molecules move to the cytoplasm.",
+                "RNA determines the arrangement of amino acids within proteins."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l21-q03",
+          "question": "Briefly explain the process of DNA replication in relation to cell division.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Replication is the process by which two identical copies of DNA are made from an original molecule of DNA. It occurs in cells prior to cell division so that each daughter cell receives a copy of the genome of the parent cell."
+            }
+          ]
+        },
+        {
+          "id": "l21-q04",
+          "question": "Outline the directionality of information flow in the central dogma and mention any exceptions noted.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Information flows unidirectionally from DNA to RNA to protein.",
+                "Information does not flow from protein to RNA or DNA.",
+                "Flow of information from RNA backwards to DNA is possible in special circumstances due to reverse transcriptase.",
+                "RNA chains sometimes act as templates for DNA synthesis, but such reversals are very rare."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l21-q05",
+          "question": "Distinguish between the normal and exceptional flows of genetic information described in the central dogma.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Normal Flow",
+                "Exceptional Flow"
+              ],
+              "rows": [
+                [
+                  "DNA → RNA → Protein",
+                  "RNA → DNA (via reverse transcriptase)"
+                ],
+                [
+                  "RNA sequences are never determined by protein templates",
+                  "Reverse flow from protein to RNA or DNA does not occur"
+                ],
+                [
+                  "DNA is not made on RNA templates under normal conditions",
+                  "RNA can sometimes serve as template for DNA synthesis"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l21-q06",
+          "question": "Who coined the term 'Central Dogma' and in which year?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Francis Crick referred to the pathway for the flow of genetic information as the Central Dogma in 1956."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 22,
+      "lessonId": "lesson-22",
+      "title": "Module 34: Gene, mRNA and Protein Sequences",
+      "shortQuestions": [
+        {
+          "id": "l22-q01",
+          "question": "Define the Central Dogma as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Central Dogma is the transfer of information from DNA to molecules such as proteins, carbohydrates, and vitamins. It describes how DNA contains blueprints for building cells and how this information is transferred to produce these molecules."
+            }
+          ]
+        },
+        {
+          "id": "l22-q02",
+          "question": "List the main differences between DNA and RNA mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA is double stranded, whereas RNA is single stranded.",
+                "DNA contains the base Thymine (T), while RNA contains Uracil (U) instead of Thymine.",
+                "DNA is present in the nucleus of eukaryotic cells, RNA is not specified in location here."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l22-q03",
+          "question": "Briefly explain the structure of DNA as given in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "DNA is a double helix molecule composed of base pairs made of nucleotides. Each nucleotide consists of a sugar phosphate group and bases that bind together with hydrogen bonds."
+            }
+          ]
+        },
+        {
+          "id": "l22-q04",
+          "question": "Outline the mechanism by which DNA information leads to protein formation.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "DNA sends information to the cell via messenger RNA (mRNA).",
+                "mRNA sequences amino acids according to the coded information.",
+                "The amino acid sequence forms a protein structure.",
+                "The protein then contributes to forming the cell."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l22-q05",
+          "question": "Where is DNA located in eukaryotic and prokaryotic cells according to the lesson?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "In eukaryotic cells, DNA is located in the nucleus.",
+                "In prokaryotic cells, DNA is present in a spreader form in the cytoplasm."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l22-q06",
+          "question": "Distinguish between the role of DNA and protein in cell formation as per the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "DNA codes the information for RNA, which then makes the protein. The protein, along with some biomolecules, forms the cells and their systems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 23,
+      "lessonId": "lesson-23",
+      "title": "Module 35: NUCLEOTIDES Text (7 minutes)",
+      "shortQuestions": [
+        {
+          "id": "l23-q01",
+          "question": "Define a nucleotide.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A nucleotide is the basic building block of nucleic acids. It consists of a sugar molecule (ribose in RNA or deoxyribose in DNA) attached to a phosphate group and a nitrogen-containing base."
+            }
+          ]
+        },
+        {
+          "id": "l23-q02",
+          "question": "List the five types of nitrogenous bases found in nucleotides.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Adenine (A)",
+                "Cytosine (C)",
+                "Guanine (G)",
+                "Thymine (T)",
+                "Uracil (U)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l23-q03",
+          "question": "Distinguish between the sugars found in DNA and RNA nucleotides.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA contains ribose sugar, which has an OH group, while DNA contains deoxyribose sugar, which has an H instead of OH in the sugar molecule."
+            }
+          ]
+        },
+        {
+          "id": "l23-q04",
+          "question": "Briefly explain the difference in nitrogenous bases between DNA and RNA.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "DNA contains Thymine as one of its nitrogenous bases, whereas RNA contains Uracil instead of Thymine."
+            }
+          ]
+        },
+        {
+          "id": "l23-q05",
+          "question": "Outline the classification of nitrogenous bases into purines and pyrimidines.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Purines: Adenine (A) and Guanine (G)",
+                "Pyrimidines: Cytosine (C), Uracil (U), and Thymine (T)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l23-q06",
+          "question": "Briefly explain the role of DNA and RNA in protein synthesis.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "DNA codes the information for proteins, while RNA helps in making the protein by using the information coded by DNA."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 24,
+      "lessonId": "lesson-24",
+      "title": "Module 36: Genetic Code Text (9)",
+      "shortQuestions": [
+        {
+          "id": "l24-q01",
+          "question": "Define the term 'codon' in the context of the genetic code.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A codon is a sequence of three nucleotide bases (three-letter \"word\") along the mRNA chain that specifies a particular amino acid in protein synthesis."
+            }
+          ]
+        },
+        {
+          "id": "l24-q02",
+          "question": "List the components required for transcription as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "A DNA template for complementary base pairing",
+                "The appropriate ribonucleoside triphosphates (ATP, GTP, CTP, and UTP) to act as substrates",
+                "An enzyme, RNA polymerase"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l24-q03",
+          "question": "Briefly explain the significance of the start codon and stop codons in translation.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The start codon AUG codes for methionine and serves as the initiation signal for translation. The stop codons (UAA, UAG, UGA) act as termination signals; when reached, translation stops and the polypeptide is released from the translation complex."
+            }
+          ]
+        },
+        {
+          "id": "l24-q04",
+          "question": "Outline how the genetic code relates codons to amino acids.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The genetic code specifies which amino acids correspond to each codon. Each codon is complementary to the DNA triplet from which it was transcribed, and the code relates these codons to their specific amino acids to build proteins."
+            }
+          ]
+        },
+        {
+          "id": "l24-q05",
+          "question": "Distinguish between the template strand and the non-template strand of DNA in transcription.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The template strand of DNA is the strand that is transcribed to form RNA by complementary base pairing. The non-template strand is the complementary strand that remains untranscribed. Different genes may use different strands as templates."
+            }
+          ]
+        },
+        {
+          "id": "l24-q06",
+          "question": "List the total number of possible codons and the number of amino acids they code for.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "There are 64 (4^3) possible three-letter codons formed by combinations of the four nucleotide bases, but these codons code for only 20 different amino acids."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 25,
+      "lessonId": "lesson-25",
+      "title": "Module 38: TRANSCRIPTION Text (7minutes)",
+      "shortQuestions": [
+        {
+          "id": "l25-q01",
+          "question": "Define transcription in the context of molecular biology.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Transcription is the process by which the information in a strand of DNA is copied into a new molecule of messenger RNA (mRNA)."
+            }
+          ]
+        },
+        {
+          "id": "l25-q02",
+          "question": "List the main components involved in the transcription process.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA as the template",
+                "RNA polymerase enzyme",
+                "Transcription factors (accessory proteins)",
+                "Enhancer and promoter DNA sequences",
+                "Transcription initiation complex"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l25-q03",
+          "question": "Briefly explain the role of transcription factors in transcription.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Transcription factors bind to specific DNA sequences called enhancer and promoter sequences to recruit RNA polymerase to the appropriate transcription site, forming the transcription initiation complex that initiates transcription."
+            }
+          ]
+        },
+        {
+          "id": "l25-q04",
+          "question": "Outline the difference between DNA and RNA in terms of their base composition and structure.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA contains bases Adenine (A), Thymine (T), Cytosine (C), and Guanine (G); RNA contains Adenine (A), Uracil (U) instead of Thymine, Cytosine (C), and Guanine (G).",
+                "DNA is double stranded; RNA is single stranded."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l25-q05",
+          "question": "Distinguish between mRNA and DNA in terms of their function and stability.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "DNA stores genetic material safely and stably for long-term reference in the cell nucleus, while mRNA carries the same genetic information as a temporary copy that can exit the nucleus to serve as a blueprint for protein synthesis."
+            }
+          ]
+        },
+        {
+          "id": "l25-q06",
+          "question": "What is the significance of the complementary sequence of mRNA relative to the DNA template?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The mRNA sequence is complementary to the DNA template strand, meaning it carries the same information in a form suitable for translation but is not an identical copy, ensuring accurate protein synthesis."
+            }
+          ]
+        },
+        {
+          "id": "l25-q07",
+          "question": "Explain the term 'transcription initiation complex'.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The transcription initiation complex is the assembly of RNA polymerase and transcription factors bound to enhancer and promoter sequences on DNA, which initiates the synthesis of mRNA."
+            }
+          ]
+        },
+        {
+          "id": "l25-q08",
+          "question": "List the four bases found in DNA and their complementary base pairing.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Adenine (A) pairs with Thymine (T) by two hydrogen bonds.",
+                "Cytosine (C) pairs with Guanine (G) by three hydrogen bonds."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l25-q09",
+          "question": "List the four bases found in RNA and explain how it differs from DNA bases.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Adenine (A)",
+                "Uracil (U) replaces Thymine (T) found in DNA",
+                "Cytosine (C)",
+                "Guanine (G)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l25-q10",
+          "question": "Briefly explain the relationship between transcription and translation.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Transcription is the process of copying DNA information into mRNA, which then serves as a blueprint for translation, the process where amino acids are assembled into proteins according to the coded information."
+            }
+          ]
+        },
+        {
+          "id": "l25-q11",
+          "question": "What role does RNA polymerase play in transcription?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "RNA polymerase synthesizes mRNA by matching complementary RNA bases to the DNA template strand during transcription."
+            }
+          ]
+        },
+        {
+          "id": "l25-q12",
+          "question": "Explain why mRNA is not used for long-term storage of genetic information.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "mRNA is a temporary copy of genetic information that can freely exit the nucleus and is not stable for long-term storage, unlike DNA which is stable and stored safely in the nucleus."
+            }
+          ]
+        },
+        {
+          "id": "l25-q13",
+          "question": "What is the function of enhancer and promoter sequences in DNA?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Enhancer and promoter sequences are specific DNA regions where transcription factors bind to recruit RNA polymerase to start transcription at the correct site."
+            }
+          ]
+        },
+        {
+          "id": "l25-q14",
+          "question": "Describe the structural difference between DNA and RNA molecules.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "DNA is double stranded forming a stable double helix, whereas RNA is single stranded and can form complex secondary structures through base pairing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 26,
+      "lessonId": "lesson-26",
+      "title": "Module 93:Data Management Data Base",
+      "shortQuestions": [
+        {
+          "id": "l26-q01",
+          "question": "Define Data Management as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Data Management involves keeping track of data items, ranging from a few dozen to millions or billions of inter-related data items, requiring careful handling processes. It includes interactive software designed to assist users in decision-making, but does not make decisions itself."
+            }
+          ]
+        },
+        {
+          "id": "l26-q02",
+          "question": "List the main issues in Data Management mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Data entry",
+                "Data updates",
+                "Data integrity",
+                "Data security",
+                "Data accessibility"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l26-q03",
+          "question": "Briefly explain the difference between a DBMS and a database according to the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A DBMS (Database Management System) is the software system that operates a database. It is not the database itself. Some consider the database to be a component within the DBMS rather than an entity separate from it."
+            }
+          ]
+        },
+        {
+          "id": "l26-q04",
+          "question": "Outline the characteristics of relational databases as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Consist of two or more related tables",
+                "May have from 10 to over a thousand tables",
+                "Each column contains only a single type of data",
+                "Rows are called records and row elements are called fields",
+                "All data is stored inside tables only",
+                "All operations on data are performed on these tables or on tables generated by table operations"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l26-q05",
+          "question": "Distinguish between table rows and row elements in a relational database.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In a relational database, table rows are called records, and the individual elements within those rows are called fields."
+            }
+          ]
+        },
+        {
+          "id": "l26-q06",
+          "question": "List examples of Relational DBMS software given in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Access",
+                "FileMaker Pro",
+                "SQL Server",
+                "Oracle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 27,
+      "lessonId": "lesson-27",
+      "title": "Module 95: Nucleotide sequence data base Text (9:00)",
+      "shortQuestions": [
+        {
+          "id": "l27-q01",
+          "question": "Define biological databases and state their main goals.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Biological databases are databases that store biological data."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Data storage",
+                "Information retrieval",
+                "Knowledge discovery"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l27-q02",
+          "question": "List the classifications of biological databases based on the type of data they contain.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Nucleotide databases",
+                "Protein databases",
+                "RNA databases",
+                "Genome databases",
+                "Expression databases (Gene Expression Databases)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l27-q03",
+          "question": "Briefly explain the difference between primary, secondary, and specialized biological databases.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Primary databases store the primary sequences.",
+                "Secondary databases store annotated primary sequences.",
+                "Specialized databases are dedicated to specific organisms or contain data related to specific diseases."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l27-q04",
+          "question": "Outline the common issues found in biological databases.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Redundancy",
+                "Inconsistency",
+                "Incompatibility (format, terminology, data types, etc.)",
+                "Limited quality assurance compared to the rapid emergence of new data"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l27-q05",
+          "question": "Describe what nucleotide sequence databases contain and give examples of the types of sequences stored.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Nucleotide sequence databases are a type of biological database that contains nucleotide sequences."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA sequences",
+                "cDNA sequences",
+                "EST (Expressed Sequence Tags) sequences"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l27-q06",
+          "question": "Explain the process by which cDNA is obtained from genomic DNA as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In eukaryotes, genomic DNA contains exons and introns. Exons are transcribed into mRNA. cDNA is then obtained from this mRNA through reverse transcription."
+            }
+          ]
+        },
+        {
+          "id": "l27-q07",
+          "question": "State the organizations involved in the INSDC and describe the growth trend of bases in GeneBank.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "INSDC is a joint venture of NCBI, EMBL, and DDBJ.",
+                "The growth of bases in GeneBank is exponential, doubling every 18 months."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 28,
+      "lessonId": "lesson-28",
+      "title": "Module 96: Protein Databases Text (9:00)",
+      "shortQuestions": [
+        {
+          "id": "l28-q01",
+          "question": "Define protein databases and list the types of data they store.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Protein databases store protein data which may include various types of information related to proteins."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Protein sequences",
+                "Motif (patterns of amino acids)",
+                "Structure",
+                "Structure alignments (aligned structures)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l28-q02",
+          "question": "Briefly explain the origin of protein sequence collection and name the key contributors.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The first sequences collected were protein sequences before nucleotide sequences, using Sanger and Tupy’s methods in 1951. Early focus was on common protein families like cytochromes."
+            },
+            {
+              "type": "paragraph",
+              "text": "Margret Dayhoff and her collaborators at the National Biomedical Research Foundation (NBRF) assembled an atlas of protein sequences, mainly cytochromes, in the 1960s."
+            }
+          ]
+        },
+        {
+          "id": "l28-q03",
+          "question": "What is PIR (Protein Information Resource) and which organizations collaborate in it?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "PIR originated from the collection of Dayhoff and collaborators and is now a collaborative resource."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "National Biomedical Research Foundation (NBRF)",
+                "Munich Center for Protein Sequences (MIPS)",
+                "Japan International Protein Information Database (JIPID)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l28-q04",
+          "question": "Outline the Swiss-Prot protein sequence database and its main controlling server.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Swiss-Prot is a collaboration between the Swiss Institute of Bioinformatics (SIB) and the European Bioinformatics Institute (EBI)."
+            },
+            {
+              "type": "paragraph",
+              "text": "It releases weekly updates from about 50 servers worldwide, with the main source being ExPASy, the main server located in Geneva."
+            }
+          ]
+        },
+        {
+          "id": "l28-q05",
+          "question": "List the classifications of protein databases based on the types of data they contain.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Sequences",
+                "Motifs",
+                "Structures",
+                "Different structural alignments"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l28-q06",
+          "question": "Briefly explain the growth trend of protein sequence data in databases.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The growth of sequence data in protein databases is exponential, similar to the growth observed in nucleotide sequence databases."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 29,
+      "lessonId": "lesson-29",
+      "title": "Module 97: Genome and organisms specific data Text (08:00)",
+      "shortQuestions": [
+        {
+          "id": "l29-q01",
+          "question": "Define the shotgun sequencing method and its significance in genome projects.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Shotgun sequencing method is a genome sequencing technique that was tested for reliability and efficiency during the sequencing of Haemophilus influenzae genome. It involves randomly breaking DNA into small segments, sequencing them, and then assembling the sequences to reconstruct the original genome."
+            },
+            {
+              "type": "paragraph",
+              "text": "Its significance lies in its successful use in sequencing the Haemophilus influenzae genome (~1.8 million base pairs), which took 9 months and cost around 1 million US dollars, paving the way for sequencing many other organisms."
+            }
+          ]
+        },
+        {
+          "id": "l29-q02",
+          "question": "List the key milestones in the origin of genome sequencing mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Viruses were sequenced first (Fleischmann et al. 1995).",
+                "First free living organism genome sequencing attempt launched in late 1990’s (Blattner et al. 1997).",
+                "Haemophilus influenzae was the first genome published, sequenced using shotgun sequencing at TIGR under Craig Venter."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l29-q03",
+          "question": "Outline the role of Craig Venter in genome sequencing projects.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Led the sequencing project of Haemophilus influenzae genome at The Institute of Genome Research (TIGR).",
+                "His name is also associated with the Human Genome Project.",
+                "Led Celera Genomics, a commercial organization involved in the Human Genome Project starting in 1998."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l29-q04",
+          "question": "Briefly explain the Human Genome Project and the organizations involved.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Human Genome Project started as a Pilot Project by the Department of Energy (DOE) of USA in 1986."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "National Human Genome Research Initiative (NHGRI), federally funded through NIH, started in 1988 by Francis Collin.",
+                "Celera Genomics, a commercial organization led by Craig Venter, joined in 1998.",
+                "NHGRI and Celera worked independently from one another."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l29-q05",
+          "question": "What is AceDB and who developed it?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "AceDB (AC. elegans DataBase) was the first genome database for genome sequences."
+            },
+            {
+              "type": "paragraph",
+              "text": "It was developed in 1989 by Richard Durbin and Thierry-Mieg."
+            }
+          ]
+        },
+        {
+          "id": "l29-q06",
+          "question": "Distinguish between the roles of NHGRI and Celera in the Human Genome Project.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "NHGRI is a federally funded organization through NIH, started in 1988 by Francis Collin.",
+                "Celera is a commercial organization led by Craig Venter, joined the project in 1998.",
+                "Both organizations worked independently from one another."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l29-q07",
+          "question": "Explain the purpose of genome browsers and give an example.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Genome browsers are webpages that allow visualization of genomes, showing graphical views where users can access reports and locate different genes."
+            },
+            {
+              "type": "paragraph",
+              "text": "An example is the UCSC Genome Browser (University of California Santa Cruz), which is the biggest genome browser. It displays chromosomes on top and various tracks below for SNPs, genes, ESTs, etc., enabling zooming into different genome regions."
+            }
+          ]
+        },
+        {
+          "id": "l29-q08",
+          "question": "Summarize the conclusion drawn about genome sequencing projects in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "The success of Haemophilus influenzae sequencing paved the way for other genome sequencing projects.",
+                "The Human Genome Project was accomplished by NHGRI and Celera, who worked independently."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l29-q09",
+          "question": "When was the first genome database for genome sequences developed and what was its focus?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The first genome database, AceDB, was developed in 1989."
+            },
+            {
+              "type": "paragraph",
+              "text": "Its focus was on genome sequences, specifically for AC. elegans."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 30,
+      "lessonId": "lesson-30",
+      "title": "Module 98: Gene expression data bases Text (9:00)",
+      "shortQuestions": [
+        {
+          "id": "l30-q01",
+          "question": "Define Gene Expression Data as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Gene Expression Data refers to the data obtained from mRNA sequences, which represent gene expression. This data is typically generated using techniques such as microarray and RNAseq."
+            }
+          ]
+        },
+        {
+          "id": "l30-q02",
+          "question": "List the main techniques mentioned for obtaining gene expression data.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Microarray",
+                "RNAseq (expression profiling by high throughput sequencing)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l30-q03",
+          "question": "Briefly explain the purpose of the Gene Expression Omnibus (GEO).",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "GEO is a curated public repository for the deposition, archiving, and distribution of gene expression data. It allows browsing, querying, analysis, and retrieval of gene expression datasets."
+            }
+          ]
+        },
+        {
+          "id": "l30-q04",
+          "question": "Outline the types of datasets available in GEO as mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Series (collections of related gene expression data)",
+                "Platform records",
+                "Sample records"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l30-q05",
+          "question": "What is the significance of the Series ID in GEO datasets?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Each dataset in GEO is submitted as a Series with a unique ID number (e.g., GSE57043) which identifies the dataset and provides information about the experiment, organism, experiment type, contributors, and publications."
+            }
+          ]
+        },
+        {
+          "id": "l30-q06",
+          "question": "Describe the tool GEO2R mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "GEO2R is a tool available within GEO that can be used for analyzing gene expression data. It also supports the use of BLAST for sequence comparison."
+            }
+          ]
+        },
+        {
+          "id": "l30-q07",
+          "question": "Distinguish between microarray data and RNAseq data as per the lesson context.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Microarray data is generated using microarray techniques, while RNAseq data is generated using high throughput sequencing methods. Both types are classified as gene expression data but RNAseq is a more recently established technique."
+            }
+          ]
+        },
+        {
+          "id": "l30-q08",
+          "question": "Explain how one can search for datasets in GEO.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Users can search for datasets in GEO by typing keywords into the search bar, for example, 'colon cancer RNAseq data', which returns relevant records that can be explored further."
+            }
+          ]
+        },
+        {
+          "id": "l30-q09",
+          "question": "What information can be found on a GEO dataset page?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Experiment details",
+                "Organism source",
+                "Type of experiment",
+                "Summary of the experiment",
+                "Contributors' names",
+                "Publications",
+                "Contributors' addresses"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l30-q10",
+          "question": "Summarize the conclusion about GEO given in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "GEO is a public repository for archiving and distributing gene expression data and is considered the best resource to obtain microarray and Next Generation Sequencing (RNASeq) data."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 31,
+      "lessonId": "lesson-31",
+      "title": "Module 99: Medical database Text (9:00)",
+      "shortQuestions": [
+        {
+          "id": "l31-q01",
+          "question": "Define health informatics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Health informatics is the field that deals with the resources, devices, and methods required in optimizing the acquisition, storage, retrieval, and use of information in health and biomedicine."
+            }
+          ]
+        },
+        {
+          "id": "l31-q02",
+          "question": "List the medical databases mentioned in the lesson besides MEDLINE.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "AcademicOneFile",
+                "CINAHL (Cumulated Index of Nursing and Allied Health Literature)",
+                "PsycINFO",
+                "Web of Knowledge"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l31-q03",
+          "question": "Briefly explain what PUBMED comprises.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "PUBMED comprises more than 24 million citations for biomedical literature from MEDLINE, life science journals, and online books. It may include links to full-text content from PubMed Central and publisher web sites."
+            }
+          ]
+        },
+        {
+          "id": "l31-q04",
+          "question": "What is MEDLINE and what is its primary use?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "MEDLINE is the primary resource for biomedical journal articles and contains millions of citations to articles in biomedical journals."
+            }
+          ]
+        },
+        {
+          "id": "l31-q05",
+          "question": "Outline the focus of Academic OneFile in relation to medical data.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Academic OneFile lists articles from journals covering a broad range of subjects and does not primarily focus on medical topics, but useful medical-related articles can still be found in this database."
+            }
+          ]
+        },
+        {
+          "id": "l31-q06",
+          "question": "What type of literature does the CINAHL database provide?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "CINAHL (Cumulated Index of Nursing and Allied Health Literature) provides health literature related to nursing and allied health."
+            }
+          ]
+        },
+        {
+          "id": "l31-q07",
+          "question": "Describe the PsycINFO database and its relation to medical literature.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "PsycINFO operates under the American Psychological Association (APA) and searches psychological literature. While it does not primarily focus on medical topics, useful articles related to medical literature can still be found there."
+            }
+          ]
+        },
+        {
+          "id": "l31-q08",
+          "question": "What is the scope of the Web of Science database?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Web of Science is a major source for articles across a wide range of fields including sciences, social sciences, and humanities, and it is an outstanding place to find scientific journal articles that may not be included in MEDLINE."
+            }
+          ]
+        },
+        {
+          "id": "l31-q09",
+          "question": "Outline the two main conclusions stated at the end of the lesson.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Informatics in health care may be called health informatics.",
+                "Medical databases deal with the acquisition, storage, retrieval, and use of information in health and biomedicine."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 32,
+      "lessonId": "lesson-32",
+      "title": "Module 100: Sequence Submission",
+      "shortQuestions": [
+        {
+          "id": "l32-q01",
+          "question": "Define the purpose of sequence submission to databases.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Sequences are submitted to databases to share them with the scientific community and sometimes to fulfill requirements of publication and funding agencies."
+            }
+          ]
+        },
+        {
+          "id": "l32-q02",
+          "question": "List the standard codes established by the International Union of Biochemistry (IUB) for ambiguous nucleotide bases.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "R: A or G (puRines)",
+                "Y: C or T (pYrimidines)",
+                "M: bases with amino group",
+                "K: bases with keto group (G or T)",
+                "S: strong interactions (C and G)",
+                "W: weak interactions (A or T)",
+                "H: A, C or T (everything except G)",
+                "B, V, D: similar ambiguous codes",
+                "N: any base"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l32-q03",
+          "question": "Briefly explain the difference between BANKIt and Sequin tools for sequence submission at NCBI.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "BANKIt: For simple sequences and annotations, suitable for small datasets, web-based, no advanced tools required.",
+                "Sequin: For complex sequences and annotations, suitable for large datasets, supports offline submission, includes advanced tools and graphical reports."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l32-q04",
+          "question": "Outline the main features of the UniProt SPIN tool.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "SPIN is a web-based tool for submitting directly sequenced protein sequences and biological annotations to the UniProt knowledgebase."
+            }
+          ]
+        },
+        {
+          "id": "l32-q05",
+          "question": "What is the significance of the 'greater than' sign (>) in FASTA sequence format?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In FASTA format, the sequence starts with a 'greater than' sign (>) which indicates the header line, followed by the actual sequence on the next line."
+            }
+          ]
+        },
+        {
+          "id": "l32-q06",
+          "question": "Distinguish between GenBank and EMBL sequence formats.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "GenBank format starts with 'LOCUS' line and sequences start after 'ORIGIN' line, ending with double slashes (//).",
+                "EMBL format includes identifiers like ID, AC, DE and sequence starts after 'SQ' line, also ending with double slashes (//).",
+                "Both formats are similar but have different annotation line styles."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l32-q07",
+          "question": "List the main components of the SwissProt protein sequence format.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "ID - Identification",
+                "AC - Accession number(s)",
+                "DT - Date",
+                "DE - Description",
+                "GN - Gene name(s)",
+                "OS - Organism species",
+                "OG - Organelle",
+                "OC - Organism classification",
+                "RN - Reference number",
+                "RP - Reference position",
+                "RC - Reference comments",
+                "RX - Reference cross-references",
+                "RA - Reference authors",
+                "RL - Reference location",
+                "CC - Comments or notes",
+                "DR - Database cross-references",
+                "KW - Keywords",
+                "FT - Feature table data",
+                "SQ - Sequence header",
+                "// - Termination line"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l32-q08",
+          "question": "Explain the role of the ENTREZ system at NCBI.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "ENTREZ is an integrated search engine at NCBI that allows searching across multiple databases including nucleotide, protein, literature, genome, and taxonomy databases."
+            }
+          ]
+        },
+        {
+          "id": "l32-q09",
+          "question": "What is the purpose of FTP clients in bulk data retrieval?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "FTP clients are used to transfer large amounts of biological data files over the internet, enabling users to download databases for local analysis."
+            }
+          ]
+        },
+        {
+          "id": "l32-q10",
+          "question": "Outline the main aims of proteomics as described in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Study of post-translational modifications",
+                "Identification of novel protein targets for drugs",
+                "Analysis of tumor tissues",
+                "Comparison between normal and diseased tissues",
+                "Comparison between diseased and pharmacologically treated tissues"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l32-q11",
+          "question": "Define the central dogma of molecular biology.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The central dogma states that information flows from DNA to RNA to protein, where DNA serves as a template for RNA synthesis (transcription), and RNA serves as a template for protein synthesis (translation)."
+            }
+          ]
+        },
+        {
+          "id": "l32-q12",
+          "question": "List the three types of RNA involved in protein synthesis.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "mRNA (Messenger RNA): made directly from DNA and travels to ribosome",
+                "rRNA (Ribosomal RNA): forms ribosomes in cytoplasm",
+                "tRNA (Transfer RNA): brings amino acids to ribosome for protein synthesis"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l32-q13",
+          "question": "Briefly explain the difference between expression, structural, and functional proteomics.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Expression proteomics studies qualitative and quantitative protein expression under different conditions.",
+                "Structural proteomics studies 3D shapes and structural complexities of proteins.",
+                "Functional proteomics studies protein functions and molecular mechanisms including protein-protein interactions."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l32-q14",
+          "question": "What are the main limitations of genomics that proteomics addresses?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Co-translational modifications",
+                "Differential mRNA splicing",
+                "Post-translational modifications such as phosphorylation, glycosylation, methylation, etc."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 33,
+      "lessonId": "lesson-33",
+      "title": "Module151: Lesson-2- Special topics in bioinformatics",
+      "shortQuestions": [
+        {
+          "id": "l33-q01",
+          "question": "Define next generation sequencing (NGS).",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "**Next generation sequencing (NGS)**, also known as high throughput sequencing, is a technology that has the capacity to sequence full genomes."
+            }
+          ]
+        },
+        {
+          "id": "l33-q02",
+          "question": "List the sequencing technologies included under next generation sequencing.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Roche’s 454 GS FLX",
+                "Illumina’s Solexa Technology",
+                "ABI’s SOLiD Technology",
+                "Ion Torrent Technology"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l33-q03",
+          "question": "Outline the special topics covered in this lesson related to bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Sequencing Techniques",
+                "Alignment",
+                "Assembly",
+                "Gene Regulation",
+                "Gene Annotation",
+                "Tools for Next Generation Sequencing",
+                "Linux as an operating system",
+                "Python for Bioinformatics",
+                "Biopython",
+                "R for Bioinformatics",
+                "Metagenomics",
+                "Advanced techniques in Bioinformatics",
+                "Recent Techniques In Sequencing"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l33-q04",
+          "question": "Briefly explain the role of Linux and Python in bioinformatics as mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Linux is mentioned as an operating system used in bioinformatics, while Python is highlighted as a programming language for bioinformatics applications, including the use of Biopython."
+            }
+          ]
+        },
+        {
+          "id": "l33-q05",
+          "question": "Distinguish between sequencing techniques and tools for next generation sequencing as per the lesson content.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Sequencing techniques refer to the various methods used to determine the sequence of nucleotides in DNA or RNA, such as alignment and assembly. Tools for next generation sequencing refer to the specific technologies and software used to perform high throughput sequencing, including platforms like Roche’s 454 GS FLX and Illumina’s Solexa Technology."
+            }
+          ]
+        },
+        {
+          "id": "l33-q06",
+          "question": "List the programming languages mentioned in the lesson that are used for bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Python",
+                "R"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 34,
+      "lessonId": "lesson-34",
+      "title": "Module152:Lesson-3 Next Generation Techniques",
+      "shortQuestions": [
+        {
+          "id": "l34-q01",
+          "question": "Define sequencing in the context of bioinformatics.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Sequencing is the process to determine the precise order of nucleotides or amino acids in DNA or RNA molecule respectively."
+            }
+          ]
+        },
+        {
+          "id": "l34-q02",
+          "question": "List the three types of sequencing mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "DNA Sequencing",
+                "RNA Sequencing",
+                "Single molecule detection/sequencing"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l34-q03",
+          "question": "Briefly explain the early sequencing technique developed by Richard Holley.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Early sequencing was performed with transfer RNA (tRNA) via a technique developed by Richard Holley, published in 1964."
+            },
+            {
+              "type": "paragraph",
+              "text": "The technique involves breaking down the RNA molecule and then baffling the fragments back together."
+            },
+            {
+              "type": "paragraph",
+              "text": "This technique is time consuming due to the large molecular size."
+            }
+          ]
+        },
+        {
+          "id": "l34-q04",
+          "question": "Outline the contribution of Fredrick Sanger to sequencing.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "In 1975, Sanger developed the “plus and minus method” based on the principle of chain termination during polymerization and sequenced a complete genome of φX 174 bacteriophage.",
+                "In 1988, he proposed a method that allowed sequencing of up to 50 nucleotides in length.",
+                "The method uses ddNTPs to terminate chain elongation, and the position of ddNTP insertion can be determined using gel separation."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l34-q05",
+          "question": "List the three innovations that greatly expedited the sequencing process.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Shot-gun sequencing",
+                "PCR (Polymerization Chain Reaction)",
+                "Automation of sequencing"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l34-q06",
+          "question": "Distinguish between the early sequencing method and the method developed by Sanger.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Aspect",
+                "Early Sequencing (Richard Holley)",
+                "Sanger Method"
+              ],
+              "rows": [
+                [
+                  "Molecule targeted",
+                  "Transfer RNA (tRNA)",
+                  "DNA (φX 174 bacteriophage genome)"
+                ],
+                [
+                  "Technique",
+                  "Breaking down RNA and reassembling fragments",
+                  "Chain termination using ddNTPs"
+                ],
+                [
+                  "Time efficiency",
+                  "Time consuming due to large molecular size",
+                  "Faster and allowed sequencing up to 50 nucleotides"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 35,
+      "lessonId": "lesson-35",
+      "title": "Module153: Lesson-4 Current and Emerging Sequencing Techniques",
+      "shortQuestions": [
+        {
+          "id": "l35-q01",
+          "question": "Define Sequencing By Hybridization (SBH).",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Sequencing By Hybridization (SBH) is a technique where an array contains all possible oligonucleotide sequences of a given length, and DNA of unknown sequence is incubated with the array to allow hybridization wherever there is complementation to a portion of the target sequence."
+            }
+          ]
+        },
+        {
+          "id": "l35-q02",
+          "question": "List the main steps involved in the Sequencing By Hybridization (SBH) process.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "The array contains all possible oligonucleotide sequences of a given length.",
+                "DNA of unknown sequence is incubated with the array.",
+                "The target hybridizes to the array wherever there is complementation to a portion of the target.",
+                "Hybridization of oligos is detected by fluorescence.",
+                "The probes are organized by overlaps with one another to reconstruct the target sequence."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l35-q03",
+          "question": "Outline the limitations of Sequencing By Hybridization (SBH).",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Difficult to reconstruct long sequences.",
+                "Very large libraries are required.",
+                "The normal approach to SBH is sensitive to errors."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l35-q04",
+          "question": "Briefly explain the latest improvements in Sequencing By Hybridization (SBH).",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The latest improvements in SBH include the use of universal bases instead of normal oligonucleotides, which act as spacers making consecutive probes less dependent on one another. This enhancement reduces sensitivity to errors and eliminates the need for larger libraries."
+            }
+          ]
+        },
+        {
+          "id": "l35-q05",
+          "question": "Distinguish between normal oligonucleotides and universal bases in the context of SBH.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Normal oligonucleotides are specific sequences used as probes that require large libraries and are sensitive to errors.",
+                "Universal bases act as spacers, making consecutive probes less dependent on each other, reducing error sensitivity and removing the need for larger libraries."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l35-q06",
+          "question": "How is hybridization detected in Sequencing By Hybridization (SBH)?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Hybridization of oligonucleotides to the array is detected by fluorescence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 36,
+      "lessonId": "lesson-36",
+      "title": "Module154: Lesson-5 Nanopore Sequencing",
+      "shortQuestions": [
+        {
+          "id": "l36-q01",
+          "question": "Define nanopore sequencing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Nanopore sequencing determines the sequence of DNA fragments by passing DNA through a protein (or other) pore in a membrane."
+            }
+          ]
+        },
+        {
+          "id": "l36-q02",
+          "question": "List three key features of nanopore sequencing technology.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Sequencer size is small.",
+                "Read length averages between 10,000 bp to 15,000 bp.",
+                "Potential for direct RNA sequencing."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l36-q03",
+          "question": "Briefly explain the data velocity issue associated with nanopore sequencing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Nanopore sequencing generates approximately 400GB of data every 24 hours, which needs to be processed efficiently."
+            }
+          ]
+        },
+        {
+          "id": "l36-q04",
+          "question": "Outline the process of how base pairs are identified in nanopore sequencing.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "DNA passes through a nanopore at a rate of about 50 base pairs per second (250-400 with new R9 pore).",
+                "The signal is segmented into individual events representing base pairs.",
+                "Each event is analyzed to determine which base it corresponds to."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l36-q05",
+          "question": "Who was the first company to provide a commercially available nanopore sequencer and when?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Oxford Nanopore was the first company to provide a commercially available nanopore sequencer in 2015, with availability to the community starting in 2012."
+            }
+          ]
+        },
+        {
+          "id": "l36-q06",
+          "question": "Distinguish nanopore sequencing as a disruptive technology by listing its disruptive aspects mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Small sequencer size.",
+                "Long read lengths (10,000 bp to 15,000 bp average).",
+                "Potential for direct RNA sequencing.",
+                "Biology problem with data velocity issues."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 37,
+      "lessonId": "lesson-37",
+      "title": "Module155:Lesson-6 Sequencing-By-Synthesis (SBS)",
+      "shortQuestions": [
+        {
+          "id": "l37-q01",
+          "question": "Define Sequencing-by-Synthesis (SBS) in the context of Next Generation Sequencing (NGS).",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "**Sequencing-by-Synthesis (SBS)** is a method used in Next Generation Sequencing (NGS) where a huge number of short length DNA fragments are sequenced in parallel during a single run by synthesizing complementary strands and detecting the incorporated nucleotides."
+            }
+          ]
+        },
+        {
+          "id": "l37-q02",
+          "question": "List the main steps involved in the preparation of DNA fragments for sequencing in SBS.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Cleavage of the input DNA sample into short fragments of 100-150 base pairs.",
+                "Ligation of generic adaptors to the fragments.",
+                "Annealing of fragments to a slide via the adaptors.",
+                "PCR amplification of each read to create spots with many copies of the same read.",
+                "Separation of sequences into single strands for sequencing."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l37-q03",
+          "question": "Briefly explain the role of fluorescently labeled nucleotides and terminators in SBS.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In SBS, nucleotides are fluorescently labeled with colors corresponding to their bases, allowing detection of the incorporated base by fluorescence. Terminators are used to ensure that only one nucleotide is added at a time during each cycle, preventing multiple incorporations."
+            }
+          ]
+        },
+        {
+          "id": "l37-q04",
+          "question": "Outline the cycle process of nucleotide addition and imaging in SBS.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "A single nucleotide with a fluorescent label and terminator is added to the DNA strand.",
+                "The slide is imaged to detect the fluorescent signal indicating the added base at each location.",
+                "Terminators and fluorescent signals are removed to prepare for the next cycle.",
+                "The process repeats to add one nucleotide at a time and capture images side by side."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l37-q05",
+          "question": "List the advantages of Sequencing-by-Synthesis (SBS) as mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Allows parallel sequencing of many DNA fragments.",
+                "Use of photons for detection requires no additional chemical reagents.",
+                "Produces clean products with no need for subsequent purification."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l37-q06",
+          "question": "Distinguish the role of PCR amplification in the SBS process.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "PCR amplification in SBS creates multiple copies of each DNA fragment at a specific spot on the slide, increasing the signal strength for sequencing by generating many identical copies of the same read."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 38,
+      "lessonId": "lesson-38",
+      "title": "Module156: Lesson-7a- Other Sequencing techniques",
+      "shortQuestions": [
+        {
+          "id": "l38-q01",
+          "question": "Define pyrosequencing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Pyrosequencing is a non-Sanger, nonfluorescence sequencing technique that quantitatively measures released pyrophosphate (PPi) during DNA synthesis."
+            }
+          ]
+        },
+        {
+          "id": "l38-q02",
+          "question": "What does a pyrogram correspond to in pyrosequencing?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "In pyrosequencing, a pyrogram corresponds to the complementary base incorporated during the sequencing reaction."
+            }
+          ]
+        },
+        {
+          "id": "l38-q03",
+          "question": "List the applications and advantages of pyrosequencing.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "SNP (Single Nucleotide Polymorphism) analysis",
+                "Ideal for rapidly mutating organisms",
+                "Quantifications provide additional data"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l38-q04",
+          "question": "Explain the role of deoxyadenosine alfa-thio triphosphate (dATPαS) in pyrosequencing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "dATPαS is used as a substitute for the natural deoxyadenosine triphosphate (dATP) because it is efficiently used by DNA polymerase but is not recognized by luciferase, preventing interference in the pyrosequencing detection."
+            }
+          ]
+        },
+        {
+          "id": "l38-q05",
+          "question": "Outline the limitations of pyrosequencing.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Short sequence reads",
+                "Problems with homopolymer repeats"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l38-q06",
+          "question": "Briefly explain what Single-nucleotide addition (SNA) refers to in the context of sequencing techniques.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Single-nucleotide addition (SNA) is a sequencing technique mentioned alongside pyrosequencing, implying the addition of one nucleotide at a time during the sequencing process."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 39,
+      "lessonId": "lesson-39",
+      "title": "Module157: Lesson-7b- Other Sequencing techniques",
+      "shortQuestions": [
+        {
+          "id": "l39-q01",
+          "question": "Define Polony technology.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Polony technology refers to the amplified product from a single DNA molecule in acrylamide gel."
+            }
+          ]
+        },
+        {
+          "id": "l39-q02",
+          "question": "What is the principle behind sequencing in Bioinformatics (BIF101) as described in the lesson?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Sequencing is done by the incorporation of cleavable fluorescent labeled nucleotides."
+            }
+          ]
+        },
+        {
+          "id": "l39-q03",
+          "question": "List two advantages and disadvantages of the sequencing method introduced in Bioinformatics (BIF101).",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Advantages",
+                "Disadvantages"
+              ],
+              "rows": [
+                [
+                  "Scalability is easy by using 1μm magnetic beads",
+                  "Failure in cleaving dye moiety"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l39-q04",
+          "question": "Briefly explain the advantage of using 1μm magnetic beads in sequencing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Using 1μm magnetic beads makes scalability easy in the sequencing process."
+            }
+          ]
+        },
+        {
+          "id": "l39-q05",
+          "question": "Outline the disadvantage related to the dye moiety in the sequencing technique discussed.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The sequencing technique faces failure in cleaving the dye moiety."
+            }
+          ]
+        },
+        {
+          "id": "l39-q06",
+          "question": "Distinguish between Polony technology and the sequencing method introduced in Bioinformatics (BIF101).",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Polony technology involves amplification of a single DNA molecule in acrylamide gel.",
+                "The Bioinformatics (BIF101) method sequences by incorporating cleavable fluorescent labeled nucleotides."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 40,
+      "lessonId": "lesson-40",
+      "title": "Module158: Lesson-7c- Other Sequencing techniques",
+      "shortQuestions": [
+        {
+          "id": "l40-q01",
+          "question": "Define Comparative genome sequencing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Comparative genome sequencing is a technique where test DNA is hybridized with reference DNA to identify regions of genomic differences. These different regions are then sequenced to identify single nucleotide polymorphisms (SNPs)."
+            }
+          ]
+        },
+        {
+          "id": "l40-q02",
+          "question": "List the advantages of Comparative genome sequencing.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Fast sequencing of the regions of interest",
+                "Accurate sequencing of the regions of interest"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l40-q03",
+          "question": "Briefly explain the three steps involved in Cyclic reversible terminator (CRT) sequencing.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Incorporation: The reversible terminator nucleotide is incorporated into the DNA strand.",
+                "Imaging: The incorporated nucleotide is imaged to identify the base added.",
+                "Deprotection: The reversible terminator is cleaved efficiently using photocleaving groups like the 2-nitrobenzyl group to allow the next cycle."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l40-q04",
+          "question": "What is the role of photocleaving groups in CRT sequencing?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Photocleaving groups such as the 2-nitrobenzyl group are used to efficiently cleave the reversible terminator during the deprotection step in CRT sequencing."
+            }
+          ]
+        },
+        {
+          "id": "l40-q05",
+          "question": "Outline the advantages of Cyclic reversible terminator (CRT) sequencing.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Avoids gel electrophoresis",
+                "Functions in a highly parallel fashion",
+                "High throughput",
+                "Speed",
+                "Accuracy"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l40-q06",
+          "question": "Distinguish between Comparative genome sequencing and Cyclic reversible terminator sequencing in terms of their main process focus.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Comparative genome sequencing",
+                "Cyclic reversible terminator sequencing"
+              ],
+              "rows": [
+                [
+                  "Hybridizes test DNA with reference DNA to identify genomic differences",
+                  "Incorporates reversible terminator nucleotides followed by imaging and deprotection"
+                ],
+                [
+                  "Focuses on identifying regions of genomic differences and SNPs",
+                  "Focuses on sequencing by synthesis with reversible terminators"
+                ],
+                [
+                  "Used to detect SNPs in different genomic regions",
+                  "Used for high throughput, accurate sequencing without gel electrophoresis"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 41,
+      "lessonId": "lesson-41",
+      "title": "Module159: Lesson-8a-NGS data formats",
+      "shortQuestions": [
+        {
+          "id": "l41-q01",
+          "question": "List the main file formats used in Bioinformatics mentioned in the lesson.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "ASN.1",
+                "EMBL, SwissProt",
+                "FASTA, FASTq",
+                "GCG",
+                "GeneBank",
+                "Phylip/PIR"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l41-q02",
+          "question": "Briefly explain why it is essential to recognize different bioinformatics file formats.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Different software packages usually accept only specific file formats, and different databases hold information in different formats. Therefore, recognizing and interconverting between these formats is an essential skill for analysis."
+            }
+          ]
+        },
+        {
+          "id": "l41-q03",
+          "question": "What is the SRA format and what type of data does it require?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The SRA (Sequence Read Archive) is a \"raw data\" archive that requires per-base quality scores for all submitted data."
+            }
+          ]
+        },
+        {
+          "id": "l41-q04",
+          "question": "Why are FASTA and other sequence-only formats not sufficient for SRA submission?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Because SRA requires per-base quality scores, sequence-only formats like FASTA do not provide this information and thus are not sufficient for submission."
+            }
+          ]
+        },
+        {
+          "id": "l41-q05",
+          "question": "Which file formats does SRA prefer for submission?",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "BAM",
+                "SFF",
+                "HDF5"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l41-q06",
+          "question": "Can FASTA files be submitted to SRA? If yes, under what conditions?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "FASTA files can be submitted as reference sequences for BAM files or as part of a FASTA/QUAL pair, but not as the main raw data submission."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 42,
+      "lessonId": "lesson-42",
+      "title": "Module160: Lesson-8b- NGS data formats",
+      "shortQuestions": [
+        {
+          "id": "l42-q01",
+          "question": "Define BAM files in the context of NGS data formats.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "**BAM files** are binary alignment/map files which are the preferred format for SRA submissions. They are compressed versions of the Sequence Alignment/Map (SAM) format and can be decompressed back to the human-readable SAM text format using specific utilities."
+            }
+          ]
+        },
+        {
+          "id": "l42-q02",
+          "question": "Briefly explain the SAM file format.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "SAM (Sequence Alignment Map) format is a TAB-delimited text format used to store alignment data. It consists of a header section where each line starts with '@' and an alignment body section where each line contains alignment information without '@'."
+            }
+          ]
+        },
+        {
+          "id": "l42-q03",
+          "question": "List the 11 compulsory fields present in each alignment line of a SAM file.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Read ID",
+                "The SAM flag",
+                "Chromosome/contig read aligned to",
+                "Position which read aligned to",
+                "Mapping quality score",
+                "Cigar string",
+                "Chromosome/contig which read pair aligned to",
+                "Position which read pair aligned to",
+                "Insert Size",
+                "Sequence in bases",
+                "Quality score for each base"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l42-q04",
+          "question": "Distinguish between SAM and BAM file formats.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "SAM is a text-based format storing alignment data, while BAM is the binary version of SAM.",
+                "BAM files are compressed and preferred for storage and submission, whereas SAM files are human-readable.",
+                "SAM files can be converted to BAM and vice versa using SAM tools utilities."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l42-q05",
+          "question": "Outline the significance of the SAM flag in a SAM file.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The SAM flag is a compulsory field in the SAM alignment line that contains aligner-specific information used to describe properties of the read and its alignment, such as whether the read is paired, mapped, or a duplicate."
+            }
+          ]
+        },
+        {
+          "id": "l42-q06",
+          "question": "Explain how SAM tools utility is used in relation to SAM and BAM files.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "SAM tools is a utility software that can convert files between SAM (text) and BAM (binary) formats, allowing users to compress or decompress alignment data as needed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 43,
+      "lessonId": "lesson-43",
+      "title": "Module161: Lesson-9- Gene Expression Omnibus (GEO)",
+      "shortQuestions": [
+        {
+          "id": "l43-q01",
+          "question": "Define the Gene Expression Omnibus (GEO).",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The Gene Expression Omnibus (GEO) is a public repository for the archiving and distribution of gene expression data submitted by the scientific community."
+            }
+          ]
+        },
+        {
+          "id": "l43-q02",
+          "question": "List the four kinds of data records in GEO architecture.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Platform (GPL) - the technology used and the features detected",
+                "Sample (GSM) - preparation and description of the sample",
+                "Series (GSE) - defines a set of samples and how they are related",
+                "Datasets (GDS) - sample data collections assembled by GEO staff"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l43-q03",
+          "question": "Briefly explain what MIAME compliance means in the context of GEO.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "MIAME compliance refers to the Minimum Information About a Microarray Experiment, which is a standard ensuring that sufficient information about a microarray experiment is provided for interpretation and reproducibility."
+            }
+          ]
+        },
+        {
+          "id": "l43-q04",
+          "question": "Outline the types of raw data submitters may provide to GEO.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Original microarray scans",
+                "Raw quantification data"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l43-q05",
+          "question": "Distinguish between Platform (GPL) and Sample (GSM) data records in GEO.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Platform (GPL) records describe the technology used and the features detected on a given platform."
+            },
+            {
+              "type": "paragraph",
+              "text": "Sample (GSM) records describe the preparation and details of the biological sample used in the experiment."
+            }
+          ]
+        },
+        {
+          "id": "l43-q06",
+          "question": "Explain how GEO data can be accessed using accession numbers from scientific papers.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "GEO data can be accessed by using accession numbers provided in scientific papers, which often include hyperlinks to the GEO accession page or can be entered manually into the GEO home page query box."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 44,
+      "lessonId": "lesson-44",
+      "title": "Module162: Lesson-10- SRA Files and SRA File Handling & SAM File",
+      "shortQuestions": [
+        {
+          "id": "l44-q01",
+          "question": "Define Sequence Read Archive (SRA) files.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Sequence Read Archive (SRA) files are a common format used by the NCBI, EBI, and others for storing reads and read alignments. They provide good compression and data accessibility but often require transformation for visualization and analytical processing."
+            }
+          ]
+        },
+        {
+          "id": "l44-q02",
+          "question": "List the goals of the SRA data submission guide.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Specify which data formats are currently supported by SRA.",
+                "Enable submitters to validate and convert data prior to submission to avoid unnecessary data transfers.",
+                "Improve the speed of submission processing.",
+                "Reduce the probability of failed submissions.",
+                "Improve other services provided by SRA by freeing up time previously spent to correct and transform data."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l44-q03",
+          "question": "Explain why FASTA format alone is not sufficient for SRA submissions.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The SRA is a “raw data” archive and requires per-base quality scores for all submitted data. FASTA and other sequence-only formats lack these quality scores and thus are not sufficient for submission. However, FASTA can be submitted as reference sequences for BAM files."
+            }
+          ]
+        },
+        {
+          "id": "l44-q04",
+          "question": "Outline the advantages of using container files in SRA submissions.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "All data for a given library is contained in one file.",
+                "Data are indexed for random access.",
+                "Data are compressed so gzip and other compression utilities are discouraged.",
+                "Data are streamable (can be read from one input handle).",
+                "Data are self-identifying (file type can be interrogated with file)."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l44-q05",
+          "question": "Distinguish between the SRA data model before and after its transition.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Previously, the SRA data model consisted of “dumps” of whole flowcell lanes or production runs. After transition, it became a semi-curated database of sample-specific sequencing libraries."
+            }
+          ]
+        },
+        {
+          "id": "l44-q06",
+          "question": "Briefly explain how to install the SRA toolkit on Linux.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Download the toolkit using wget from the NCBI FTP site.",
+                "Unpack the downloaded tar.gz file using the command: tar -xzf sratoolkit.current-centos_linux64.tar.gz.",
+                "Navigate to the sra-toolkit folder to access executables like fastq-dump."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l44-q07",
+          "question": "List the functions of the following SRA toolkit tools: fastq-dump, sam-dump, and sff-dump.",
+          "answerBlocks": [
+            {
+              "type": "table",
+              "headers": [
+                "Tool",
+                "Function"
+              ],
+              "rows": [
+                [
+                  "fastq-dump",
+                  "Converts data to FASTq and FASTA format."
+                ],
+                [
+                  "sam-dump",
+                  "Converts data to SAM (human-readable BAM). Aligned BAM data output as aligned SAM; others as unaligned SAM."
+                ],
+                [
+                  "sff-dump",
+                  "Converts data to SFF format; only data submitted as SFF can be converted back."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l44-q08",
+          "question": "What additional information do SRA container files include besides the sequencing data?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "SRA container files include run-time configuration and execution parameters such as run date, instrument name, flow cell name, processing program, and version."
+            }
+          ]
+        },
+        {
+          "id": "l44-q09",
+          "question": "Explain the purpose of the vdb-dump tool in the SRA toolkit.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "The vdb-dump tool exports the vdb-formatted data of the .sra file."
+            }
+          ]
+        },
+        {
+          "id": "l44-q10",
+          "question": "Outline the steps to run fastq-dump on Linux to extract 5 reads from an SRA file.",
+          "answerBlocks": [
+            {
+              "type": "orderedList",
+              "items": [
+                "Open a terminal and change directory to the folder containing the SRA toolkit executables.",
+                "Run the command: ./fastq-dump -X 5 -Z SRR390728 to extract 5 reads."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lessonNumber": 45,
+      "lessonId": "lesson-45",
+      "title": "Module163: Lesson-11-Important Terminologies in NGS analysis-copy",
+      "shortQuestions": [
+        {
+          "id": "l45-q01",
+          "question": "Define the term 'Template' in NGS analysis.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A Template is a DNA/RNA sequence part of which is sequenced on a sequencing machine or assembled from raw sequences."
+            }
+          ]
+        },
+        {
+          "id": "l45-q02",
+          "question": "What is a 'Segment' in the context of NGS data?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A Segment is a contiguous sequence or subsequence."
+            }
+          ]
+        },
+        {
+          "id": "l45-q03",
+          "question": "Briefly explain what a 'Read' is in NGS sequencing.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "A Read is a raw sequence that comes off a sequencing machine. It may consist of multiple segments and is indexed by the order in which it is sequenced."
+            },
+            {
+              "type": "bulletList",
+              "items": [
+                "Range of a read varies from 90 bp to 180 bp and can be up to 1000 bp depending on the sequencing machine used."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l45-q04",
+          "question": "Distinguish between 'Chimeric alignment' and 'Read alignment'.",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Chimeric alignment is an alignment of a read that cannot be represented as a linear alignment and is represented as a set of linear alignments without large overlaps."
+            },
+            {
+              "type": "paragraph",
+              "text": "Read alignment refers to either a linear alignment or a chimeric alignment that completely represents the alignment of the read."
+            }
+          ]
+        },
+        {
+          "id": "l45-q05",
+          "question": "What is meant by 'Multiple mapping' in NGS read alignment?",
+          "answerBlocks": [
+            {
+              "type": "paragraph",
+              "text": "Multiple mapping occurs when the correct placement of a read is ambiguous, often due to repeats, resulting in multiple read alignments for the same read."
+            },
+            {
+              "type": "paragraph",
+              "text": "One alignment is considered primary, while others have the secondary alignment flag set."
+            }
+          ]
+        },
+        {
+          "id": "l45-q06",
+          "question": "List the flags used in SAM records to distinguish different types of alignments in chimeric and multiple mapping cases.",
+          "answerBlocks": [
+            {
+              "type": "bulletList",
+              "items": [
+                "Supplementary alignment flag: used to distinguish supplementary alignments in chimeric alignment.",
+                "Secondary alignment flag: used for alignments other than the primary in multiple mapping.",
+                "Flags 0x40 and 0x80: same values for all SAM records with the same QNAME in chimeric and multiple mapping alignments."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
