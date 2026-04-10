@@ -5,6 +5,7 @@
  * - Put one or more .html files in script/input/
  * - Or pass a specific file: node scripts/generate.mjs path/to/file.html
  * - --sync copies each JSON to short-questions/vistuallization/public/courses/ and updates index.json
+ * - --skip-existing skips HTML files whose output JSON already exists
  *
  * Env: OPENAI_API_KEY, OPENAI_MODEL, OPENAI_API_MODE=chat, COURSE_CODE, COURSE_TITLE
  */
@@ -19,7 +20,10 @@ import { listHtmlFiles, syncToViz, workspaceRoot } from '../lib/syncViz.mjs';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const scriptRoot = path.join(__dirname, '..');
 const repoRoot = workspaceRoot();
-dotenv.config({ path: path.join(repoRoot, '.env'), quiet: true });
+const rootEnvPath = path.join(repoRoot, '.env');
+const scriptEnvPath = path.join(scriptRoot, '.env');
+dotenv.config({ path: rootEnvPath, quiet: true });
+dotenv.config({ path: scriptEnvPath, quiet: true, override: false });
 
 const inputDir = path.join(scriptRoot, 'input');
 const outDir = path.join(scriptRoot, 'output');
@@ -162,6 +166,7 @@ async function processOneHtml(htmlPath, opts) {
     model,
     client,
     doSync,
+    skipExisting,
   } = opts;
 
   if (!fs.existsSync(htmlPath)) {
@@ -181,6 +186,12 @@ async function processOneHtml(htmlPath, opts) {
   const baseName = path.basename(htmlPath, '.html');
   const outFile = path.join(outDir, `${baseName}-short-questions.json`);
   const sourceFile = path.relative(repoRoot, htmlPath).replace(/\\/g, '/');
+
+  if (skipExisting && fs.existsSync(outFile)) {
+    console.log(`\n── ${baseName}.html → ${path.basename(outFile)} ──`);
+    console.log('  Skipped (output already exists)');
+    return;
+  }
 
   console.log(`\n── ${baseName}.html → ${path.basename(outFile)} (${lessons.length} lectures) ──`);
 
@@ -224,6 +235,8 @@ async function main() {
   const dry = process.argv.includes('--dry-run');
   const useMock = process.argv.includes('--mock');
   const doSync = process.argv.includes('--sync');
+  const skipExisting =
+    process.argv.includes('--skip-existing') || process.argv.includes('--skip');
   const lessonFilter = argLesson();
 
   const htmlFiles = resolveHtmlFiles();
@@ -245,7 +258,12 @@ async function main() {
   if (!dry && !useMock) {
     const key = process.env.OPENAI_API_KEY;
     if (!key) {
-      console.error('Missing OPENAI_API_KEY in .env at workspace root:', repoRoot);
+      console.error(
+        'Missing OPENAI_API_KEY. Add it to one of these files:\n ',
+        rootEnvPath,
+        '\n ',
+        scriptEnvPath
+      );
       process.exit(1);
     }
     client = new OpenAI({ apiKey: key });
@@ -263,6 +281,7 @@ async function main() {
       model,
       client,
       doSync,
+      skipExisting,
     });
   }
 }

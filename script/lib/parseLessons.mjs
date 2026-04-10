@@ -39,6 +39,148 @@ export function parseLessonsFromHtml(htmlPath) {
     });
   });
 
+  if (!lessons.length) {
+    const fromLessonHeadings = parseHeadingBasedLessons($);
+    if (fromLessonHeadings.length) return fromLessonHeadings;
+
+    const fromModuleTopicHeadings = parseModuleTopicHeadings($);
+    if (fromModuleTopicHeadings.length) return fromModuleTopicHeadings;
+
+    return parsePageBreakLessons($);
+  }
+
+  return lessons;
+}
+
+function parseHeadingBasedLessons($) {
+  const lessons = [];
+  const starts = $('h3')
+    .toArray()
+    .filter((el) => /lesson\s*\d+/i.test($(el).text().trim()));
+
+  for (let i = 0; i < starts.length; i += 1) {
+    const start = starts[i];
+    const $start = $(start);
+    const headingText = $start.text().trim();
+    const numMatch = headingText.match(/(\d+)/);
+    const lessonNumber = numMatch ? parseInt(numMatch[1], 10) : i + 1;
+    const lessonId = `lesson-${String(lessonNumber).padStart(2, '0')}`;
+
+    const $container = $('<section></section>');
+    let node = $start.next();
+
+    while (node.length) {
+      if (node.is('h3') && /lesson\s*\d+/i.test(node.text().trim())) break;
+      $container.append(node.clone());
+      node = node.next();
+    }
+
+    const titleEl = $container.find('h2').first();
+    const title = titleEl.text().trim() || `Lesson ${lessonNumber}`;
+    titleEl.remove();
+    $container.find('.lecture-media, .lesson-nav, .footer-note, .page-break, .header-text').remove();
+
+    const plainText = sectionToPlainText($, $container);
+    if (!plainText) continue;
+
+    lessons.push({
+      lessonId,
+      lessonNumber,
+      title,
+      plainText,
+    });
+  }
+
+  return lessons;
+}
+
+function parseModuleTopicHeadings($) {
+  const lessons = [];
+  const markerRegex =
+    /\b(lesson|module|topic)\b\s*[:\-]?\s*\d+/i;
+
+  const starts = $('h1, h2, h3, p.header-text')
+    .toArray()
+    .filter((el) => markerRegex.test($(el).text().replace(/\s+/g, ' ').trim()));
+
+  if (!starts.length) return lessons;
+
+  for (let i = 0; i < starts.length; i += 1) {
+    const start = starts[i];
+    const $start = $(start);
+    const headingText = $start.text().replace(/\s+/g, ' ').trim();
+    const lessonNumber = i + 1;
+    const lessonId = `lesson-${String(lessonNumber).padStart(2, '0')}`;
+
+    const $container = $('<section></section>');
+    let node = $start;
+    while (node.length) {
+      if (
+        node[0] !== start &&
+        node.is('h1, h2, h3, p.header-text') &&
+        markerRegex.test(node.text().replace(/\s+/g, ' ').trim())
+      ) {
+        break;
+      }
+      $container.append(node.clone());
+      node = node.next();
+    }
+
+    $container.find('.lecture-media, .lesson-nav, .footer-note, .page-break, .header-text').remove();
+    const title = headingText || `Lesson ${lessonNumber}`;
+    const plainText = sectionToPlainText($, $container);
+    if (!plainText) continue;
+
+    lessons.push({
+      lessonId,
+      lessonNumber,
+      title,
+      plainText,
+    });
+  }
+
+  return lessons;
+}
+
+function parsePageBreakLessons($) {
+  const lessons = [];
+  const nodes = $('article').first().children().toArray();
+  if (!nodes.length) return lessons;
+
+  let chunk = [];
+  const chunks = [];
+  for (const node of nodes) {
+    if ($(node).hasClass('page-break')) {
+      if (chunk.length) chunks.push(chunk);
+      chunk = [];
+      continue;
+    }
+    chunk.push(node);
+  }
+  if (chunk.length) chunks.push(chunk);
+
+  for (let i = 0; i < chunks.length; i += 1) {
+    const nodesInChunk = chunks[i];
+    const lessonNumber = i + 1;
+    const lessonId = `lesson-${String(lessonNumber).padStart(2, '0')}`;
+    const $container = $('<section></section>');
+    nodesInChunk.forEach((n) => $container.append($(n).clone()));
+
+    $container.find('.lecture-media, .lesson-nav, .footer-note, .page-break, .header-text').remove();
+
+    const titleEl = $container.find('h1, h2, h3').first();
+    const title = titleEl.text().replace(/\s+/g, ' ').trim() || `Lesson ${lessonNumber}`;
+    const plainText = sectionToPlainText($, $container);
+    if (!plainText) continue;
+
+    lessons.push({
+      lessonId,
+      lessonNumber,
+      title,
+      plainText,
+    });
+  }
+
   return lessons;
 }
 

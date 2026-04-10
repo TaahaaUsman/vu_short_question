@@ -7,6 +7,7 @@
     "parse": "node scripts/parseOnly.mjs",
     "generate": "node scripts/generate.mjs",
     "generate:sync": "node scripts/generate.mjs --sync",
+    "generate:skip": "node scripts/generate.mjs --skip-existing",
     "generate:mock": "node scripts/generate.mjs --mock",
     "generate:one": "node scripts/generate.mjs --lesson=1"
   },

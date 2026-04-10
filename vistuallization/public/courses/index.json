@@ -13,6 +13,13 @@
       "title": "Fundamentals of Auditing",
       "subtitle": "Short questions — demo",
       "dataUrl": "/courses/demo-short-questions.json"
+    },
+    {
+      "id": "ACC311_Full_Subject",
+      "code": "ACC311",
+      "title": "Fundamentals of Auditing",
+      "subtitle": "Full Subject",
+      "dataUrl": "/courses/ACC311_Handouts-short-questions.json"
     }
   ]
 }
