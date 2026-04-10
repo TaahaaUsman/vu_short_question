@@ -1,18 +1,25 @@
 {
   "courses": [
     {
-      "id": "acc311-demo",
+      "id": "ACC311 Questions",
       "code": "ACC311",
-      "title": "Fundamentals of Auditing",
+      "title": "FUNDAMENTALS OF AUDITING",
       "subtitle": "Short questions — demo handouts",
-      "dataUrl": "/courses/acc311-demo.json"
+      "dataUrl": "/courses/acc311-demo-short-questions.json"
     },
     {
-      "id": "demo-short-questions",
-      "code": "ACC311",
+      "id": "ACC501 Questions",
+      "code": "ACC501",
       "title": "Fundamentals of Auditing",
       "subtitle": "Short questions — demo",
-      "dataUrl": "/courses/demo-short-questions.json"
+      "dataUrl": "/courses/ACC501_handouts_1_45-short-questions.json"
+    },
+    {
+      "id": "BIF101 Questions",
+      "code": "BIF101",
+      "title": "Fundamentals of Auditing",
+      "subtitle": "Short questions — ACC501_handouts_1_45",
+      "dataUrl": "/courses/BIF101_Handouts_PDF_FULL_BOOK_UPDATED_2022_BY_STUDENT_INFO_5-short-questions.json"
     }
   ]
 }
